@@ -53,11 +53,11 @@ private:
 		}
 		int a, b;
 		if (n > threshold){
-            #pragma omp task shared(a)
+			#pragma omp task shared(a)
 			a = F(n - 1, threshold);
-            #pragma omp task shared(b)
+			#pragma omp task shared(b)
 			b = F(n - 2, threshold);
-            #pragma omp taskwait
+			#pragma omp taskwait
 		}
 		else{
 			a = F(n - 1, threshold);
@@ -73,8 +73,8 @@ public:
 	}
 	int get(int n){
 		int result;
-        #pragma omp parallel shared(result)
-        #pragma omp single
+		#pragma omp parallel shared(result)
+		#pragma omp single
 		result = F(n, n - minWithoutParallel);
 		return result;
 	}
