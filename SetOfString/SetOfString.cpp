@@ -61,7 +61,11 @@ public:
         T[s]++;
     }
     int getNumberString(const string& s){
-        return T[s];
+        auto t = T.find(s);
+        if(t == T.end()){
+            return 0;
+        }
+        return t->second;
     }
 };
 
@@ -260,7 +264,7 @@ int main(){
     srand(time(0));
     omp_set_nested(true);
 
-    Test test = generatorRandomTest(10000, 3, 1000, 1000000);
-    compareSolutions({new StlSet(), new Trie(3, 1000 * 10000 + 5)}, {0, 1}, test);
+    Test test = generatorRandomTest(100, 20, 100, 10000000);
+    compareSolutions({new StlSet(), new Trie(20, 100 * 100 + 5)}, {0, 1}, test);
 
 }
