@@ -24,7 +24,9 @@ string toString(T temp){
 }
 
 struct Timer{
+private:
 	double startTime;
+public:
 	Timer(){
 		startTime = getCurTime();
 	}
@@ -32,7 +34,7 @@ struct Timer{
 	void setStartTime(double time){
 		startTime = time;
 	}
-	double getTime(){
+	double getTime() const {
 		return getCurTime() - startTime;
 	}
 };

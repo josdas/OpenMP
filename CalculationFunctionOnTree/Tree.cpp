@@ -25,7 +25,9 @@ string toString(T temp){
 }
 
 struct Timer{
+private:
 	double startTime;
+public:
 	Timer(){
 		startTime = getCurTime();
 	}
@@ -33,7 +35,7 @@ struct Timer{
 	void setStartTime(double time){
 		startTime = time;
 	}
-	double getTime(){
+	double getTime() const {
 		return getCurTime() - startTime;
 	}
 };
@@ -206,7 +208,7 @@ void genTestCompRandomBinaryTree(int maxLog){
 	}
 }
 int main(){
-	freopen("compare_slow_fast_full_random_tree.txt", "w", stdout);
+	//freopen("compare_slow_fast_full_random_tree.txt", "w", stdout);
 	srand(time(0));
 	omp_set_nested(true);
 	genTestCompRandomBinaryTree(27);
