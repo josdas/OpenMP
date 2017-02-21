@@ -77,11 +77,16 @@ private:
     vector<int> numberString;
     vector<omp_lock_t> lock;
     int createNewVertex(){
-        nextVertex.push_back(vector<int>(alphabet));
-        numberString.push_back(0);
-        lock.push_back(omp_lock_t());
-        omp_init_lock(&lock.back());
-        return (int)nextVertex.size() - 1;
+        int result;
+        #pragma omp critical
+        {
+            nextVertex.push_back(vector<int>(alphabet));
+            numberString.push_back(0);
+            lock.push_back(omp_lock_t());
+            omp_init_lock(&lock.back());
+            result = (int)nextVertex.size() - 1;
+        }
+        return result;
     }
     int getVertex(int v, char next){
         int nextSymbol = next - 'a';
@@ -101,6 +106,7 @@ public:
         return str;
     }
     void addString(const string& s){
+        cerr <<
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
             omp_set_lock(&lock[curVertex]);
@@ -171,7 +177,7 @@ vector<int> runTestParallel(const Test &test, SetString* T){
         result[i] = T->getNumberString(test.getQuery(i));
     }
     printf("%s Parallel solution: %s. Time of solution: %0.3f\n",
-        test.getParameter().c_str(), T->getName(), timer.getTime());
+        test.getParameter().c_str(), T->getName().c_str(), timer.getTime());
     return result;
 }
 
@@ -234,6 +240,16 @@ int main(){
     srand(time(0));
     omp_set_nested(true);
 
-    Test test = generatorRandomTest(10, 10, 100, 100);
-    compareSolutions({new StlSet(), new Trie(10)}, {0, 0}, test);
+    Trie F(2);
+
+    #pragma omp parallel for
+    for(int i = 0; i < 2; i++){
+        F.addString("a");
+        F.addString("b");
+        F.addString("c");
+    }
+
+    //Test test = generatorRandomTest(10, 2, 10, 10);
+    //compareSolutions({new Trie(2)}, {1}, test);
+    //compareSolutions({new StlSet(), new Trie(10)}, {0, 1}, test);
 }
