@@ -92,6 +92,11 @@ public:
         }
         createNewVertex();
     }
+    ~Trie(){
+        for(int i = 0; i < size; i++){
+			omp_destroy_lock(&lock[i]);
+        }
+    }
     string getName(){
         return str;
     }
@@ -241,13 +246,21 @@ void compareSolutions(vector<SetString*> solutions, vector<bool> isParallel, Tes
     }
 }
 
+void stressTest(){
+    while(1){
+        int n = rand() % 1000 + 2;
+        int a = rand() % 20 + 1;
+        Test test = generatorRandomTest(n, a, 1000, 1000);
+        compareSolutions({new StlSet(), new Trie(a, n * 1002 + 5)}, {0, 1}, test);
+    }
+}
+
 int main(){
     //freopen(".txt", "w", stdout);
     srand(time(0));
     omp_set_nested(true);
-    while(1){
-        Test test = generatorRandomTest(30, 2, 50, 50);
-        //compareSolutions({new Trie(20)}, {1}, test);
-        compareSolutions({new StlSet(), new Trie(3, 10000)}, {0, 1}, test);
-    }
+
+    Test test = generatorRandomTest(10000, 3, 1000, 1000000);
+    compareSolutions({new StlSet(), new Trie(3, 1000 * 10000 + 5)}, {0, 1}, test);
+
 }
