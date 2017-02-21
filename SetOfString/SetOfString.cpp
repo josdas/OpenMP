@@ -61,59 +61,59 @@ public:
         T[s]++;
     }
     int getNumberString(const string& s){
-        auto temp = T.find(s);
-        if(temp == T.end()){
-            return 0;
-        }
-        return temp->second;
+        return T[s];
     }
 };
 
 class Trie : public SetString{
 private:
     const string str = "trie";
-    int alphabet;
+    int alphabet, size;
     vector<vector<int> > nextVertex;
     vector<int> numberString;
     vector<omp_lock_t> lock;
+    int next;
     int createNewVertex(){
         int result;
         #pragma omp critical
         {
-            nextVertex.push_back(vector<int>(alphabet));
-            numberString.push_back(0);
-            lock.push_back(omp_lock_t());
-            omp_init_lock(&lock.back());
-            result = (int)nextVertex.size() - 1;
+            result = next;
+            next++;
         }
         return result;
     }
-    int getVertex(int v, char next){
-        int nextSymbol = next - 'a';
-        return nextVertex[v][nextSymbol];
-    }
-    void createNewNext(int v, char next){
-        int nextSymbol = next - 'a';
-        if(nextVertex[v][nextSymbol] == 0){
-            nextVertex[v][nextSymbol] = createNewVertex();
-        }
-    }
 public:
-    Trie(int _alphabet) : alphabet(_alphabet){
+    Trie(int _alphabet, int size) : alphabet(_alphabet){
+        lock.resize(size);
+        numberString.resize(size);
+        nextVertex.resize(size, vector<int> (alphabet));
+        for(int i = 0; i < size; i++){
+			omp_init_lock(&lock[i]);
+        }
         createNewVertex();
     }
     string getName(){
         return str;
     }
+    void print(){
+        printf("It's trie{\n");
+        for(int i = 0; i < size; i++){
+            for(int j = 0; j  < alphabet; j++){
+                printf("%d ", nextVertex[i][j]);
+            }
+            printf("\n");
+        }
+        printf("}\n");
+    }
     void addString(const string& s){
-        cerr <<
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
+            int ch = s[i] - 'a';
             omp_set_lock(&lock[curVertex]);
-            if(getVertex(curVertex, s[i]) == 0){
-                createNewNext(curVertex, s[i]);
+            if(nextVertex[curVertex][ch] == 0){
+                nextVertex[curVertex][ch] = createNewVertex();
             }
-            int tempVertex = getVertex(curVertex, s[i]);
+            int tempVertex = nextVertex[curVertex][ch];
             omp_unset_lock(&lock[curVertex]);
             curVertex = tempVertex;
         }
@@ -123,15 +123,19 @@ public:
     int getNumberString(const string& s){
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
+            int ch = s[i] - 'a';
             omp_set_lock(&lock[curVertex]);
-            int tempVertex = getVertex(curVertex, s[i]);
+            int tempVertex = nextVertex[curVertex][ch];
             omp_unset_lock(&lock[curVertex]);
             if(tempVertex == 0){
                 return 0;
             }
             curVertex = tempVertex;
         }
-        return numberString[curVertex];
+        int result;
+        #pragma omp critic
+        result = numberString[curVertex];
+        return result;
     }
 };
 
@@ -228,9 +232,11 @@ void compareSolutions(vector<SetString*> solutions, vector<bool> isParallel, Tes
             answers[i] = runTestSingle(test, solutions[i]);
         }
     }
+
     for(int i = 0; i < (int)answers.size(); i++){
         if(answers[0] != answers[i]){
             printf("Something went wrong.\n");
+            assert(0);
         }
     }
 }
@@ -239,17 +245,9 @@ int main(){
     //freopen(".txt", "w", stdout);
     srand(time(0));
     omp_set_nested(true);
-
-    Trie F(2);
-
-    #pragma omp parallel for
-    for(int i = 0; i < 2; i++){
-        F.addString("a");
-        F.addString("b");
-        F.addString("c");
+    while(1){
+        Test test = generatorRandomTest(30, 2, 50, 50);
+        //compareSolutions({new Trie(20)}, {1}, test);
+        compareSolutions({new StlSet(), new Trie(3, 10000)}, {0, 1}, test);
     }
-
-    //Test test = generatorRandomTest(10, 2, 10, 10);
-    //compareSolutions({new Trie(2)}, {1}, test);
-    //compareSolutions({new StlSet(), new Trie(10)}, {0, 1}, test);
 }
