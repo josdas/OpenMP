@@ -218,8 +218,8 @@ public:
     int getNumberQuery() const {
         return query.size();
     }
-    void print(){
-	    ofstream out("BadTest.txt", std::ofstream::out);
+    void print(const char *name){
+	    ofstream out(name, std::ofstream::out);
         out << getParameter() << '\n';
         out << getNumberStr() << ' ' << getNumberQuery() << '\n';
         for(auto s : str){
@@ -298,7 +298,7 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
     for(int i = 0; i < (int)answers.size(); i++){
         if(answers[0] != answers[i]){
             printf("Something went wrong.\n");
-            test.print();
+            test.print("BadTest.txt");
             assert(0);
         }
     }
@@ -306,13 +306,13 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
 
 void stressTest(){
     while(1){
-        int n = rand() % 100 + 1;
+        int n = rand() % 1000 + 1;
         int a = rand() % 26 + 1;
-        int q = rand() % 100 + 1;
-        int w = rand() % 100 + 1;
+        int q = rand() % 1000 + 1;
+        int w = rand() % 1000 + 1;
         Test test = generatorRandomTest(n, a, q, w);
         StlSet *A = new StlSet();
-        Trie *B = new Trie(a, n * q + 500);
+        Trie *B = new Trie(a, n * q + 2);
         compareSolutions({A, B}, {0, 1}, test);
         delete A;
         delete B;
