@@ -10,6 +10,7 @@
 #include <functional>
 #include <map>
 #include <vector>
+#include <fstream>
 #include "omp.h"
 using namespace std;
 
@@ -69,28 +70,54 @@ public:
     }
 };
 
+class myLock{
+private:
+    omp_lock_t* T;
+    bool isParallel;
+public:
+    myLock(){
+        T = new omp_lock_t();
+        isParallel = true;
+        omp_init_lock(T);
+    }
+    myLock(bool _isParallel) : isParallel(_isParallel){
+        if(isParallel){
+            omp_set_lock(T);
+        }
+    }
+    ~myLock(){
+        if(isParallel){
+            omp_destroy_lock(T);
+        }
+    }
+    void set(){
+        if(isParallel){
+            omp_set_lock(T);
+        }
+    }
+    void unset(){
+        if(isParallel){
+            omp_unset_lock(T);
+        }
+    }
+};
+
 class Trie : public StringSet{
 private:
     const string str = "trie";
     int alphabet, size;
     vector<vector<int> > nextVertex;
     vector<int> numberString;
-    vector<omp_lock_t> lock;
+    vector<myLock> lock;
     int next;
     int createNewVertex(){
-        int result;
-        #pragma omp critical
-        {
-            result = next;
-            next++;
-        }
-        return result;
+        return ++next;
     }
     int getNext(int v, int nextChar) const {
         return nextVertex[v][nextChar];
     }
     void setNext(int v, int nextChar, int temp){
-        nextVertex[v][nextChar] = temp;
+        nextVertex[v][nextChar] += temp;
     }
     void addVertex(int v, int s){
         numberString[v] += s;
@@ -99,25 +126,20 @@ private:
         return numberString[v];
     }
     void setLock(int v){
-        omp_set_lock(&lock[v]);
+        #pragma omp crititcal
+        lock[v].set();
     }
     void unsetLock(int v){
-        omp_unset_lock(&lock[v]);
+        #pragma omp crititcal
+        lock[v].unset();
     }
 public:
-    Trie(int _alphabet, int size) : alphabet(_alphabet){
+    Trie(int _alphabet, int _size) : alphabet(_alphabet), size(_size){
+        next = 0;
         lock.resize(size);
         numberString.resize(size);
         nextVertex.resize(size, vector<int> (alphabet));
-        for(int i = 0; i < size; i++){
-            omp_init_lock(&lock[i]);
-        }
         createNewVertex();
-    }
-    ~Trie(){
-        for(int i = 0; i < size; i++){
-            omp_destroy_lock(&lock[i]);
-        }
     }
     string getName(){
         return str;
@@ -196,6 +218,18 @@ public:
     int getNumberQuery() const {
         return query.size();
     }
+    void print(){
+	    ofstream out("BadTest.txt", std::ofstream::out);
+        out << getParameter() << '\n';
+        out << getNumberStr() << ' ' << getNumberQuery() << '\n';
+        for(auto s : str){
+            out << s << '\n';
+        }
+        for(auto s : query){
+            out << s << '\n';
+        }
+	    out.close();
+    }
 };
 
 vector<int> runTestParallel(const Test &test, StringSet* T){
@@ -261,10 +295,10 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
             answers[i] = runTestSingle(test, solutions[i]);
         }
     }
-
     for(int i = 0; i < (int)answers.size(); i++){
         if(answers[0] != answers[i]){
             printf("Something went wrong.\n");
+            test.print();
             assert(0);
         }
     }
@@ -272,19 +306,25 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
 
 void stressTest(){
     while(1){
-        int n = rand() % 1000 + 2;
-        int a = rand() % 20 + 1;
-        Test test = generatorRandomTest(n, a, 1000, 1000);
-        compareSolutions({new StlSet(), new Trie(a, n * 1002 + 5)}, {0, 1}, test);
+        int n = rand() % 100 + 1;
+        int a = rand() % 26 + 1;
+        int q = rand() % 100 + 1;
+        int w = rand() % 100 + 1;
+        Test test = generatorRandomTest(n, a, q, w);
+        StlSet *A = new StlSet();
+        Trie *B = new Trie(a, n * q + 500);
+        compareSolutions({A, B}, {0, 1}, test);
+        delete A;
+        delete B;
     }
 }
 
 int main(){
     //freopen(".txt", "w", stdout);
     srand(time(0));
-    omp_set_nested(true);
-
-    Test test = generatorRandomTest(100, 20, 100, 10000);
+    //omp_set_nested(true);
+    stressTest();
+    Test test = generatorRandomTest(100, 20, 100, 1000000);
     compareSolutions({new StlSet(), new Trie(20, 100 * 100 + 5)}, {0, 1}, test);
 
 }
