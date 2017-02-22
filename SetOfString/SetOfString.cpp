@@ -26,7 +26,7 @@ string toString(T temp){
     return ss.str();
 }
 
-struct Timer{
+class Timer{
 private:
     double startTime;
 public:
@@ -42,14 +42,14 @@ public:
     }
 };
 
-class SetString{ // Хотелось бы добавить сюда getName(), но str у каждого свой
+class StringSet{ // Хотелось бы добавить сюда getName(), но str у каждого свой
 public:
     virtual void addString(const string&) = 0;
-    virtual int getNumberString(const string&) = 0;
+    virtual int count(const string&) = 0;
     virtual string getName() = 0;
 };
 
-class StlSet : public SetString{
+class StlSet : public StringSet{
 private:
     const string str = "stl";
     map<string, int> T;
@@ -60,7 +60,7 @@ public:
     void addString(const string& s){
         T[s]++;
     }
-    int getNumberString(const string& s){
+    int count(const string& s){
         auto t = T.find(s);
         if(t == T.end()){
             return 0;
@@ -69,7 +69,7 @@ public:
     }
 };
 
-class Trie : public SetString{
+class Trie : public StringSet{
 private:
     const string str = "trie";
     int alphabet, size;
@@ -86,19 +86,37 @@ private:
         }
         return result;
     }
+    int getNext(int v, int nextChar) const {
+        return nextVertex[v][nextChar];
+    }
+    void setNext(int v, int nextChar, int temp){
+        nextVertex[v][nextChar] = temp;
+    }
+    void addVertex(int v, int s){
+        numberString[v] += s;
+    }
+    int getValue(int v) const {
+        return numberString[v];
+    }
+    void setLock(int v){
+        omp_set_lock(&lock[v]);
+    }
+    void unsetLock(int v){
+        omp_unset_lock(&lock[v]);
+    }
 public:
     Trie(int _alphabet, int size) : alphabet(_alphabet){
         lock.resize(size);
         numberString.resize(size);
         nextVertex.resize(size, vector<int> (alphabet));
         for(int i = 0; i < size; i++){
-			omp_init_lock(&lock[i]);
+            omp_init_lock(&lock[i]);
         }
         createNewVertex();
     }
     ~Trie(){
         for(int i = 0; i < size; i++){
-			omp_destroy_lock(&lock[i]);
+            omp_destroy_lock(&lock[i]);
         }
     }
     string getName(){
@@ -118,32 +136,34 @@ public:
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
             int ch = s[i] - 'a';
-            omp_set_lock(&lock[curVertex]);
-            if(nextVertex[curVertex][ch] == 0){
-                nextVertex[curVertex][ch] = createNewVertex();
+            setLock(curVertex);
+            if(getNext(curVertex, ch) == 0){
+                setNext(curVertex, ch, createNewVertex());
             }
-            int tempVertex = nextVertex[curVertex][ch];
-            omp_unset_lock(&lock[curVertex]);
+            int tempVertex = getNext(curVertex, ch);
+            unsetLock(curVertex);
             curVertex = tempVertex;
         }
-        #pragma omp atomic
-        numberString[curVertex]++;
+        setLock(curVertex);
+        addVertex(curVertex, 1);
+        unsetLock(curVertex);
     }
-    int getNumberString(const string& s){
+    int count(const string& s){
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
             int ch = s[i] - 'a';
-            omp_set_lock(&lock[curVertex]);
-            int tempVertex = nextVertex[curVertex][ch];
-            omp_unset_lock(&lock[curVertex]);
+            setLock(curVertex);
+            int tempVertex = getNext(curVertex, ch);
+            unsetLock(curVertex);
             if(tempVertex == 0){
                 return 0;
             }
             curVertex = tempVertex;
         }
         int result;
-        #pragma omp critic
-        result = numberString[curVertex];
+        setLock(curVertex);
+        result = getValue(curVertex);
+        unsetLock(curVertex);
         return result;
     }
 };
@@ -178,7 +198,7 @@ public:
     }
 };
 
-vector<int> runTestParallel(const Test &test, SetString* T){
+vector<int> runTestParallel(const Test &test, StringSet* T){
     Timer timer;
     #pragma omp parallel for
     for(int i = 0; i < test.getNumberStr(); i++){
@@ -187,21 +207,21 @@ vector<int> runTestParallel(const Test &test, SetString* T){
     vector<int> result(test.getNumberQuery());
     #pragma omp parallel for shared(result)
     for(int i = 0; i < test.getNumberQuery(); i++){
-        result[i] = T->getNumberString(test.getQuery(i));
+        result[i] = T->count(test.getQuery(i));
     }
     printf("%s Parallel solution: %s. Time of solution: %0.3f\n",
         test.getParameter().c_str(), T->getName().c_str(), timer.getTime());
     return result;
 }
 
-vector<int> runTestSingle(const Test &test, SetString* T){
+vector<int> runTestSingle(const Test &test, StringSet* T){
     Timer timer;
     for(int i = 0; i < test.getNumberStr(); i++){
         T->addString(test.getStr(i));
     }
     vector<int> result(test.getNumberQuery());
     for(int i = 0; i < test.getNumberQuery(); i++){
-        result[i] = T->getNumberString(test.getQuery(i));
+        result[i] = T->count(test.getQuery(i));
     }
     printf("%s Single solution: %s. Time of solution: %0.3f\n",
         test.getParameter().c_str(), T->getName().c_str(), timer.getTime());
@@ -231,7 +251,7 @@ Test generatorRandomTest(int length, int alphabet, int numberString, int numberQ
     return test;
 }
 
-void compareSolutions(vector<SetString*> solutions, vector<bool> isParallel, Test test){
+void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Test test){
     vector<vector<int> > answers(solutions.size());
     for(int i = 0; i < solutions.size(); i++){
         if(isParallel[i]){
@@ -264,7 +284,7 @@ int main(){
     srand(time(0));
     omp_set_nested(true);
 
-    Test test = generatorRandomTest(100, 20, 100, 10000000);
+    Test test = generatorRandomTest(100, 20, 100, 10000);
     compareSolutions({new StlSet(), new Trie(20, 100 * 100 + 5)}, {0, 1}, test);
 
 }
