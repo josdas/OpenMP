@@ -111,7 +111,7 @@ private:
     vector<myLock> lock;
     int next;
     int createNewVertex(){
-        return ++next;
+        return next++;
     }
     int getNext(int v, int nextChar) const {
         return nextVertex[v][nextChar];
@@ -312,7 +312,7 @@ void stressTest(){
         int w = rand() % 1000 + 1;
         Test test = generatorRandomTest(n, a, q, w);
         StlSet *A = new StlSet();
-        Trie *B = new Trie(a, n * q + 2);
+        Trie *B = new Trie(a, n * q + 1);
         compareSolutions({A, B}, {0, 1}, test);
         delete A;
         delete B;
