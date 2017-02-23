@@ -43,33 +43,6 @@ public:
     }
 };
 
-class StringSet{ // Хотелось бы добавить сюда getName(), но str у каждого свой
-public:
-    virtual void addString(const string&) = 0;
-    virtual int count(const string&) = 0;
-    virtual string getName() = 0;
-};
-
-class StlSet : public StringSet{
-private:
-    const string str = "stl";
-    map<string, int> T;
-public:
-    string getName(){
-        return str;
-    }
-    void addString(const string& s){
-        T[s]++;
-    }
-    int count(const string& s){
-        auto t = T.find(s);
-        if(t == T.end()){
-            return 0;
-        }
-        return t->second;
-    }
-};
-
 class myLock{
 private:
     omp_lock_t* T;
@@ -102,6 +75,34 @@ public:
         }
     }
 };
+
+class StringSet{ // Хотелось бы добавить сюда getName(), но str у каждого свой
+public:
+    virtual void addString(const string&) = 0;
+    virtual int count(const string&) = 0;
+    virtual string getName() = 0;
+};
+
+class StlSet : public StringSet{
+private:
+    const string str = "stl";
+    map<string, int> T;
+public:
+    string getName(){
+        return str;
+    }
+    void addString(const string& s){
+        T[s]++;
+    }
+    int count(const string& s){
+        auto t = T.find(s);
+        if(t == T.end()){
+            return 0;
+        }
+        return t->second;
+    }
+};
+
 
 class Trie : public StringSet{
 private:
@@ -175,18 +176,16 @@ public:
         int curVertex = 0;
         for(int i = 0; i < (int)s.size(); i++){
             int ch = s[i] - 'a';
-            setLock(curVertex);
+            //setLock(curVertex);
             int tempVertex = getNext(curVertex, ch);
-            unsetLock(curVertex);
+            //unsetLock(curVertex);
             if(tempVertex == 0){
                 return 0;
             }
             curVertex = tempVertex;
         }
         int result;
-        setLock(curVertex);
         result = getValue(curVertex);
-        unsetLock(curVertex);
         return result;
     }
 };
@@ -346,29 +345,24 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
 }
 
 void stressTest(){
+    int t = 0;
     while(1){
-        int n = rand() % 5 + 1;
-        int a = rand() % 5 + 1;
-        int q = rand() % 100 + 1;
-        int w = rand() % 100 + 1;
+        t++;
+        int n = rand() % 300 + 1;
+        int a = rand() % 20 + 1;
+        int q = rand() % 500000 + 1;
+        int w = rand() % 500000 + 1;
         Test test = generatorRandomTest(n, a, q, w);
         StlSet A;
         Trie B(a, n * q + 1);
         compareSolutions({&A, &B}, {0, 1}, test);
+        cout << t << "\n";
+        cerr << t << "\n";
     }
 }
 
 int main(){
-    //freopen(".txt", "w", stdout);
+    freopen(".txt", "w", stdout);
     srand(time(0));
     stressTest();
-    Test test = readTest("BadTest.txt");
-    int tt = 0;
-    while(true){
-        StlSet A;
-        Trie B(20, 100 * 100 + 5);
-        compareSolutions({&A, &B}, {0, 1}, test);
-        cout << tt << "\n";
-        tt++;
-    }
 }

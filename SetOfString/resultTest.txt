@@ -1,0 +1,1650 @@
+Random string of length 405 with alphabet 17. Number of strings equal to 442. Number of quires equal to 26071. Single solution: stl. Time of solution: 0.005
+Random string of length 405 with alphabet 17. Number of strings equal to 442. Number of quires equal to 26071. Parallel solution: trie. Time of solution: 0.031
+1
+Random string of length 937 with alphabet 5. Number of strings equal to 485. Number of quires equal to 19523. Single solution: stl. Time of solution: 0.004
+Random string of length 937 with alphabet 5. Number of strings equal to 485. Number of quires equal to 19523. Parallel solution: trie. Time of solution: 0.078
+2
+Random string of length 476 with alphabet 10. Number of strings equal to 395. Number of quires equal to 32035. Single solution: stl. Time of solution: 0.017
+Random string of length 476 with alphabet 10. Number of strings equal to 395. Number of quires equal to 32035. Parallel solution: trie. Time of solution: 0.032
+3
+Random string of length 180 with alphabet 4. Number of strings equal to 90. Number of quires equal to 24593. Single solution: stl. Time of solution: 0.007
+Random string of length 180 with alphabet 4. Number of strings equal to 90. Number of quires equal to 24593. Parallel solution: trie. Time of solution: 0.005
+4
+Random string of length 932 with alphabet 3. Number of strings equal to 45. Number of quires equal to 26232. Single solution: stl. Time of solution: 0.013
+Random string of length 932 with alphabet 3. Number of strings equal to 45. Number of quires equal to 26232. Parallel solution: trie. Time of solution: 0.014
+5
+Random string of length 352 with alphabet 3. Number of strings equal to 372. Number of quires equal to 23018. Single solution: stl. Time of solution: -0.000
+Random string of length 352 with alphabet 3. Number of strings equal to 372. Number of quires equal to 23018. Parallel solution: trie. Time of solution: 0.031
+6
+Random string of length 141 with alphabet 15. Number of strings equal to 113. Number of quires equal to 4677. Single solution: stl. Time of solution: 0.000
+Random string of length 141 with alphabet 15. Number of strings equal to 113. Number of quires equal to 4677. Parallel solution: trie. Time of solution: 0.000
+7
+Random string of length 858 with alphabet 14. Number of strings equal to 344. Number of quires equal to 3562. Single solution: stl. Time of solution: 0.003
+Random string of length 858 with alphabet 14. Number of strings equal to 344. Number of quires equal to 3562. Parallel solution: trie. Time of solution: 0.045
+8
+Random string of length 973 with alphabet 6. Number of strings equal to 479. Number of quires equal to 32142. Single solution: stl. Time of solution: 0.015
+Random string of length 973 with alphabet 6. Number of strings equal to 479. Number of quires equal to 32142. Parallel solution: trie. Time of solution: 0.081
+9
+Random string of length 430 with alphabet 12. Number of strings equal to 271. Number of quires equal to 9657. Single solution: stl. Time of solution: 0.005
+Random string of length 430 with alphabet 12. Number of strings equal to 271. Number of quires equal to 9657. Parallel solution: trie. Time of solution: 0.019
+10
+Random string of length 248 with alphabet 4. Number of strings equal to 167. Number of quires equal to 1979. Single solution: stl. Time of solution: -0.000
+Random string of length 248 with alphabet 4. Number of strings equal to 167. Number of quires equal to 1979. Parallel solution: trie. Time of solution: -0.000
+11
+Random string of length 953 with alphabet 7. Number of strings equal to 252. Number of quires equal to 4282. Single solution: stl. Time of solution: 0.002
+Random string of length 953 with alphabet 7. Number of strings equal to 252. Number of quires equal to 4282. Parallel solution: trie. Time of solution: 0.039
+12
+Random string of length 54 with alphabet 8. Number of strings equal to 412. Number of quires equal to 7961. Single solution: stl. Time of solution: 0.003
+Random string of length 54 with alphabet 8. Number of strings equal to 412. Number of quires equal to 7961. Parallel solution: trie. Time of solution: 0.004
+13
+Random string of length 502 with alphabet 15. Number of strings equal to 406. Number of quires equal to 9384. Single solution: stl. Time of solution: 0.000
+Random string of length 502 with alphabet 15. Number of strings equal to 406. Number of quires equal to 9384. Parallel solution: trie. Time of solution: 0.031
+14
+Random string of length 118 with alphabet 4. Number of strings equal to 57. Number of quires equal to 5747. Single solution: stl. Time of solution: 0.000
+Random string of length 118 with alphabet 4. Number of strings equal to 57. Number of quires equal to 5747. Parallel solution: trie. Time of solution: 0.000
+15
+Random string of length 756 with alphabet 7. Number of strings equal to 199. Number of quires equal to 7033. Single solution: stl. Time of solution: 0.000
+Random string of length 756 with alphabet 7. Number of strings equal to 199. Number of quires equal to 7033. Parallel solution: trie. Time of solution: 0.032
+16
+Random string of length 777 with alphabet 13. Number of strings equal to 441. Number of quires equal to 12779. Single solution: stl. Time of solution: 0.007
+Random string of length 777 with alphabet 13. Number of strings equal to 441. Number of quires equal to 12779. Parallel solution: trie. Time of solution: 0.056
+17
+Random string of length 830 with alphabet 6. Number of strings equal to 80. Number of quires equal to 22478. Single solution: stl. Time of solution: 0.000
+Random string of length 830 with alphabet 6. Number of strings equal to 80. Number of quires equal to 22478. Parallel solution: trie. Time of solution: 0.015
+18
+Random string of length 940 with alphabet 3. Number of strings equal to 223. Number of quires equal to 30989. Single solution: stl. Time of solution: 0.016
+Random string of length 940 with alphabet 3. Number of strings equal to 223. Number of quires equal to 30989. Parallel solution: trie. Time of solution: 0.041
+19
+Random string of length 386 with alphabet 17. Number of strings equal to 117. Number of quires equal to 23961. Single solution: stl. Time of solution: 0.015
+Random string of length 386 with alphabet 17. Number of strings equal to 117. Number of quires equal to 23961. Parallel solution: trie. Time of solution: 0.000
+20
+Random string of length 491 with alphabet 9. Number of strings equal to 348. Number of quires equal to 11505. Single solution: stl. Time of solution: 0.000
+Random string of length 491 with alphabet 9. Number of strings equal to 348. Number of quires equal to 11505. Parallel solution: trie. Time of solution: 0.031
+21
+Random string of length 720 with alphabet 2. Number of strings equal to 65. Number of quires equal to 3132. Single solution: stl. Time of solution: 0.000
+Random string of length 720 with alphabet 2. Number of strings equal to 65. Number of quires equal to 3132. Parallel solution: trie. Time of solution: 0.000
+22
+Random string of length 711 with alphabet 2. Number of strings equal to 473. Number of quires equal to 14393. Single solution: stl. Time of solution: 0.011
+Random string of length 711 with alphabet 2. Number of strings equal to 473. Number of quires equal to 14393. Parallel solution: trie. Time of solution: 0.053
+23
+Random string of length 555 with alphabet 7. Number of strings equal to 339. Number of quires equal to 15607. Single solution: stl. Time of solution: 0.016
+Random string of length 555 with alphabet 7. Number of strings equal to 339. Number of quires equal to 15607. Parallel solution: trie. Time of solution: 0.031
+24
+Random string of length 315 with alphabet 13. Number of strings equal to 470. Number of quires equal to 2410. Single solution: stl. Time of solution: 0.001
+Random string of length 315 with alphabet 13. Number of strings equal to 470. Number of quires equal to 2410. Parallel solution: trie. Time of solution: 0.023
+25
+Random string of length 356 with alphabet 15. Number of strings equal to 297. Number of quires equal to 28284. Single solution: stl. Time of solution: 0.015
+Random string of length 356 with alphabet 15. Number of strings equal to 297. Number of quires equal to 28284. Parallel solution: trie. Time of solution: 0.021
+26
+Random string of length 341 with alphabet 18. Number of strings equal to 135. Number of quires equal to 4211. Single solution: stl. Time of solution: 0.002
+Random string of length 341 with alphabet 18. Number of strings equal to 135. Number of quires equal to 4211. Parallel solution: trie. Time of solution: 0.008
+27
+Random string of length 312 with alphabet 17. Number of strings equal to 197. Number of quires equal to 18598. Single solution: stl. Time of solution: 0.015
+Random string of length 312 with alphabet 17. Number of strings equal to 197. Number of quires equal to 18598. Parallel solution: trie. Time of solution: 0.000
+28
+Random string of length 779 with alphabet 20. Number of strings equal to 434. Number of quires equal to 11402. Single solution: stl. Time of solution: 0.005
+Random string of length 779 with alphabet 20. Number of strings equal to 434. Number of quires equal to 11402. Parallel solution: trie. Time of solution: 0.055
+29
+Random string of length 256 with alphabet 18. Number of strings equal to 242. Number of quires equal to 23667. Single solution: stl. Time of solution: 0.010
+Random string of length 256 with alphabet 18. Number of strings equal to 242. Number of quires equal to 23667. Parallel solution: trie. Time of solution: 0.015
+30
+Random string of length 126 with alphabet 17. Number of strings equal to 243. Number of quires equal to 23714. Single solution: stl. Time of solution: 0.007
+Random string of length 126 with alphabet 17. Number of strings equal to 243. Number of quires equal to 23714. Parallel solution: trie. Time of solution: 0.005
+31
+Random string of length 585 with alphabet 8. Number of strings equal to 280. Number of quires equal to 13327. Single solution: stl. Time of solution: 0.006
+Random string of length 585 with alphabet 8. Number of strings equal to 280. Number of quires equal to 13327. Parallel solution: trie. Time of solution: 0.029
+32
+Random string of length 843 with alphabet 10. Number of strings equal to 336. Number of quires equal to 16666. Single solution: stl. Time of solution: 0.000
+Random string of length 843 with alphabet 10. Number of strings equal to 336. Number of quires equal to 16666. Parallel solution: trie. Time of solution: 0.047
+33
+Random string of length 876 with alphabet 3. Number of strings equal to 139. Number of quires equal to 2537. Single solution: stl. Time of solution: 0.000
+Random string of length 876 with alphabet 3. Number of strings equal to 139. Number of quires equal to 2537. Parallel solution: trie. Time of solution: 0.016
+34
+Random string of length 320 with alphabet 2. Number of strings equal to 392. Number of quires equal to 13388. Single solution: stl. Time of solution: 0.000
+Random string of length 320 with alphabet 2. Number of strings equal to 392. Number of quires equal to 13388. Parallel solution: trie. Time of solution: 0.031
+35
+Random string of length 872 with alphabet 15. Number of strings equal to 341. Number of quires equal to 24304. Single solution: stl. Time of solution: 0.000
+Random string of length 872 with alphabet 15. Number of strings equal to 341. Number of quires equal to 24304. Parallel solution: trie. Time of solution: 0.063
+36
+Random string of length 899 with alphabet 16. Number of strings equal to 477. Number of quires equal to 22099. Single solution: stl. Time of solution: 0.014
+Random string of length 899 with alphabet 16. Number of strings equal to 477. Number of quires equal to 22099. Parallel solution: trie. Time of solution: 0.066
+37
+Random string of length 983 with alphabet 2. Number of strings equal to 433. Number of quires equal to 14128. Single solution: stl. Time of solution: 0.009
+Random string of length 983 with alphabet 2. Number of strings equal to 433. Number of quires equal to 14128. Parallel solution: trie. Time of solution: 0.065
+38
+Random string of length 939 with alphabet 11. Number of strings equal to 126. Number of quires equal to 31863. Single solution: stl. Time of solution: 0.013
+Random string of length 939 with alphabet 11. Number of strings equal to 126. Number of quires equal to 31863. Parallel solution: trie. Time of solution: 0.022
+39
+Random string of length 692 with alphabet 10. Number of strings equal to 460. Number of quires equal to 3159. Single solution: stl. Time of solution: 0.000
+Random string of length 692 with alphabet 10. Number of strings equal to 460. Number of quires equal to 3159. Parallel solution: trie. Time of solution: 0.065
+40
+Random string of length 12 with alphabet 12. Number of strings equal to 485. Number of quires equal to 1016. Single solution: stl. Time of solution: 0.000
+Random string of length 12 with alphabet 12. Number of strings equal to 485. Number of quires equal to 1016. Parallel solution: trie. Time of solution: 0.000
+41
+Random string of length 748 with alphabet 13. Number of strings equal to 255. Number of quires equal to 32219. Single solution: stl. Time of solution: 0.016
+Random string of length 748 with alphabet 13. Number of strings equal to 255. Number of quires equal to 32219. Parallel solution: trie. Time of solution: 0.044
+42
+Random string of length 314 with alphabet 2. Number of strings equal to 230. Number of quires equal to 1651. Single solution: stl. Time of solution: 0.001
+Random string of length 314 with alphabet 2. Number of strings equal to 230. Number of quires equal to 1651. Parallel solution: trie. Time of solution: 0.011
+43
+Random string of length 120 with alphabet 2. Number of strings equal to 274. Number of quires equal to 26354. Single solution: stl. Time of solution: 0.000
+Random string of length 120 with alphabet 2. Number of strings equal to 274. Number of quires equal to 26354. Parallel solution: trie. Time of solution: 0.016
+44
+Random string of length 438 with alphabet 17. Number of strings equal to 427. Number of quires equal to 8811. Single solution: stl. Time of solution: 0.000
+Random string of length 438 with alphabet 17. Number of strings equal to 427. Number of quires equal to 8811. Parallel solution: trie. Time of solution: 0.043
+45
+Random string of length 12 with alphabet 1. Number of strings equal to 218. Number of quires equal to 30713. Single solution: stl. Time of solution: -0.000
+Random string of length 12 with alphabet 1. Number of strings equal to 218. Number of quires equal to 30713. Parallel solution: trie. Time of solution: -0.000
+46
+Random string of length 608 with alphabet 5. Number of strings equal to 146. Number of quires equal to 9823. Single solution: stl. Time of solution: 0.003
+Random string of length 608 with alphabet 5. Number of strings equal to 146. Number of quires equal to 9823. Parallel solution: trie. Time of solution: 0.011
+47
+Random string of length 165 with alphabet 5. Number of strings equal to 329. Number of quires equal to 26730. Single solution: stl. Time of solution: 0.000
+Random string of length 165 with alphabet 5. Number of strings equal to 329. Number of quires equal to 26730. Parallel solution: trie. Time of solution: 0.015
+48
+Random string of length 185 with alphabet 1. Number of strings equal to 429. Number of quires equal to 27911. Single solution: stl. Time of solution: 0.000
+Random string of length 185 with alphabet 1. Number of strings equal to 429. Number of quires equal to 27911. Parallel solution: trie. Time of solution: 0.016
+49
+Random string of length 384 with alphabet 3. Number of strings equal to 42. Number of quires equal to 6529. Single solution: stl. Time of solution: 0.002
+Random string of length 384 with alphabet 3. Number of strings equal to 42. Number of quires equal to 6529. Parallel solution: trie. Time of solution: 0.004
+50
+Random string of length 794 with alphabet 8. Number of strings equal to 272. Number of quires equal to 14898. Single solution: stl. Time of solution: 0.006
+Random string of length 794 with alphabet 8. Number of strings equal to 272. Number of quires equal to 14898. Parallel solution: trie. Time of solution: 0.026
+51
+Random string of length 103 with alphabet 15. Number of strings equal to 339. Number of quires equal to 24221. Single solution: stl. Time of solution: 0.007
+Random string of length 103 with alphabet 15. Number of strings equal to 339. Number of quires equal to 24221. Parallel solution: trie. Time of solution: 0.002
+52
+Random string of length 957 with alphabet 4. Number of strings equal to 42. Number of quires equal to 12800. Single solution: stl. Time of solution: 0.004
+Random string of length 957 with alphabet 4. Number of strings equal to 42. Number of quires equal to 12800. Parallel solution: trie. Time of solution: 0.008
+53
+Random string of length 596 with alphabet 14. Number of strings equal to 386. Number of quires equal to 18160. Single solution: stl. Time of solution: 0.011
+Random string of length 596 with alphabet 14. Number of strings equal to 386. Number of quires equal to 18160. Parallel solution: trie. Time of solution: 0.034
+54
+Random string of length 143 with alphabet 7. Number of strings equal to 469. Number of quires equal to 4166. Single solution: stl. Time of solution: 0.000
+Random string of length 143 with alphabet 7. Number of strings equal to 469. Number of quires equal to 4166. Parallel solution: trie. Time of solution: 0.016
+55
+Random string of length 661 with alphabet 13. Number of strings equal to 40. Number of quires equal to 9564. Single solution: stl. Time of solution: 0.004
+Random string of length 661 with alphabet 13. Number of strings equal to 40. Number of quires equal to 9564. Parallel solution: trie. Time of solution: 0.007
+56
+Random string of length 81 with alphabet 9. Number of strings equal to 167. Number of quires equal to 8772. Single solution: stl. Time of solution: -0.000
+Random string of length 81 with alphabet 9. Number of strings equal to 167. Number of quires equal to 8772. Parallel solution: trie. Time of solution: -0.000
+57
+Random string of length 992 with alphabet 12. Number of strings equal to 412. Number of quires equal to 20958. Single solution: stl. Time of solution: 0.014
+Random string of length 992 with alphabet 12. Number of strings equal to 412. Number of quires equal to 20958. Parallel solution: trie. Time of solution: 0.067
+58
+Random string of length 351 with alphabet 18. Number of strings equal to 399. Number of quires equal to 8945. Single solution: stl. Time of solution: 0.004
+Random string of length 351 with alphabet 18. Number of strings equal to 399. Number of quires equal to 8945. Parallel solution: trie. Time of solution: 0.024
+59
+Random string of length 236 with alphabet 20. Number of strings equal to 282. Number of quires equal to 24955. Single solution: stl. Time of solution: 0.007
+Random string of length 236 with alphabet 20. Number of strings equal to 282. Number of quires equal to 24955. Parallel solution: trie. Time of solution: 0.014
+60
+Random string of length 160 with alphabet 20. Number of strings equal to 399. Number of quires equal to 3302. Single solution: stl. Time of solution: 0.001
+Random string of length 160 with alphabet 20. Number of strings equal to 399. Number of quires equal to 3302. Parallel solution: trie. Time of solution: 0.011
+61
+Random string of length 230 with alphabet 12. Number of strings equal to 380. Number of quires equal to 23181. Single solution: stl. Time of solution: 0.008
+Random string of length 230 with alphabet 12. Number of strings equal to 380. Number of quires equal to 23181. Parallel solution: trie. Time of solution: 0.016
+62
+Random string of length 84 with alphabet 14. Number of strings equal to 281. Number of quires equal to 31219. Single solution: stl. Time of solution: 0.009
+Random string of length 84 with alphabet 14. Number of strings equal to 281. Number of quires equal to 31219. Parallel solution: trie. Time of solution: 0.006
+63
+Random string of length 622 with alphabet 2. Number of strings equal to 252. Number of quires equal to 89. Single solution: stl. Time of solution: 0.001
+Random string of length 622 with alphabet 2. Number of strings equal to 252. Number of quires equal to 89. Parallel solution: trie. Time of solution: 0.024
+64
+Random string of length 575 with alphabet 4. Number of strings equal to 349. Number of quires equal to 15201. Single solution: stl. Time of solution: 0.007
+Random string of length 575 with alphabet 4. Number of strings equal to 349. Number of quires equal to 15201. Parallel solution: trie. Time of solution: 0.033
+65
+Random string of length 150 with alphabet 10. Number of strings equal to 372. Number of quires equal to 17482. Single solution: stl. Time of solution: 0.006
+Random string of length 150 with alphabet 10. Number of strings equal to 372. Number of quires equal to 17482. Parallel solution: trie. Time of solution: 0.010
+66
+Random string of length 384 with alphabet 9. Number of strings equal to 87. Number of quires equal to 26799. Single solution: stl. Time of solution: 0.013
+Random string of length 384 with alphabet 9. Number of strings equal to 87. Number of quires equal to 26799. Parallel solution: trie. Time of solution: 0.012
+67
+Random string of length 534 with alphabet 11. Number of strings equal to 366. Number of quires equal to 16020. Single solution: stl. Time of solution: 0.006
+Random string of length 534 with alphabet 11. Number of strings equal to 366. Number of quires equal to 16020. Parallel solution: trie. Time of solution: 0.033
+68
+Random string of length 378 with alphabet 12. Number of strings equal to 150. Number of quires equal to 26714. Single solution: stl. Time of solution: 0.009
+Random string of length 378 with alphabet 12. Number of strings equal to 150. Number of quires equal to 26714. Parallel solution: trie. Time of solution: 0.013
+69
+Random string of length 55 with alphabet 13. Number of strings equal to 215. Number of quires equal to 4919. Single solution: stl. Time of solution: 0.003
+Random string of length 55 with alphabet 13. Number of strings equal to 215. Number of quires equal to 4919. Parallel solution: trie. Time of solution: 0.003
+70
+Random string of length 980 with alphabet 8. Number of strings equal to 264. Number of quires equal to 22481. Single solution: stl. Time of solution: 0.004
+Random string of length 980 with alphabet 8. Number of strings equal to 264. Number of quires equal to 22481. Parallel solution: trie. Time of solution: 0.047
+71
+Random string of length 448 with alphabet 20. Number of strings equal to 227. Number of quires equal to 4051. Single solution: stl. Time of solution: -0.000
+Random string of length 448 with alphabet 20. Number of strings equal to 227. Number of quires equal to 4051. Parallel solution: trie. Time of solution: 0.032
+72
+Random string of length 840 with alphabet 6. Number of strings equal to 371. Number of quires equal to 26597. Single solution: stl. Time of solution: 0.027
+Random string of length 840 with alphabet 6. Number of strings equal to 371. Number of quires equal to 26597. Parallel solution: trie. Time of solution: 0.052
+73
+Random string of length 152 with alphabet 10. Number of strings equal to 306. Number of quires equal to 14523. Single solution: stl. Time of solution: 0.005
+Random string of length 152 with alphabet 10. Number of strings equal to 306. Number of quires equal to 14523. Parallel solution: trie. Time of solution: 0.009
+74
+Random string of length 764 with alphabet 8. Number of strings equal to 442. Number of quires equal to 10349. Single solution: stl. Time of solution: 0.007
+Random string of length 764 with alphabet 8. Number of strings equal to 442. Number of quires equal to 10349. Parallel solution: trie. Time of solution: 0.053
+75
+Random string of length 486 with alphabet 12. Number of strings equal to 223. Number of quires equal to 14181. Single solution: stl. Time of solution: 0.005
+Random string of length 486 with alphabet 12. Number of strings equal to 223. Number of quires equal to 14181. Parallel solution: trie. Time of solution: 0.019
+76
+Random string of length 548 with alphabet 1. Number of strings equal to 285. Number of quires equal to 32626. Single solution: stl. Time of solution: 0.026
+Random string of length 548 with alphabet 1. Number of strings equal to 285. Number of quires equal to 32626. Parallel solution: trie. Time of solution: 0.029
+77
+Random string of length 499 with alphabet 11. Number of strings equal to 350. Number of quires equal to 24796. Single solution: stl. Time of solution: 0.010
+Random string of length 499 with alphabet 11. Number of strings equal to 350. Number of quires equal to 24796. Parallel solution: trie. Time of solution: 0.031
+78
+Random string of length 838 with alphabet 16. Number of strings equal to 25. Number of quires equal to 5690. Single solution: stl. Time of solution: 0.002
+Random string of length 838 with alphabet 16. Number of strings equal to 25. Number of quires equal to 5690. Parallel solution: trie. Time of solution: 0.004
+79
+Random string of length 522 with alphabet 6. Number of strings equal to 235. Number of quires equal to 28462. Single solution: stl. Time of solution: 0.011
+Random string of length 522 with alphabet 6. Number of strings equal to 235. Number of quires equal to 28462. Parallel solution: trie. Time of solution: 0.023
+80
+Random string of length 233 with alphabet 10. Number of strings equal to 328. Number of quires equal to 17628. Single solution: stl. Time of solution: 0.010
+Random string of length 233 with alphabet 10. Number of strings equal to 328. Number of quires equal to 17628. Parallel solution: trie. Time of solution: 0.013
+81
+Random string of length 165 with alphabet 17. Number of strings equal to 247. Number of quires equal to 115. Single solution: stl. Time of solution: 0.000
+Random string of length 165 with alphabet 17. Number of strings equal to 247. Number of quires equal to 115. Parallel solution: trie. Time of solution: 0.007
+82
+Random string of length 11 with alphabet 20. Number of strings equal to 49. Number of quires equal to 30826. Single solution: stl. Time of solution: -0.000
+Random string of length 11 with alphabet 20. Number of strings equal to 49. Number of quires equal to 30826. Parallel solution: trie. Time of solution: -0.000
+83
+Random string of length 935 with alphabet 15. Number of strings equal to 16. Number of quires equal to 16216. Single solution: stl. Time of solution: -0.000
+Random string of length 935 with alphabet 15. Number of strings equal to 16. Number of quires equal to 16216. Parallel solution: trie. Time of solution: 0.015
+84
+Random string of length 645 with alphabet 3. Number of strings equal to 63. Number of quires equal to 16372. Single solution: stl. Time of solution: 0.008
+Random string of length 645 with alphabet 3. Number of strings equal to 63. Number of quires equal to 16372. Parallel solution: trie. Time of solution: 0.008
+85
+Random string of length 383 with alphabet 10. Number of strings equal to 226. Number of quires equal to 5344. Single solution: stl. Time of solution: 0.002
+Random string of length 383 with alphabet 10. Number of strings equal to 226. Number of quires equal to 5344. Parallel solution: trie. Time of solution: 0.005
+86
+Random string of length 616 with alphabet 6. Number of strings equal to 245. Number of quires equal to 17825. Single solution: stl. Time of solution: 0.016
+Random string of length 616 with alphabet 6. Number of strings equal to 245. Number of quires equal to 17825. Parallel solution: trie. Time of solution: 0.027
+87
+Random string of length 964 with alphabet 2. Number of strings equal to 312. Number of quires equal to 21102. Single solution: stl. Time of solution: 0.016
+Random string of length 964 with alphabet 2. Number of strings equal to 312. Number of quires equal to 21102. Parallel solution: trie. Time of solution: 0.049
+88
+Random string of length 591 with alphabet 1. Number of strings equal to 29. Number of quires equal to 32204. Single solution: stl. Time of solution: 0.026
+Random string of length 591 with alphabet 1. Number of strings equal to 29. Number of quires equal to 32204. Parallel solution: trie. Time of solution: 0.028
+89
+Random string of length 941 with alphabet 2. Number of strings equal to 303. Number of quires equal to 16961. Single solution: stl. Time of solution: -0.000
+Random string of length 941 with alphabet 2. Number of strings equal to 303. Number of quires equal to 16961. Parallel solution: trie. Time of solution: 0.060
+90
+Random string of length 990 with alphabet 3. Number of strings equal to 60. Number of quires equal to 32322. Single solution: stl. Time of solution: 0.017
+Random string of length 990 with alphabet 3. Number of strings equal to 60. Number of quires equal to 32322. Parallel solution: trie. Time of solution: 0.013
+91
+Random string of length 164 with alphabet 11. Number of strings equal to 328. Number of quires equal to 7676. Single solution: stl. Time of solution: 0.004
+Random string of length 164 with alphabet 11. Number of strings equal to 328. Number of quires equal to 7676. Parallel solution: trie. Time of solution: 0.009
+92
+Random string of length 381 with alphabet 1. Number of strings equal to 223. Number of quires equal to 27267. Single solution: stl. Time of solution: 0.014
+Random string of length 381 with alphabet 1. Number of strings equal to 223. Number of quires equal to 27267. Parallel solution: trie. Time of solution: 0.017
+93
+Random string of length 143 with alphabet 20. Number of strings equal to 278. Number of quires equal to 25374. Single solution: stl. Time of solution: -0.000
+Random string of length 143 with alphabet 20. Number of strings equal to 278. Number of quires equal to 25374. Parallel solution: trie. Time of solution: 0.015
+94
+Random string of length 879 with alphabet 8. Number of strings equal to 245. Number of quires equal to 23871. Single solution: stl. Time of solution: 0.016
+Random string of length 879 with alphabet 8. Number of strings equal to 245. Number of quires equal to 23871. Parallel solution: trie. Time of solution: 0.038
+95
+Random string of length 276 with alphabet 12. Number of strings equal to 27. Number of quires equal to 2329. Single solution: stl. Time of solution: 0.000
+Random string of length 276 with alphabet 12. Number of strings equal to 27. Number of quires equal to 2329. Parallel solution: trie. Time of solution: 0.002
+96
+Random string of length 812 with alphabet 4. Number of strings equal to 19. Number of quires equal to 19911. Single solution: stl. Time of solution: 0.007
+Random string of length 812 with alphabet 4. Number of strings equal to 19. Number of quires equal to 19911. Parallel solution: trie. Time of solution: 0.005
+97
+Random string of length 42 with alphabet 13. Number of strings equal to 92. Number of quires equal to 22938. Single solution: stl. Time of solution: 0.006
+Random string of length 42 with alphabet 13. Number of strings equal to 92. Number of quires equal to 22938. Parallel solution: trie. Time of solution: 0.003
+98
+Random string of length 365 with alphabet 13. Number of strings equal to 496. Number of quires equal to 29075. Single solution: stl. Time of solution: 0.015
+Random string of length 365 with alphabet 13. Number of strings equal to 496. Number of quires equal to 29075. Parallel solution: trie. Time of solution: 0.033
+99
+Random string of length 886 with alphabet 8. Number of strings equal to 40. Number of quires equal to 29188. Single solution: stl. Time of solution: 0.017
+Random string of length 886 with alphabet 8. Number of strings equal to 40. Number of quires equal to 29188. Parallel solution: trie. Time of solution: 0.011
+100
+Random string of length 452 with alphabet 13. Number of strings equal to 169. Number of quires equal to 1066. Single solution: stl. Time of solution: 0.001
+Random string of length 452 with alphabet 13. Number of strings equal to 169. Number of quires equal to 1066. Parallel solution: trie. Time of solution: 0.012
+101
+Random string of length 623 with alphabet 8. Number of strings equal to 116. Number of quires equal to 7257. Single solution: stl. Time of solution: 0.005
+Random string of length 623 with alphabet 8. Number of strings equal to 116. Number of quires equal to 7257. Parallel solution: trie. Time of solution: 0.012
+102
+Random string of length 483 with alphabet 4. Number of strings equal to 364. Number of quires equal to 28554. Single solution: stl. Time of solution: 0.017
+Random string of length 483 with alphabet 4. Number of strings equal to 364. Number of quires equal to 28554. Parallel solution: trie. Time of solution: 0.031
+103
+Random string of length 400 with alphabet 7. Number of strings equal to 303. Number of quires equal to 24657. Single solution: stl. Time of solution: 0.000
+Random string of length 400 with alphabet 7. Number of strings equal to 303. Number of quires equal to 24657. Parallel solution: trie. Time of solution: 0.034
+104
+Random string of length 886 with alphabet 8. Number of strings equal to 307. Number of quires equal to 28212. Single solution: stl. Time of solution: 0.012
+Random string of length 886 with alphabet 8. Number of strings equal to 307. Number of quires equal to 28212. Parallel solution: trie. Time of solution: 0.046
+105
+Random string of length 456 with alphabet 19. Number of strings equal to 87. Number of quires equal to 28961. Single solution: stl. Time of solution: 0.016
+Random string of length 456 with alphabet 19. Number of strings equal to 87. Number of quires equal to 28961. Parallel solution: trie. Time of solution: 0.016
+106
+Random string of length 561 with alphabet 9. Number of strings equal to 442. Number of quires equal to 12730. Single solution: stl. Time of solution: 0.016
+Random string of length 561 with alphabet 9. Number of strings equal to 442. Number of quires equal to 12730. Parallel solution: trie. Time of solution: 0.031
+107
+Random string of length 446 with alphabet 15. Number of strings equal to 242. Number of quires equal to 22197. Single solution: stl. Time of solution: 0.011
+Random string of length 446 with alphabet 15. Number of strings equal to 242. Number of quires equal to 22197. Parallel solution: trie. Time of solution: 0.019
+108
+Random string of length 623 with alphabet 6. Number of strings equal to 351. Number of quires equal to 29586. Single solution: stl. Time of solution: 0.016
+Random string of length 623 with alphabet 6. Number of strings equal to 351. Number of quires equal to 29586. Parallel solution: trie. Time of solution: 0.031
+109
+Random string of length 679 with alphabet 9. Number of strings equal to 342. Number of quires equal to 4576. Single solution: stl. Time of solution: 0.002
+Random string of length 679 with alphabet 9. Number of strings equal to 342. Number of quires equal to 4576. Parallel solution: trie. Time of solution: 0.038
+110
+Random string of length 986 with alphabet 14. Number of strings equal to 211. Number of quires equal to 31314. Single solution: stl. Time of solution: 0.019
+Random string of length 986 with alphabet 14. Number of strings equal to 211. Number of quires equal to 31314. Parallel solution: trie. Time of solution: 0.036
+111
+Random string of length 35 with alphabet 20. Number of strings equal to 315. Number of quires equal to 4867. Single solution: stl. Time of solution: 0.000
+Random string of length 35 with alphabet 20. Number of strings equal to 315. Number of quires equal to 4867. Parallel solution: trie. Time of solution: 0.000
+112
+Random string of length 323 with alphabet 16. Number of strings equal to 479. Number of quires equal to 25317. Single solution: stl. Time of solution: 0.000
+Random string of length 323 with alphabet 16. Number of strings equal to 479. Number of quires equal to 25317. Parallel solution: trie. Time of solution: 0.031
+113
+Random string of length 368 with alphabet 18. Number of strings equal to 311. Number of quires equal to 18891. Single solution: stl. Time of solution: -0.000
+Random string of length 368 with alphabet 18. Number of strings equal to 311. Number of quires equal to 18891. Parallel solution: trie. Time of solution: 0.015
+114
+Random string of length 328 with alphabet 12. Number of strings equal to 194. Number of quires equal to 30129. Single solution: stl. Time of solution: 0.010
+Random string of length 328 with alphabet 12. Number of strings equal to 194. Number of quires equal to 30129. Parallel solution: trie. Time of solution: 0.016
+115
+Random string of length 952 with alphabet 2. Number of strings equal to 44. Number of quires equal to 7490. Single solution: stl. Time of solution: 0.004
+Random string of length 952 with alphabet 2. Number of strings equal to 44. Number of quires equal to 7490. Parallel solution: trie. Time of solution: 0.009
+116
+Random string of length 980 with alphabet 8. Number of strings equal to 447. Number of quires equal to 15217. Single solution: stl. Time of solution: 0.012
+Random string of length 980 with alphabet 8. Number of strings equal to 447. Number of quires equal to 15217. Parallel solution: trie. Time of solution: 0.069
+117
+Random string of length 841 with alphabet 11. Number of strings equal to 159. Number of quires equal to 13793. Single solution: stl. Time of solution: 0.000
+Random string of length 841 with alphabet 11. Number of strings equal to 159. Number of quires equal to 13793. Parallel solution: trie. Time of solution: 0.028
+118
+Random string of length 935 with alphabet 6. Number of strings equal to 441. Number of quires equal to 5275. Single solution: stl. Time of solution: 0.016
+Random string of length 935 with alphabet 6. Number of strings equal to 441. Number of quires equal to 5275. Parallel solution: trie. Time of solution: 0.062
+119
+Random string of length 819 with alphabet 20. Number of strings equal to 361. Number of quires equal to 29692. Single solution: stl. Time of solution: 0.016
+Random string of length 819 with alphabet 20. Number of strings equal to 361. Number of quires equal to 29692. Parallel solution: trie. Time of solution: 0.047
+120
+Random string of length 528 with alphabet 13. Number of strings equal to 268. Number of quires equal to 29558. Single solution: stl. Time of solution: 0.017
+Random string of length 528 with alphabet 13. Number of strings equal to 268. Number of quires equal to 29558. Parallel solution: trie. Time of solution: 0.026
+121
+Random string of length 647 with alphabet 7. Number of strings equal to 391. Number of quires equal to 17810. Single solution: stl. Time of solution: 0.000
+Random string of length 647 with alphabet 7. Number of strings equal to 391. Number of quires equal to 17810. Parallel solution: trie. Time of solution: 0.047
+122
+Random string of length 31 with alphabet 14. Number of strings equal to 453. Number of quires equal to 13450. Single solution: stl. Time of solution: 0.012
+Random string of length 31 with alphabet 14. Number of strings equal to 453. Number of quires equal to 13450. Parallel solution: trie. Time of solution: 0.004
+123
+Random string of length 756 with alphabet 2. Number of strings equal to 417. Number of quires equal to 21978. Single solution: stl. Time of solution: 0.016
+Random string of length 756 with alphabet 2. Number of strings equal to 417. Number of quires equal to 21978. Parallel solution: trie. Time of solution: 0.050
+124
+Random string of length 174 with alphabet 15. Number of strings equal to 365. Number of quires equal to 23355. Single solution: stl. Time of solution: 0.009
+Random string of length 174 with alphabet 15. Number of strings equal to 365. Number of quires equal to 23355. Parallel solution: trie. Time of solution: 0.012
+125
+Random string of length 740 with alphabet 12. Number of strings equal to 58. Number of quires equal to 31849. Single solution: stl. Time of solution: -0.000
+Random string of length 740 with alphabet 12. Number of strings equal to 58. Number of quires equal to 31849. Parallel solution: trie. Time of solution: 0.015
+126
+Random string of length 856 with alphabet 10. Number of strings equal to 48. Number of quires equal to 7486. Single solution: stl. Time of solution: -0.000
+Random string of length 856 with alphabet 10. Number of strings equal to 48. Number of quires equal to 7486. Parallel solution: trie. Time of solution: 0.022
+127
+Random string of length 705 with alphabet 9. Number of strings equal to 126. Number of quires equal to 30869. Single solution: stl. Time of solution: 0.021
+Random string of length 705 with alphabet 9. Number of strings equal to 126. Number of quires equal to 30869. Parallel solution: trie. Time of solution: 0.021
+128
+Random string of length 997 with alphabet 11. Number of strings equal to 124. Number of quires equal to 5765. Single solution: stl. Time of solution: 0.003
+Random string of length 997 with alphabet 11. Number of strings equal to 124. Number of quires equal to 5765. Parallel solution: trie. Time of solution: 0.020
+129
+Random string of length 644 with alphabet 7. Number of strings equal to 93. Number of quires equal to 14737. Single solution: stl. Time of solution: 0.002
+Random string of length 644 with alphabet 7. Number of strings equal to 93. Number of quires equal to 14737. Parallel solution: trie. Time of solution: 0.000
+130
+Random string of length 437 with alphabet 11. Number of strings equal to 82. Number of quires equal to 3758. Single solution: stl. Time of solution: 0.001
+Random string of length 437 with alphabet 11. Number of strings equal to 82. Number of quires equal to 3758. Parallel solution: trie. Time of solution: 0.008
+131
+Random string of length 375 with alphabet 4. Number of strings equal to 343. Number of quires equal to 13377. Single solution: stl. Time of solution: 0.000
+Random string of length 375 with alphabet 4. Number of strings equal to 343. Number of quires equal to 13377. Parallel solution: trie. Time of solution: 0.030
+132
+Random string of length 963 with alphabet 18. Number of strings equal to 296. Number of quires equal to 22787. Single solution: stl. Time of solution: 0.000
+Random string of length 963 with alphabet 18. Number of strings equal to 296. Number of quires equal to 22787. Parallel solution: trie. Time of solution: 0.047
+133
+Random string of length 543 with alphabet 6. Number of strings equal to 337. Number of quires equal to 177. Single solution: stl. Time of solution: 0.001
+Random string of length 543 with alphabet 6. Number of strings equal to 337. Number of quires equal to 177. Parallel solution: trie. Time of solution: 0.027
+134
+Random string of length 418 with alphabet 15. Number of strings equal to 28. Number of quires equal to 13155. Single solution: stl. Time of solution: 0.000
+Random string of length 418 with alphabet 15. Number of strings equal to 28. Number of quires equal to 13155. Parallel solution: trie. Time of solution: 0.000
+135
+Random string of length 881 with alphabet 3. Number of strings equal to 442. Number of quires equal to 20370. Single solution: stl. Time of solution: 0.023
+Random string of length 881 with alphabet 3. Number of strings equal to 442. Number of quires equal to 20370. Parallel solution: trie. Time of solution: 0.063
+136
+Random string of length 1 with alphabet 11. Number of strings equal to 282. Number of quires equal to 14526. Single solution: stl. Time of solution: 0.000
+Random string of length 1 with alphabet 11. Number of strings equal to 282. Number of quires equal to 14526. Parallel solution: trie. Time of solution: 0.000
+137
+Random string of length 437 with alphabet 11. Number of strings equal to 360. Number of quires equal to 7969. Single solution: stl. Time of solution: -0.000
+Random string of length 437 with alphabet 11. Number of strings equal to 360. Number of quires equal to 7969. Parallel solution: trie. Time of solution: 0.032
+138
+Random string of length 184 with alphabet 5. Number of strings equal to 288. Number of quires equal to 7984. Single solution: stl. Time of solution: 0.003
+Random string of length 184 with alphabet 5. Number of strings equal to 288. Number of quires equal to 7984. Parallel solution: trie. Time of solution: 0.009
+139
+Random string of length 346 with alphabet 8. Number of strings equal to 310. Number of quires equal to 20072. Single solution: stl. Time of solution: 0.015
+Random string of length 346 with alphabet 8. Number of strings equal to 310. Number of quires equal to 20072. Parallel solution: trie. Time of solution: 0.011
+140
+Random string of length 117 with alphabet 17. Number of strings equal to 259. Number of quires equal to 22561. Single solution: stl. Time of solution: 0.002
+Random string of length 117 with alphabet 17. Number of strings equal to 259. Number of quires equal to 22561. Parallel solution: trie. Time of solution: -0.000
+141
+Random string of length 625 with alphabet 8. Number of strings equal to 397. Number of quires equal to 11609. Single solution: stl. Time of solution: 0.006
+Random string of length 625 with alphabet 8. Number of strings equal to 397. Number of quires equal to 11609. Parallel solution: trie. Time of solution: 0.041
+142
+Random string of length 955 with alphabet 15. Number of strings equal to 183. Number of quires equal to 21373. Single solution: stl. Time of solution: 0.009
+Random string of length 955 with alphabet 15. Number of strings equal to 183. Number of quires equal to 21373. Parallel solution: trie. Time of solution: 0.032
+143
+Random string of length 619 with alphabet 12. Number of strings equal to 224. Number of quires equal to 4644. Single solution: stl. Time of solution: 0.002
+Random string of length 619 with alphabet 12. Number of strings equal to 224. Number of quires equal to 4644. Parallel solution: trie. Time of solution: 0.008
+144
+Random string of length 352 with alphabet 6. Number of strings equal to 494. Number of quires equal to 12233. Single solution: stl. Time of solution: -0.000
+Random string of length 352 with alphabet 6. Number of strings equal to 494. Number of quires equal to 12233. Parallel solution: trie. Time of solution: 0.031
+145
+Random string of length 279 with alphabet 9. Number of strings equal to 322. Number of quires equal to 28315. Single solution: stl. Time of solution: 0.016
+Random string of length 279 with alphabet 9. Number of strings equal to 322. Number of quires equal to 28315. Parallel solution: trie. Time of solution: 0.019
+146
+Random string of length 518 with alphabet 9. Number of strings equal to 312. Number of quires equal to 26958. Single solution: stl. Time of solution: 0.019
+Random string of length 518 with alphabet 9. Number of strings equal to 312. Number of quires equal to 26958. Parallel solution: trie. Time of solution: 0.039
+147
+Random string of length 341 with alphabet 19. Number of strings equal to 131. Number of quires equal to 11017. Single solution: stl. Time of solution: 0.004
+Random string of length 341 with alphabet 19. Number of strings equal to 131. Number of quires equal to 11017. Parallel solution: trie. Time of solution: 0.013
+148
+Random string of length 877 with alphabet 6. Number of strings equal to 225. Number of quires equal to 1248. Single solution: stl. Time of solution: 0.001
+Random string of length 877 with alphabet 6. Number of strings equal to 225. Number of quires equal to 1248. Parallel solution: trie. Time of solution: 0.018
+149
+Random string of length 657 with alphabet 1. Number of strings equal to 397. Number of quires equal to 15202. Single solution: stl. Time of solution: 0.003
+Random string of length 657 with alphabet 1. Number of strings equal to 397. Number of quires equal to 15202. Parallel solution: trie. Time of solution: 0.036
+150
+Random string of length 625 with alphabet 2. Number of strings equal to 159. Number of quires equal to 257. Single solution: stl. Time of solution: 0.001
+Random string of length 625 with alphabet 2. Number of strings equal to 159. Number of quires equal to 257. Parallel solution: trie. Time of solution: 0.014
+151
+Random string of length 458 with alphabet 3. Number of strings equal to 58. Number of quires equal to 32514. Single solution: stl. Time of solution: 0.017
+Random string of length 458 with alphabet 3. Number of strings equal to 58. Number of quires equal to 32514. Parallel solution: trie. Time of solution: 0.011
+152
+Random string of length 928 with alphabet 9. Number of strings equal to 450. Number of quires equal to 1288. Single solution: stl. Time of solution: 0.001
+Random string of length 928 with alphabet 9. Number of strings equal to 450. Number of quires equal to 1288. Parallel solution: trie. Time of solution: 0.065
+153
+Random string of length 580 with alphabet 8. Number of strings equal to 347. Number of quires equal to 28022. Single solution: stl. Time of solution: 0.011
+Random string of length 580 with alphabet 8. Number of strings equal to 347. Number of quires equal to 28022. Parallel solution: trie. Time of solution: 0.036
+154
+Random string of length 516 with alphabet 11. Number of strings equal to 30. Number of quires equal to 9549. Single solution: stl. Time of solution: -0.000
+Random string of length 516 with alphabet 11. Number of strings equal to 30. Number of quires equal to 9549. Parallel solution: trie. Time of solution: 0.015
+155
+Random string of length 386 with alphabet 17. Number of strings equal to 325. Number of quires equal to 2743. Single solution: stl. Time of solution: 0.000
+Random string of length 386 with alphabet 17. Number of strings equal to 325. Number of quires equal to 2743. Parallel solution: trie. Time of solution: 0.032
+156
+Random string of length 7 with alphabet 19. Number of strings equal to 92. Number of quires equal to 2131. Single solution: stl. Time of solution: 0.000
+Random string of length 7 with alphabet 19. Number of strings equal to 92. Number of quires equal to 2131. Parallel solution: trie. Time of solution: 0.000
+157
+Random string of length 943 with alphabet 20. Number of strings equal to 328. Number of quires equal to 14856. Single solution: stl. Time of solution: 0.016
+Random string of length 943 with alphabet 20. Number of strings equal to 328. Number of quires equal to 14856. Parallel solution: trie. Time of solution: 0.047
+158
+Random string of length 21 with alphabet 14. Number of strings equal to 167. Number of quires equal to 22865. Single solution: stl. Time of solution: 0.009
+Random string of length 21 with alphabet 14. Number of strings equal to 167. Number of quires equal to 22865. Parallel solution: trie. Time of solution: 0.003
+159
+Random string of length 260 with alphabet 13. Number of strings equal to 244. Number of quires equal to 391. Single solution: stl. Time of solution: -0.000
+Random string of length 260 with alphabet 13. Number of strings equal to 244. Number of quires equal to 391. Parallel solution: trie. Time of solution: 0.015
+160
+Random string of length 906 with alphabet 7. Number of strings equal to 474. Number of quires equal to 26682. Single solution: stl. Time of solution: 0.014
+Random string of length 906 with alphabet 7. Number of strings equal to 474. Number of quires equal to 26682. Parallel solution: trie. Time of solution: 0.064
+161
+Random string of length 858 with alphabet 18. Number of strings equal to 212. Number of quires equal to 23734. Single solution: stl. Time of solution: 0.016
+Random string of length 858 with alphabet 18. Number of strings equal to 212. Number of quires equal to 23734. Parallel solution: trie. Time of solution: 0.031
+162
+Random string of length 598 with alphabet 13. Number of strings equal to 220. Number of quires equal to 23932. Single solution: stl. Time of solution: 0.007
+Random string of length 598 with alphabet 13. Number of strings equal to 220. Number of quires equal to 23932. Parallel solution: trie. Time of solution: 0.016
+163
+Random string of length 60 with alphabet 7. Number of strings equal to 364. Number of quires equal to 31574. Single solution: stl. Time of solution: 0.011
+Random string of length 60 with alphabet 7. Number of strings equal to 364. Number of quires equal to 31574. Parallel solution: trie. Time of solution: 0.005
+164
+Random string of length 765 with alphabet 12. Number of strings equal to 37. Number of quires equal to 11724. Single solution: stl. Time of solution: 0.003
+Random string of length 765 with alphabet 12. Number of strings equal to 37. Number of quires equal to 11724. Parallel solution: trie. Time of solution: 0.007
+165
+Random string of length 540 with alphabet 20. Number of strings equal to 477. Number of quires equal to 6170. Single solution: stl. Time of solution: -0.000
+Random string of length 540 with alphabet 20. Number of strings equal to 477. Number of quires equal to 6170. Parallel solution: trie. Time of solution: 0.047
+166
+Random string of length 103 with alphabet 17. Number of strings equal to 302. Number of quires equal to 29984. Single solution: stl. Time of solution: -0.000
+Random string of length 103 with alphabet 17. Number of strings equal to 302. Number of quires equal to 29984. Parallel solution: trie. Time of solution: 0.015
+167
+Random string of length 211 with alphabet 1. Number of strings equal to 264. Number of quires equal to 15151. Single solution: stl. Time of solution: 0.000
+Random string of length 211 with alphabet 1. Number of strings equal to 264. Number of quires equal to 15151. Parallel solution: trie. Time of solution: 0.000
+168
+Random string of length 505 with alphabet 11. Number of strings equal to 371. Number of quires equal to 20963. Single solution: stl. Time of solution: 0.011
+Random string of length 505 with alphabet 11. Number of strings equal to 371. Number of quires equal to 20963. Parallel solution: trie. Time of solution: 0.032
+169
+Random string of length 549 with alphabet 9. Number of strings equal to 183. Number of quires equal to 13657. Single solution: stl. Time of solution: 0.008
+Random string of length 549 with alphabet 9. Number of strings equal to 183. Number of quires equal to 13657. Parallel solution: trie. Time of solution: 0.018
+170
+Random string of length 996 with alphabet 9. Number of strings equal to 271. Number of quires equal to 16079. Single solution: stl. Time of solution: 0.009
+Random string of length 996 with alphabet 9. Number of strings equal to 271. Number of quires equal to 16079. Parallel solution: trie. Time of solution: 0.044
+171
+Random string of length 39 with alphabet 16. Number of strings equal to 293. Number of quires equal to 22940. Single solution: stl. Time of solution: -0.000
+Random string of length 39 with alphabet 16. Number of strings equal to 293. Number of quires equal to 22940. Parallel solution: trie. Time of solution: 0.015
+172
+Random string of length 861 with alphabet 2. Number of strings equal to 484. Number of quires equal to 31453. Single solution: stl. Time of solution: 0.027
+Random string of length 861 with alphabet 2. Number of strings equal to 484. Number of quires equal to 31453. Parallel solution: trie. Time of solution: 0.074
+173
+Random string of length 177 with alphabet 13. Number of strings equal to 377. Number of quires equal to 12417. Single solution: stl. Time of solution: 0.004
+Random string of length 177 with alphabet 13. Number of strings equal to 377. Number of quires equal to 12417. Parallel solution: trie. Time of solution: 0.012
+174
+Random string of length 47 with alphabet 14. Number of strings equal to 9. Number of quires equal to 28619. Single solution: stl. Time of solution: 0.008
+Random string of length 47 with alphabet 14. Number of strings equal to 9. Number of quires equal to 28619. Parallel solution: trie. Time of solution: 0.003
+175
+Random string of length 323 with alphabet 8. Number of strings equal to 208. Number of quires equal to 9163. Single solution: stl. Time of solution: 0.003
+Random string of length 323 with alphabet 8. Number of strings equal to 208. Number of quires equal to 9163. Parallel solution: trie. Time of solution: 0.006
+176
+Random string of length 202 with alphabet 19. Number of strings equal to 105. Number of quires equal to 25673. Single solution: stl. Time of solution: 0.007
+Random string of length 202 with alphabet 19. Number of strings equal to 105. Number of quires equal to 25673. Parallel solution: trie. Time of solution: 0.008
+177
+Random string of length 850 with alphabet 8. Number of strings equal to 97. Number of quires equal to 20313. Single solution: stl. Time of solution: 0.011
+Random string of length 850 with alphabet 8. Number of strings equal to 97. Number of quires equal to 20313. Parallel solution: trie. Time of solution: 0.015
+178
+Random string of length 928 with alphabet 18. Number of strings equal to 396. Number of quires equal to 13743. Single solution: stl. Time of solution: 0.010
+Random string of length 928 with alphabet 18. Number of strings equal to 396. Number of quires equal to 13743. Parallel solution: trie. Time of solution: 0.060
+179
+Random string of length 145 with alphabet 15. Number of strings equal to 10. Number of quires equal to 16399. Single solution: stl. Time of solution: 0.000
+Random string of length 145 with alphabet 15. Number of strings equal to 10. Number of quires equal to 16399. Parallel solution: trie. Time of solution: 0.000
+180
+Random string of length 421 with alphabet 6. Number of strings equal to 451. Number of quires equal to 2565. Single solution: stl. Time of solution: 0.002
+Random string of length 421 with alphabet 6. Number of strings equal to 451. Number of quires equal to 2565. Parallel solution: trie. Time of solution: 0.028
+181
+Random string of length 241 with alphabet 1. Number of strings equal to 190. Number of quires equal to 28516. Single solution: stl. Time of solution: 0.011
+Random string of length 241 with alphabet 1. Number of strings equal to 190. Number of quires equal to 28516. Parallel solution: trie. Time of solution: 0.012
+182
+Random string of length 191 with alphabet 18. Number of strings equal to 245. Number of quires equal to 13307. Single solution: stl. Time of solution: 0.000
+Random string of length 191 with alphabet 18. Number of strings equal to 245. Number of quires equal to 13307. Parallel solution: trie. Time of solution: 0.023
+183
+Random string of length 252 with alphabet 8. Number of strings equal to 431. Number of quires equal to 1848. Single solution: stl. Time of solution: 0.002
+Random string of length 252 with alphabet 8. Number of strings equal to 431. Number of quires equal to 1848. Parallel solution: trie. Time of solution: 0.019
+184
+Random string of length 590 with alphabet 17. Number of strings equal to 484. Number of quires equal to 19166. Single solution: stl. Time of solution: -0.000
+Random string of length 590 with alphabet 17. Number of strings equal to 484. Number of quires equal to 19166. Parallel solution: trie. Time of solution: 0.061
+185
+Random string of length 19 with alphabet 14. Number of strings equal to 127. Number of quires equal to 18870. Single solution: stl. Time of solution: 0.007
+Random string of length 19 with alphabet 14. Number of strings equal to 127. Number of quires equal to 18870. Parallel solution: trie. Time of solution: 0.003
+186
+Random string of length 270 with alphabet 10. Number of strings equal to 50. Number of quires equal to 21022. Single solution: stl. Time of solution: 0.016
+Random string of length 270 with alphabet 10. Number of strings equal to 50. Number of quires equal to 21022. Parallel solution: trie. Time of solution: 0.000
+187
+Random string of length 867 with alphabet 6. Number of strings equal to 493. Number of quires equal to 12025. Single solution: stl. Time of solution: 0.008
+Random string of length 867 with alphabet 6. Number of strings equal to 493. Number of quires equal to 12025. Parallel solution: trie. Time of solution: 0.069
+188
+Random string of length 234 with alphabet 12. Number of strings equal to 498. Number of quires equal to 31486. Single solution: stl. Time of solution: 0.013
+Random string of length 234 with alphabet 12. Number of strings equal to 498. Number of quires equal to 31486. Parallel solution: trie. Time of solution: 0.022
+189
+Random string of length 666 with alphabet 16. Number of strings equal to 78. Number of quires equal to 13440. Single solution: stl. Time of solution: 0.000
+Random string of length 666 with alphabet 16. Number of strings equal to 78. Number of quires equal to 13440. Parallel solution: trie. Time of solution: 0.025
+190
+Random string of length 970 with alphabet 16. Number of strings equal to 69. Number of quires equal to 15721. Single solution: stl. Time of solution: 0.005
+Random string of length 970 with alphabet 16. Number of strings equal to 69. Number of quires equal to 15721. Parallel solution: trie. Time of solution: 0.011
+191
+Random string of length 204 with alphabet 1. Number of strings equal to 92. Number of quires equal to 24395. Single solution: stl. Time of solution: 0.008
+Random string of length 204 with alphabet 1. Number of strings equal to 92. Number of quires equal to 24395. Parallel solution: trie. Time of solution: 0.008
+192
+Random string of length 961 with alphabet 8. Number of strings equal to 295. Number of quires equal to 21183. Single solution: stl. Time of solution: 0.000
+Random string of length 961 with alphabet 8. Number of strings equal to 295. Number of quires equal to 21183. Parallel solution: trie. Time of solution: 0.047
+193
+Random string of length 38 with alphabet 17. Number of strings equal to 128. Number of quires equal to 19599. Single solution: stl. Time of solution: 0.005
+Random string of length 38 with alphabet 17. Number of strings equal to 128. Number of quires equal to 19599. Parallel solution: trie. Time of solution: 0.002
+194
+Random string of length 548 with alphabet 20. Number of strings equal to 383. Number of quires equal to 8202. Single solution: stl. Time of solution: 0.016
+Random string of length 548 with alphabet 20. Number of strings equal to 383. Number of quires equal to 8202. Parallel solution: trie. Time of solution: 0.038
+195
+Random string of length 838 with alphabet 9. Number of strings equal to 49. Number of quires equal to 13734. Single solution: stl. Time of solution: 0.003
+Random string of length 838 with alphabet 9. Number of strings equal to 49. Number of quires equal to 13734. Parallel solution: trie. Time of solution: 0.000
+196
+Random string of length 226 with alphabet 14. Number of strings equal to 31. Number of quires equal to 18141. Single solution: stl. Time of solution: 0.000
+Random string of length 226 with alphabet 14. Number of strings equal to 31. Number of quires equal to 18141. Parallel solution: trie. Time of solution: 0.000
+197
+Random string of length 583 with alphabet 2. Number of strings equal to 312. Number of quires equal to 32596. Single solution: stl. Time of solution: 0.014
+Random string of length 583 with alphabet 2. Number of strings equal to 312. Number of quires equal to 32596. Parallel solution: trie. Time of solution: 0.024
+198
+Random string of length 769 with alphabet 17. Number of strings equal to 43. Number of quires equal to 26690. Single solution: stl. Time of solution: 0.010
+Random string of length 769 with alphabet 17. Number of strings equal to 43. Number of quires equal to 26690. Parallel solution: trie. Time of solution: 0.008
+199
+Random string of length 15 with alphabet 14. Number of strings equal to 339. Number of quires equal to 30705. Single solution: stl. Time of solution: 0.005
+Random string of length 15 with alphabet 14. Number of strings equal to 339. Number of quires equal to 30705. Parallel solution: trie. Time of solution: 0.001
+200
+Random string of length 115 with alphabet 7. Number of strings equal to 158. Number of quires equal to 20485. Single solution: stl. Time of solution: 0.007
+Random string of length 115 with alphabet 7. Number of strings equal to 158. Number of quires equal to 20485. Parallel solution: trie. Time of solution: 0.004
+201
+Random string of length 146 with alphabet 19. Number of strings equal to 71. Number of quires equal to 13958. Single solution: stl. Time of solution: -0.000
+Random string of length 146 with alphabet 19. Number of strings equal to 71. Number of quires equal to 13958. Parallel solution: trie. Time of solution: -0.000
+202
+Random string of length 699 with alphabet 18. Number of strings equal to 51. Number of quires equal to 17622. Single solution: stl. Time of solution: -0.000
+Random string of length 699 with alphabet 18. Number of strings equal to 51. Number of quires equal to 17622. Parallel solution: trie. Time of solution: -0.000
+203
+Random string of length 286 with alphabet 7. Number of strings equal to 414. Number of quires equal to 9809. Single solution: stl. Time of solution: 0.004
+Random string of length 286 with alphabet 7. Number of strings equal to 414. Number of quires equal to 9809. Parallel solution: trie. Time of solution: 0.020
+204
+Random string of length 308 with alphabet 11. Number of strings equal to 137. Number of quires equal to 30409. Single solution: stl. Time of solution: 0.010
+Random string of length 308 with alphabet 11. Number of strings equal to 137. Number of quires equal to 30409. Parallel solution: trie. Time of solution: 0.010
+205
+Random string of length 635 with alphabet 11. Number of strings equal to 105. Number of quires equal to 5819. Single solution: stl. Time of solution: 0.000
+Random string of length 635 with alphabet 11. Number of strings equal to 105. Number of quires equal to 5819. Parallel solution: trie. Time of solution: 0.015
+206
+Random string of length 419 with alphabet 20. Number of strings equal to 255. Number of quires equal to 18186. Single solution: stl. Time of solution: 0.002
+Random string of length 419 with alphabet 20. Number of strings equal to 255. Number of quires equal to 18186. Parallel solution: trie. Time of solution: 0.016
+207
+Random string of length 802 with alphabet 1. Number of strings equal to 106. Number of quires equal to 4147. Single solution: stl. Time of solution: 0.004
+Random string of length 802 with alphabet 1. Number of strings equal to 106. Number of quires equal to 4147. Parallel solution: trie. Time of solution: 0.008
+208
+Random string of length 581 with alphabet 13. Number of strings equal to 425. Number of quires equal to 2328. Single solution: stl. Time of solution: 0.000
+Random string of length 581 with alphabet 13. Number of strings equal to 425. Number of quires equal to 2328. Parallel solution: trie. Time of solution: 0.046
+209
+Random string of length 283 with alphabet 13. Number of strings equal to 422. Number of quires equal to 26388. Single solution: stl. Time of solution: 0.017
+Random string of length 283 with alphabet 13. Number of strings equal to 422. Number of quires equal to 26388. Parallel solution: trie. Time of solution: 0.021
+210
+Random string of length 963 with alphabet 15. Number of strings equal to 372. Number of quires equal to 9090. Single solution: stl. Time of solution: 0.000
+Random string of length 963 with alphabet 15. Number of strings equal to 372. Number of quires equal to 9090. Parallel solution: trie. Time of solution: 0.063
+211
+Random string of length 326 with alphabet 11. Number of strings equal to 475. Number of quires equal to 29720. Single solution: stl. Time of solution: 0.006
+Random string of length 326 with alphabet 11. Number of strings equal to 475. Number of quires equal to 29720. Parallel solution: trie. Time of solution: 0.031
+212
+Random string of length 497 with alphabet 16. Number of strings equal to 335. Number of quires equal to 5989. Single solution: stl. Time of solution: 0.003
+Random string of length 497 with alphabet 16. Number of strings equal to 335. Number of quires equal to 5989. Parallel solution: trie. Time of solution: 0.028
+213
+Random string of length 658 with alphabet 17. Number of strings equal to 293. Number of quires equal to 29072. Single solution: stl. Time of solution: 0.000
+Random string of length 658 with alphabet 17. Number of strings equal to 293. Number of quires equal to 29072. Parallel solution: trie. Time of solution: 0.047
+214
+Random string of length 175 with alphabet 1. Number of strings equal to 258. Number of quires equal to 13733. Single solution: stl. Time of solution: 0.021
+Random string of length 175 with alphabet 1. Number of strings equal to 258. Number of quires equal to 13733. Parallel solution: trie. Time of solution: 0.012
+215
+Random string of length 780 with alphabet 5. Number of strings equal to 477. Number of quires equal to 765. Single solution: stl. Time of solution: 0.001
+Random string of length 780 with alphabet 5. Number of strings equal to 477. Number of quires equal to 765. Parallel solution: trie. Time of solution: 0.059
+216
+Random string of length 896 with alphabet 9. Number of strings equal to 53. Number of quires equal to 17731. Single solution: stl. Time of solution: 0.024
+Random string of length 896 with alphabet 9. Number of strings equal to 53. Number of quires equal to 17731. Parallel solution: trie. Time of solution: 0.010
+217
+Random string of length 718 with alphabet 6. Number of strings equal to 292. Number of quires equal to 5353. Single solution: stl. Time of solution: 0.000
+Random string of length 718 with alphabet 6. Number of strings equal to 292. Number of quires equal to 5353. Parallel solution: trie. Time of solution: 0.032
+218
+Random string of length 697 with alphabet 7. Number of strings equal to 95. Number of quires equal to 12646. Single solution: stl. Time of solution: 0.004
+Random string of length 697 with alphabet 7. Number of strings equal to 95. Number of quires equal to 12646. Parallel solution: trie. Time of solution: 0.010
+219
+Random string of length 851 with alphabet 16. Number of strings equal to 38. Number of quires equal to 4512. Single solution: stl. Time of solution: 0.000
+Random string of length 851 with alphabet 16. Number of strings equal to 38. Number of quires equal to 4512. Parallel solution: trie. Time of solution: 0.016
+220
+Random string of length 120 with alphabet 4. Number of strings equal to 293. Number of quires equal to 10297. Single solution: stl. Time of solution: 0.006
+Random string of length 120 with alphabet 4. Number of strings equal to 293. Number of quires equal to 10297. Parallel solution: trie. Time of solution: 0.007
+221
+Random string of length 345 with alphabet 10. Number of strings equal to 108. Number of quires equal to 833. Single solution: stl. Time of solution: 0.000
+Random string of length 345 with alphabet 10. Number of strings equal to 108. Number of quires equal to 833. Parallel solution: trie. Time of solution: 0.006
+222
+Random string of length 436 with alphabet 1. Number of strings equal to 489. Number of quires equal to 1725. Single solution: stl. Time of solution: 0.001
+Random string of length 436 with alphabet 1. Number of strings equal to 489. Number of quires equal to 1725. Parallel solution: trie. Time of solution: 0.009
+223
+Random string of length 319 with alphabet 10. Number of strings equal to 174. Number of quires equal to 2584. Single solution: stl. Time of solution: 0.001
+Random string of length 319 with alphabet 10. Number of strings equal to 174. Number of quires equal to 2584. Parallel solution: trie. Time of solution: 0.009
+224
+Random string of length 481 with alphabet 10. Number of strings equal to 491. Number of quires equal to 13181. Single solution: stl. Time of solution: 0.000
+Random string of length 481 with alphabet 10. Number of strings equal to 491. Number of quires equal to 13181. Parallel solution: trie. Time of solution: 0.047
+225
+Random string of length 187 with alphabet 7. Number of strings equal to 369. Number of quires equal to 16613. Single solution: stl. Time of solution: 0.007
+Random string of length 187 with alphabet 7. Number of strings equal to 369. Number of quires equal to 16613. Parallel solution: trie. Time of solution: 0.012
+226
+Random string of length 801 with alphabet 20. Number of strings equal to 487. Number of quires equal to 22851. Single solution: stl. Time of solution: 0.015
+Random string of length 801 with alphabet 20. Number of strings equal to 487. Number of quires equal to 22851. Parallel solution: trie. Time of solution: 0.066
+227
+Random string of length 783 with alphabet 10. Number of strings equal to 272. Number of quires equal to 15714. Single solution: stl. Time of solution: 0.004
+Random string of length 783 with alphabet 10. Number of strings equal to 272. Number of quires equal to 15714. Parallel solution: trie. Time of solution: 0.031
+228
+Random string of length 731 with alphabet 8. Number of strings equal to 110. Number of quires equal to 28293. Single solution: stl. Time of solution: 0.011
+Random string of length 731 with alphabet 8. Number of strings equal to 110. Number of quires equal to 28293. Parallel solution: trie. Time of solution: 0.018
+229
+Random string of length 205 with alphabet 3. Number of strings equal to 224. Number of quires equal to 28645. Single solution: stl. Time of solution: 0.011
+Random string of length 205 with alphabet 3. Number of strings equal to 224. Number of quires equal to 28645. Parallel solution: trie. Time of solution: 0.009
+230
+Random string of length 981 with alphabet 13. Number of strings equal to 184. Number of quires equal to 8893. Single solution: stl. Time of solution: 0.005
+Random string of length 981 with alphabet 13. Number of strings equal to 184. Number of quires equal to 8893. Parallel solution: trie. Time of solution: 0.031
+231
+Random string of length 220 with alphabet 14. Number of strings equal to 477. Number of quires equal to 32254. Single solution: stl. Time of solution: 0.014
+Random string of length 220 with alphabet 14. Number of strings equal to 477. Number of quires equal to 32254. Parallel solution: trie. Time of solution: 0.020
+232
+Random string of length 32 with alphabet 5. Number of strings equal to 292. Number of quires equal to 28711. Single solution: stl. Time of solution: 0.008
+Random string of length 32 with alphabet 5. Number of strings equal to 292. Number of quires equal to 28711. Parallel solution: trie. Time of solution: 0.004
+233
+Random string of length 464 with alphabet 10. Number of strings equal to 262. Number of quires equal to 24548. Single solution: stl. Time of solution: 0.015
+Random string of length 464 with alphabet 10. Number of strings equal to 262. Number of quires equal to 24548. Parallel solution: trie. Time of solution: 0.022
+234
+Random string of length 204 with alphabet 18. Number of strings equal to 444. Number of quires equal to 7011. Single solution: stl. Time of solution: 0.003
+Random string of length 204 with alphabet 18. Number of strings equal to 444. Number of quires equal to 7011. Parallel solution: trie. Time of solution: 0.017
+235
+Random string of length 45 with alphabet 6. Number of strings equal to 118. Number of quires equal to 8737. Single solution: stl. Time of solution: 0.002
+Random string of length 45 with alphabet 6. Number of strings equal to 118. Number of quires equal to 8737. Parallel solution: trie. Time of solution: 0.001
+236
+Random string of length 845 with alphabet 3. Number of strings equal to 496. Number of quires equal to 8732. Single solution: stl. Time of solution: 0.004
+Random string of length 845 with alphabet 3. Number of strings equal to 496. Number of quires equal to 8732. Parallel solution: trie. Time of solution: 0.067
+237
+Random string of length 853 with alphabet 2. Number of strings equal to 341. Number of quires equal to 20734. Single solution: stl. Time of solution: 0.010
+Random string of length 853 with alphabet 2. Number of strings equal to 341. Number of quires equal to 20734. Parallel solution: trie. Time of solution: 0.048
+238
+Random string of length 472 with alphabet 5. Number of strings equal to 374. Number of quires equal to 5544. Single solution: stl. Time of solution: 0.002
+Random string of length 472 with alphabet 5. Number of strings equal to 374. Number of quires equal to 5544. Parallel solution: trie. Time of solution: 0.029
+239
+Random string of length 375 with alphabet 18. Number of strings equal to 205. Number of quires equal to 2909. Single solution: stl. Time of solution: 0.001
+Random string of length 375 with alphabet 18. Number of strings equal to 205. Number of quires equal to 2909. Parallel solution: trie. Time of solution: 0.013
+240
+Random string of length 739 with alphabet 4. Number of strings equal to 175. Number of quires equal to 11768. Single solution: stl. Time of solution: 0.004
+Random string of length 739 with alphabet 4. Number of strings equal to 175. Number of quires equal to 11768. Parallel solution: trie. Time of solution: 0.023
+241
+Random string of length 483 with alphabet 16. Number of strings equal to 48. Number of quires equal to 7962. Single solution: stl. Time of solution: 0.004
+Random string of length 483 with alphabet 16. Number of strings equal to 48. Number of quires equal to 7962. Parallel solution: trie. Time of solution: 0.004
+242
+Random string of length 498 with alphabet 2. Number of strings equal to 346. Number of quires equal to 10282. Single solution: stl. Time of solution: 0.005
+Random string of length 498 with alphabet 2. Number of strings equal to 346. Number of quires equal to 10282. Parallel solution: trie. Time of solution: 0.028
+243
+Random string of length 655 with alphabet 19. Number of strings equal to 491. Number of quires equal to 7847. Single solution: stl. Time of solution: 0.005
+Random string of length 655 with alphabet 19. Number of strings equal to 491. Number of quires equal to 7847. Parallel solution: trie. Time of solution: 0.052
+244
+Random string of length 342 with alphabet 5. Number of strings equal to 392. Number of quires equal to 6734. Single solution: stl. Time of solution: 0.002
+Random string of length 342 with alphabet 5. Number of strings equal to 392. Number of quires equal to 6734. Parallel solution: trie. Time of solution: 0.022
+245
+Random string of length 164 with alphabet 10. Number of strings equal to 28. Number of quires equal to 5496. Single solution: stl. Time of solution: 0.001
+Random string of length 164 with alphabet 10. Number of strings equal to 28. Number of quires equal to 5496. Parallel solution: trie. Time of solution: 0.002
+246
+Random string of length 116 with alphabet 16. Number of strings equal to 31. Number of quires equal to 13637. Single solution: stl. Time of solution: 0.005
+Random string of length 116 with alphabet 16. Number of strings equal to 31. Number of quires equal to 13637. Parallel solution: trie. Time of solution: 0.002
+247
+Random string of length 331 with alphabet 7. Number of strings equal to 76. Number of quires equal to 16387. Single solution: stl. Time of solution: 0.008
+Random string of length 331 with alphabet 7. Number of strings equal to 76. Number of quires equal to 16387. Parallel solution: trie. Time of solution: 0.007
+248
+Random string of length 737 with alphabet 13. Number of strings equal to 101. Number of quires equal to 27782. Single solution: stl. Time of solution: 0.017
+Random string of length 737 with alphabet 13. Number of strings equal to 101. Number of quires equal to 27782. Parallel solution: trie. Time of solution: 0.013
+249
+Random string of length 328 with alphabet 3. Number of strings equal to 147. Number of quires equal to 9462. Single solution: stl. Time of solution: 0.005
+Random string of length 328 with alphabet 3. Number of strings equal to 147. Number of quires equal to 9462. Parallel solution: trie. Time of solution: 0.008
+250
+Random string of length 322 with alphabet 8. Number of strings equal to 425. Number of quires equal to 27427. Single solution: stl. Time of solution: 0.015
+Random string of length 322 with alphabet 8. Number of strings equal to 425. Number of quires equal to 27427. Parallel solution: trie. Time of solution: 0.016
+251
+Random string of length 44 with alphabet 5. Number of strings equal to 306. Number of quires equal to 31422. Single solution: stl. Time of solution: 0.012
+Random string of length 44 with alphabet 5. Number of strings equal to 306. Number of quires equal to 31422. Parallel solution: trie. Time of solution: 0.005
+252
+Random string of length 802 with alphabet 5. Number of strings equal to 405. Number of quires equal to 22010. Single solution: stl. Time of solution: 0.011
+Random string of length 802 with alphabet 5. Number of strings equal to 405. Number of quires equal to 22010. Parallel solution: trie. Time of solution: 0.053
+253
+Random string of length 7 with alphabet 15. Number of strings equal to 132. Number of quires equal to 23232. Single solution: stl. Time of solution: 0.005
+Random string of length 7 with alphabet 15. Number of strings equal to 132. Number of quires equal to 23232. Parallel solution: trie. Time of solution: 0.001
+254
+Random string of length 549 with alphabet 8. Number of strings equal to 312. Number of quires equal to 24206. Single solution: stl. Time of solution: 0.009
+Random string of length 549 with alphabet 8. Number of strings equal to 312. Number of quires equal to 24206. Parallel solution: trie. Time of solution: 0.016
+255
+Random string of length 297 with alphabet 11. Number of strings equal to 237. Number of quires equal to 12524. Single solution: stl. Time of solution: 0.005
+Random string of length 297 with alphabet 11. Number of strings equal to 237. Number of quires equal to 12524. Parallel solution: trie. Time of solution: 0.012
+256
+Random string of length 721 with alphabet 5. Number of strings equal to 306. Number of quires equal to 11533. Single solution: stl. Time of solution: 0.006
+Random string of length 721 with alphabet 5. Number of strings equal to 306. Number of quires equal to 11533. Parallel solution: trie. Time of solution: 0.036
+257
+Random string of length 434 with alphabet 20. Number of strings equal to 265. Number of quires equal to 29949. Single solution: stl. Time of solution: 0.011
+Random string of length 434 with alphabet 20. Number of strings equal to 265. Number of quires equal to 29949. Parallel solution: trie. Time of solution: 0.023
+258
+Random string of length 755 with alphabet 15. Number of strings equal to 247. Number of quires equal to 17369. Single solution: stl. Time of solution: 0.007
+Random string of length 755 with alphabet 15. Number of strings equal to 247. Number of quires equal to 17369. Parallel solution: trie. Time of solution: 0.032
+259
+Random string of length 583 with alphabet 15. Number of strings equal to 148. Number of quires equal to 2196. Single solution: stl. Time of solution: -0.000
+Random string of length 583 with alphabet 15. Number of strings equal to 148. Number of quires equal to 2196. Parallel solution: trie. Time of solution: 0.014
+260
+Random string of length 912 with alphabet 8. Number of strings equal to 231. Number of quires equal to 7216. Single solution: stl. Time of solution: 0.004
+Random string of length 912 with alphabet 8. Number of strings equal to 231. Number of quires equal to 7216. Parallel solution: trie. Time of solution: 0.033
+261
+Random string of length 182 with alphabet 8. Number of strings equal to 361. Number of quires equal to 20041. Single solution: stl. Time of solution: 0.016
+Random string of length 182 with alphabet 8. Number of strings equal to 361. Number of quires equal to 20041. Parallel solution: trie. Time of solution: 0.016
+262
+Random string of length 154 with alphabet 16. Number of strings equal to 449. Number of quires equal to 20258. Single solution: stl. Time of solution: 0.015
+Random string of length 154 with alphabet 16. Number of strings equal to 449. Number of quires equal to 20258. Parallel solution: trie. Time of solution: 0.016
+263
+Random string of length 739 with alphabet 8. Number of strings equal to 183. Number of quires equal to 32404. Single solution: stl. Time of solution: 0.007
+Random string of length 739 with alphabet 8. Number of strings equal to 183. Number of quires equal to 32404. Parallel solution: trie. Time of solution: 0.016
+264
+Random string of length 384 with alphabet 1. Number of strings equal to 239. Number of quires equal to 23421. Single solution: stl. Time of solution: 0.010
+Random string of length 384 with alphabet 1. Number of strings equal to 239. Number of quires equal to 23421. Parallel solution: trie. Time of solution: 0.015
+265
+Random string of length 593 with alphabet 15. Number of strings equal to 71. Number of quires equal to 27198. Single solution: stl. Time of solution: 0.019
+Random string of length 593 with alphabet 15. Number of strings equal to 71. Number of quires equal to 27198. Parallel solution: trie. Time of solution: 0.016
+266
+Random string of length 420 with alphabet 6. Number of strings equal to 287. Number of quires equal to 11567. Single solution: stl. Time of solution: 0.005
+Random string of length 420 with alphabet 6. Number of strings equal to 287. Number of quires equal to 11567. Parallel solution: trie. Time of solution: 0.021
+267
+Random string of length 775 with alphabet 20. Number of strings equal to 275. Number of quires equal to 4598. Single solution: stl. Time of solution: 0.002
+Random string of length 775 with alphabet 20. Number of strings equal to 275. Number of quires equal to 4598. Parallel solution: trie. Time of solution: 0.035
+268
+Random string of length 711 with alphabet 2. Number of strings equal to 145. Number of quires equal to 32153. Single solution: stl. Time of solution: 0.022
+Random string of length 711 with alphabet 2. Number of strings equal to 145. Number of quires equal to 32153. Parallel solution: trie. Time of solution: 0.024
+269
+Random string of length 555 with alphabet 17. Number of strings equal to 438. Number of quires equal to 11000. Single solution: stl. Time of solution: 0.004
+Random string of length 555 with alphabet 17. Number of strings equal to 438. Number of quires equal to 11000. Parallel solution: trie. Time of solution: 0.038
+270
+Random string of length 446 with alphabet 14. Number of strings equal to 154. Number of quires equal to 12885. Single solution: stl. Time of solution: 0.005
+Random string of length 446 with alphabet 14. Number of strings equal to 154. Number of quires equal to 12885. Parallel solution: trie. Time of solution: 0.012
+271
+Random string of length 621 with alphabet 17. Number of strings equal to 321. Number of quires equal to 12400. Single solution: stl. Time of solution: 0.016
+Random string of length 621 with alphabet 17. Number of strings equal to 321. Number of quires equal to 12400. Parallel solution: trie. Time of solution: 0.031
+272
+Random string of length 469 with alphabet 3. Number of strings equal to 326. Number of quires equal to 25273. Single solution: stl. Time of solution: 0.010
+Random string of length 469 with alphabet 3. Number of strings equal to 326. Number of quires equal to 25273. Parallel solution: trie. Time of solution: 0.020
+273
+Random string of length 719 with alphabet 12. Number of strings equal to 24. Number of quires equal to 14967. Single solution: stl. Time of solution: 0.004
+Random string of length 719 with alphabet 12. Number of strings equal to 24. Number of quires equal to 14967. Parallel solution: trie. Time of solution: 0.006
+274
+Random string of length 61 with alphabet 7. Number of strings equal to 33. Number of quires equal to 14660. Single solution: stl. Time of solution: 0.000
+Random string of length 61 with alphabet 7. Number of strings equal to 33. Number of quires equal to 14660. Parallel solution: trie. Time of solution: 0.000
+275
+Random string of length 155 with alphabet 11. Number of strings equal to 244. Number of quires equal to 22707. Single solution: stl. Time of solution: 0.010
+Random string of length 155 with alphabet 11. Number of strings equal to 244. Number of quires equal to 22707. Parallel solution: trie. Time of solution: 0.009
+276
+Random string of length 895 with alphabet 12. Number of strings equal to 273. Number of quires equal to 6305. Single solution: stl. Time of solution: 0.000
+Random string of length 895 with alphabet 12. Number of strings equal to 273. Number of quires equal to 6305. Parallel solution: trie. Time of solution: 0.043
+277
+Random string of length 204 with alphabet 1. Number of strings equal to 21. Number of quires equal to 1681. Single solution: stl. Time of solution: -0.000
+Random string of length 204 with alphabet 1. Number of strings equal to 21. Number of quires equal to 1681. Parallel solution: trie. Time of solution: -0.000
+278
+Random string of length 930 with alphabet 19. Number of strings equal to 331. Number of quires equal to 2500. Single solution: stl. Time of solution: 0.001
+Random string of length 930 with alphabet 19. Number of strings equal to 331. Number of quires equal to 2500. Parallel solution: trie. Time of solution: 0.050
+279
+Random string of length 720 with alphabet 17. Number of strings equal to 175. Number of quires equal to 8936. Single solution: stl. Time of solution: 0.004
+Random string of length 720 with alphabet 17. Number of strings equal to 175. Number of quires equal to 8936. Parallel solution: trie. Time of solution: 0.022
+280
+Random string of length 440 with alphabet 9. Number of strings equal to 233. Number of quires equal to 1869. Single solution: stl. Time of solution: 0.001
+Random string of length 440 with alphabet 9. Number of strings equal to 233. Number of quires equal to 1869. Parallel solution: trie. Time of solution: 0.015
+281
+Random string of length 625 with alphabet 4. Number of strings equal to 23. Number of quires equal to 5512. Single solution: stl. Time of solution: 0.001
+Random string of length 625 with alphabet 4. Number of strings equal to 23. Number of quires equal to 5512. Parallel solution: trie. Time of solution: 0.004
+282
+Random string of length 110 with alphabet 17. Number of strings equal to 287. Number of quires equal to 14682. Single solution: stl. Time of solution: 0.004
+Random string of length 110 with alphabet 17. Number of strings equal to 287. Number of quires equal to 14682. Parallel solution: trie. Time of solution: 0.007
+283
+Random string of length 349 with alphabet 15. Number of strings equal to 295. Number of quires equal to 3651. Single solution: stl. Time of solution: 0.003
+Random string of length 349 with alphabet 15. Number of strings equal to 295. Number of quires equal to 3651. Parallel solution: trie. Time of solution: 0.018
+284
+Random string of length 462 with alphabet 13. Number of strings equal to 25. Number of quires equal to 10529. Single solution: stl. Time of solution: 0.003
+Random string of length 462 with alphabet 13. Number of strings equal to 25. Number of quires equal to 10529. Parallel solution: trie. Time of solution: 0.004
+285
+Random string of length 859 with alphabet 17. Number of strings equal to 265. Number of quires equal to 626. Single solution: stl. Time of solution: 0.001
+Random string of length 859 with alphabet 17. Number of strings equal to 265. Number of quires equal to 626. Parallel solution: trie. Time of solution: 0.036
+286
+Random string of length 180 with alphabet 13. Number of strings equal to 291. Number of quires equal to 5545. Single solution: stl. Time of solution: 0.003
+Random string of length 180 with alphabet 13. Number of strings equal to 291. Number of quires equal to 5545. Parallel solution: trie. Time of solution: 0.009
+287
+Random string of length 796 with alphabet 5. Number of strings equal to 433. Number of quires equal to 20544. Single solution: stl. Time of solution: 0.020
+Random string of length 796 with alphabet 5. Number of strings equal to 433. Number of quires equal to 20544. Parallel solution: trie. Time of solution: 0.063
+288
+Random string of length 830 with alphabet 20. Number of strings equal to 203. Number of quires equal to 1835. Single solution: stl. Time of solution: 0.001
+Random string of length 830 with alphabet 20. Number of strings equal to 203. Number of quires equal to 1835. Parallel solution: trie. Time of solution: 0.024
+289
+Random string of length 556 with alphabet 4. Number of strings equal to 315. Number of quires equal to 4921. Single solution: stl. Time of solution: 0.015
+Random string of length 556 with alphabet 4. Number of strings equal to 315. Number of quires equal to 4921. Parallel solution: trie. Time of solution: 0.029
+290
+Random string of length 776 with alphabet 12. Number of strings equal to 282. Number of quires equal to 16995. Single solution: stl. Time of solution: 0.008
+Random string of length 776 with alphabet 12. Number of strings equal to 282. Number of quires equal to 16995. Parallel solution: trie. Time of solution: 0.034
+291
+Random string of length 292 with alphabet 7. Number of strings equal to 382. Number of quires equal to 6239. Single solution: stl. Time of solution: 0.003
+Random string of length 292 with alphabet 7. Number of strings equal to 382. Number of quires equal to 6239. Parallel solution: trie. Time of solution: 0.017
+292
+Random string of length 613 with alphabet 20. Number of strings equal to 490. Number of quires equal to 22533. Single solution: stl. Time of solution: 0.014
+Random string of length 613 with alphabet 20. Number of strings equal to 490. Number of quires equal to 22533. Parallel solution: trie. Time of solution: 0.051
+293
+Random string of length 257 with alphabet 3. Number of strings equal to 234. Number of quires equal to 29335. Single solution: stl. Time of solution: 0.018
+Random string of length 257 with alphabet 3. Number of strings equal to 234. Number of quires equal to 29335. Parallel solution: trie. Time of solution: 0.014
+294
+Random string of length 909 with alphabet 14. Number of strings equal to 345. Number of quires equal to 25752. Single solution: stl. Time of solution: 0.014
+Random string of length 909 with alphabet 14. Number of strings equal to 345. Number of quires equal to 25752. Parallel solution: trie. Time of solution: 0.053
+295
+Random string of length 247 with alphabet 2. Number of strings equal to 358. Number of quires equal to 22336. Single solution: stl. Time of solution: 0.012
+Random string of length 247 with alphabet 2. Number of strings equal to 358. Number of quires equal to 22336. Parallel solution: trie. Time of solution: 0.017
+296
+Random string of length 227 with alphabet 9. Number of strings equal to 435. Number of quires equal to 6765. Single solution: stl. Time of solution: 0.004
+Random string of length 227 with alphabet 9. Number of strings equal to 435. Number of quires equal to 6765. Parallel solution: trie. Time of solution: 0.023
+297
+Random string of length 51 with alphabet 20. Number of strings equal to 172. Number of quires equal to 28264. Single solution: stl. Time of solution: 0.012
+Random string of length 51 with alphabet 20. Number of strings equal to 172. Number of quires equal to 28264. Parallel solution: trie. Time of solution: 0.006
+298
+Random string of length 351 with alphabet 18. Number of strings equal to 452. Number of quires equal to 13075. Single solution: stl. Time of solution: 0.007
+Random string of length 351 with alphabet 18. Number of strings equal to 452. Number of quires equal to 13075. Parallel solution: trie. Time of solution: 0.029
+299
+Random string of length 488 with alphabet 12. Number of strings equal to 113. Number of quires equal to 27947. Single solution: stl. Time of solution: 0.016
+Random string of length 488 with alphabet 12. Number of strings equal to 113. Number of quires equal to 27947. Parallel solution: trie. Time of solution: 0.014
+300
+Random string of length 940 with alphabet 4. Number of strings equal to 246. Number of quires equal to 14521. Single solution: stl. Time of solution: 0.000
+Random string of length 940 with alphabet 4. Number of strings equal to 246. Number of quires equal to 14521. Parallel solution: trie. Time of solution: 0.031
+301
+Random string of length 844 with alphabet 5. Number of strings equal to 169. Number of quires equal to 1412. Single solution: stl. Time of solution: 0.000
+Random string of length 844 with alphabet 5. Number of strings equal to 169. Number of quires equal to 1412. Parallel solution: trie. Time of solution: 0.031
+302
+Random string of length 9 with alphabet 10. Number of strings equal to 331. Number of quires equal to 3393. Single solution: stl. Time of solution: 0.000
+Random string of length 9 with alphabet 10. Number of strings equal to 331. Number of quires equal to 3393. Parallel solution: trie. Time of solution: 0.000
+303
+Random string of length 684 with alphabet 2. Number of strings equal to 209. Number of quires equal to 19727. Single solution: stl. Time of solution: 0.014
+Random string of length 684 with alphabet 2. Number of strings equal to 209. Number of quires equal to 19727. Parallel solution: trie. Time of solution: 0.027
+304
+Random string of length 668 with alphabet 9. Number of strings equal to 210. Number of quires equal to 3164. Single solution: stl. Time of solution: 0.002
+Random string of length 668 with alphabet 9. Number of strings equal to 210. Number of quires equal to 3164. Parallel solution: trie. Time of solution: 0.022
+305
+Random string of length 735 with alphabet 8. Number of strings equal to 479. Number of quires equal to 7675. Single solution: stl. Time of solution: 0.008
+Random string of length 735 with alphabet 8. Number of strings equal to 479. Number of quires equal to 7675. Parallel solution: trie. Time of solution: 0.045
+306
+Random string of length 410 with alphabet 17. Number of strings equal to 67. Number of quires equal to 2191. Single solution: stl. Time of solution: -0.000
+Random string of length 410 with alphabet 17. Number of strings equal to 67. Number of quires equal to 2191. Parallel solution: trie. Time of solution: -0.000
+307
+Random string of length 43 with alphabet 15. Number of strings equal to 314. Number of quires equal to 29513. Single solution: stl. Time of solution: 0.010
+Random string of length 43 with alphabet 15. Number of strings equal to 314. Number of quires equal to 29513. Parallel solution: trie. Time of solution: 0.017
+308
+Random string of length 696 with alphabet 16. Number of strings equal to 226. Number of quires equal to 25384. Single solution: stl. Time of solution: 0.010
+Random string of length 696 with alphabet 16. Number of strings equal to 226. Number of quires equal to 25384. Parallel solution: trie. Time of solution: 0.028
+309
+Random string of length 354 with alphabet 20. Number of strings equal to 284. Number of quires equal to 22206. Single solution: stl. Time of solution: 0.016
+Random string of length 354 with alphabet 20. Number of strings equal to 284. Number of quires equal to 22206. Parallel solution: trie. Time of solution: 0.015
+310
+Random string of length 437 with alphabet 5. Number of strings equal to 230. Number of quires equal to 18839. Single solution: stl. Time of solution: 0.008
+Random string of length 437 with alphabet 5. Number of strings equal to 230. Number of quires equal to 18839. Parallel solution: trie. Time of solution: 0.018
+311
+Random string of length 666 with alphabet 18. Number of strings equal to 167. Number of quires equal to 10034. Single solution: stl. Time of solution: 0.004
+Random string of length 666 with alphabet 18. Number of strings equal to 167. Number of quires equal to 10034. Parallel solution: trie. Time of solution: 0.006
+312
+Random string of length 215 with alphabet 18. Number of strings equal to 184. Number of quires equal to 31298. Single solution: stl. Time of solution: 0.012
+Random string of length 215 with alphabet 18. Number of strings equal to 184. Number of quires equal to 31298. Parallel solution: trie. Time of solution: 0.009
+313
+Random string of length 239 with alphabet 12. Number of strings equal to 88. Number of quires equal to 10251. Single solution: stl. Time of solution: 0.000
+Random string of length 239 with alphabet 12. Number of strings equal to 88. Number of quires equal to 10251. Parallel solution: trie. Time of solution: 0.000
+314
+Random string of length 705 with alphabet 9. Number of strings equal to 336. Number of quires equal to 32128. Single solution: stl. Time of solution: 0.006
+Random string of length 705 with alphabet 9. Number of strings equal to 336. Number of quires equal to 32128. Parallel solution: trie. Time of solution: 0.047
+315
+Random string of length 580 with alphabet 8. Number of strings equal to 452. Number of quires equal to 28140. Single solution: stl. Time of solution: 0.011
+Random string of length 580 with alphabet 8. Number of strings equal to 452. Number of quires equal to 28140. Parallel solution: trie. Time of solution: 0.043
+316
+Random string of length 113 with alphabet 18. Number of strings equal to 185. Number of quires equal to 2369. Single solution: stl. Time of solution: 0.001
+Random string of length 113 with alphabet 18. Number of strings equal to 185. Number of quires equal to 2369. Parallel solution: trie. Time of solution: 0.003
+317
+Random string of length 956 with alphabet 15. Number of strings equal to 376. Number of quires equal to 24823. Single solution: stl. Time of solution: 0.016
+Random string of length 956 with alphabet 15. Number of strings equal to 376. Number of quires equal to 24823. Parallel solution: trie. Time of solution: 0.051
+318
+Random string of length 343 with alphabet 7. Number of strings equal to 268. Number of quires equal to 10153. Single solution: stl. Time of solution: 0.019
+Random string of length 343 with alphabet 7. Number of strings equal to 268. Number of quires equal to 10153. Parallel solution: trie. Time of solution: 0.005
+319
+Random string of length 566 with alphabet 17. Number of strings equal to 408. Number of quires equal to 14012. Single solution: stl. Time of solution: 0.005
+Random string of length 566 with alphabet 17. Number of strings equal to 408. Number of quires equal to 14012. Parallel solution: trie. Time of solution: 0.025
+320
+Random string of length 629 with alphabet 5. Number of strings equal to 498. Number of quires equal to 28294. Single solution: stl. Time of solution: 0.016
+Random string of length 629 with alphabet 5. Number of strings equal to 498. Number of quires equal to 28294. Parallel solution: trie. Time of solution: 0.063
+321
+Random string of length 520 with alphabet 7. Number of strings equal to 85. Number of quires equal to 12506. Single solution: stl. Time of solution: -0.000
+Random string of length 520 with alphabet 7. Number of strings equal to 85. Number of quires equal to 12506. Parallel solution: trie. Time of solution: 0.018
+322
+Random string of length 557 with alphabet 18. Number of strings equal to 201. Number of quires equal to 25425. Single solution: stl. Time of solution: 0.009
+Random string of length 557 with alphabet 18. Number of strings equal to 201. Number of quires equal to 25425. Parallel solution: trie. Time of solution: 0.021
+323
+Random string of length 138 with alphabet 15. Number of strings equal to 435. Number of quires equal to 2715. Single solution: stl. Time of solution: 0.001
+Random string of length 138 with alphabet 15. Number of strings equal to 435. Number of quires equal to 2715. Parallel solution: trie. Time of solution: 0.005
+324
+Random string of length 51 with alphabet 1. Number of strings equal to 387. Number of quires equal to 25989. Single solution: stl. Time of solution: 0.008
+Random string of length 51 with alphabet 1. Number of strings equal to 387. Number of quires equal to 25989. Parallel solution: trie. Time of solution: 0.005
+325
+Random string of length 549 with alphabet 4. Number of strings equal to 439. Number of quires equal to 18687. Single solution: stl. Time of solution: 0.010
+Random string of length 549 with alphabet 4. Number of strings equal to 439. Number of quires equal to 18687. Parallel solution: trie. Time of solution: 0.037
+326
+Random string of length 368 with alphabet 4. Number of strings equal to 34. Number of quires equal to 8510. Single solution: stl. Time of solution: 0.004
+Random string of length 368 with alphabet 4. Number of strings equal to 34. Number of quires equal to 8510. Parallel solution: trie. Time of solution: 0.002
+327
+Random string of length 40 with alphabet 8. Number of strings equal to 29. Number of quires equal to 19954. Single solution: stl. Time of solution: -0.000
+Random string of length 40 with alphabet 8. Number of strings equal to 29. Number of quires equal to 19954. Parallel solution: trie. Time of solution: -0.000
+328
+Random string of length 325 with alphabet 11. Number of strings equal to 422. Number of quires equal to 23058. Single solution: stl. Time of solution: 0.012
+Random string of length 325 with alphabet 11. Number of strings equal to 422. Number of quires equal to 23058. Parallel solution: trie. Time of solution: 0.016
+329
+Random string of length 401 with alphabet 13. Number of strings equal to 36. Number of quires equal to 27717. Single solution: stl. Time of solution: 0.011
+Random string of length 401 with alphabet 13. Number of strings equal to 36. Number of quires equal to 27717. Parallel solution: trie. Time of solution: 0.008
+330
+Random string of length 138 with alphabet 14. Number of strings equal to 105. Number of quires equal to 4908. Single solution: stl. Time of solution: -0.000
+Random string of length 138 with alphabet 14. Number of strings equal to 105. Number of quires equal to 4908. Parallel solution: trie. Time of solution: -0.000
+331
+Random string of length 909 with alphabet 11. Number of strings equal to 362. Number of quires equal to 23356. Single solution: stl. Time of solution: 0.012
+Random string of length 909 with alphabet 11. Number of strings equal to 362. Number of quires equal to 23356. Parallel solution: trie. Time of solution: 0.054
+332
+Random string of length 336 with alphabet 12. Number of strings equal to 365. Number of quires equal to 3653. Single solution: stl. Time of solution: 0.001
+Random string of length 336 with alphabet 12. Number of strings equal to 365. Number of quires equal to 3653. Parallel solution: trie. Time of solution: 0.005
+333
+Random string of length 891 with alphabet 6. Number of strings equal to 1. Number of quires equal to 12532. Single solution: stl. Time of solution: 0.004
+Random string of length 891 with alphabet 6. Number of strings equal to 1. Number of quires equal to 12532. Parallel solution: trie. Time of solution: 0.001
+334
+Random string of length 349 with alphabet 4. Number of strings equal to 12. Number of quires equal to 21948. Single solution: stl. Time of solution: 0.005
+Random string of length 349 with alphabet 4. Number of strings equal to 12. Number of quires equal to 21948. Parallel solution: trie. Time of solution: 0.003
+335
+Random string of length 371 with alphabet 2. Number of strings equal to 266. Number of quires equal to 5713. Single solution: stl. Time of solution: 0.004
+Random string of length 371 with alphabet 2. Number of strings equal to 266. Number of quires equal to 5713. Parallel solution: trie. Time of solution: 0.016
+336
+Random string of length 994 with alphabet 5. Number of strings equal to 287. Number of quires equal to 8129. Single solution: stl. Time of solution: 0.004
+Random string of length 994 with alphabet 5. Number of strings equal to 287. Number of quires equal to 8129. Parallel solution: trie. Time of solution: 0.047
+337
+Random string of length 56 with alphabet 6. Number of strings equal to 227. Number of quires equal to 16752. Single solution: stl. Time of solution: 0.020
+Random string of length 56 with alphabet 6. Number of strings equal to 227. Number of quires equal to 16752. Parallel solution: trie. Time of solution: 0.003
+338
+Random string of length 389 with alphabet 11. Number of strings equal to 481. Number of quires equal to 3874. Single solution: stl. Time of solution: -0.000
+Random string of length 389 with alphabet 11. Number of strings equal to 481. Number of quires equal to 3874. Parallel solution: trie. Time of solution: 0.032
+339
+Random string of length 689 with alphabet 8. Number of strings equal to 334. Number of quires equal to 9016. Single solution: stl. Time of solution: 0.006
+Random string of length 689 with alphabet 8. Number of strings equal to 334. Number of quires equal to 9016. Parallel solution: trie. Time of solution: 0.034
+340
+Random string of length 617 with alphabet 1. Number of strings equal to 4. Number of quires equal to 27937. Single solution: stl. Time of solution: 0.007
+Random string of length 617 with alphabet 1. Number of strings equal to 4. Number of quires equal to 27937. Parallel solution: trie. Time of solution: 0.032
+341
+Random string of length 164 with alphabet 18. Number of strings equal to 435. Number of quires equal to 5604. Single solution: stl. Time of solution: 0.000
+Random string of length 164 with alphabet 18. Number of strings equal to 435. Number of quires equal to 5604. Parallel solution: trie. Time of solution: 0.016
+342
+Random string of length 702 with alphabet 13. Number of strings equal to 490. Number of quires equal to 6009. Single solution: stl. Time of solution: 0.000
+Random string of length 702 with alphabet 13. Number of strings equal to 490. Number of quires equal to 6009. Parallel solution: trie. Time of solution: 0.061
+343
+Random string of length 654 with alphabet 5. Number of strings equal to 218. Number of quires equal to 19679. Single solution: stl. Time of solution: 0.008
+Random string of length 654 with alphabet 5. Number of strings equal to 218. Number of quires equal to 19679. Parallel solution: trie. Time of solution: 0.024
+344
+Random string of length 645 with alphabet 5. Number of strings equal to 289. Number of quires equal to 7442. Single solution: stl. Time of solution: 0.005
+Random string of length 645 with alphabet 5. Number of strings equal to 289. Number of quires equal to 7442. Parallel solution: trie. Time of solution: 0.030
+345
+Random string of length 544 with alphabet 17. Number of strings equal to 227. Number of quires equal to 20247. Single solution: stl. Time of solution: 0.010
+Random string of length 544 with alphabet 17. Number of strings equal to 227. Number of quires equal to 20247. Parallel solution: trie. Time of solution: 0.022
+346
+Random string of length 166 with alphabet 20. Number of strings equal to 244. Number of quires equal to 1309. Single solution: stl. Time of solution: -0.000
+Random string of length 166 with alphabet 20. Number of strings equal to 244. Number of quires equal to 1309. Parallel solution: trie. Time of solution: -0.000
+347
+Random string of length 327 with alphabet 11. Number of strings equal to 43. Number of quires equal to 31007. Single solution: stl. Time of solution: -0.000
+Random string of length 327 with alphabet 11. Number of strings equal to 43. Number of quires equal to 31007. Parallel solution: trie. Time of solution: 0.016
+348
+Random string of length 166 with alphabet 6. Number of strings equal to 15. Number of quires equal to 8136. Single solution: stl. Time of solution: 0.000
+Random string of length 166 with alphabet 6. Number of strings equal to 15. Number of quires equal to 8136. Parallel solution: trie. Time of solution: 0.000
+349
+Random string of length 939 with alphabet 4. Number of strings equal to 378. Number of quires equal to 9899. Single solution: stl. Time of solution: 0.005
+Random string of length 939 with alphabet 4. Number of strings equal to 378. Number of quires equal to 9899. Parallel solution: trie. Time of solution: 0.056
+350
+Random string of length 888 with alphabet 15. Number of strings equal to 283. Number of quires equal to 23573. Single solution: stl. Time of solution: 0.009
+Random string of length 888 with alphabet 15. Number of strings equal to 283. Number of quires equal to 23573. Parallel solution: trie. Time of solution: 0.047
+351
+Random string of length 522 with alphabet 3. Number of strings equal to 288. Number of quires equal to 2644. Single solution: stl. Time of solution: 0.001
+Random string of length 522 with alphabet 3. Number of strings equal to 288. Number of quires equal to 2644. Parallel solution: trie. Time of solution: 0.024
+352
+Random string of length 672 with alphabet 20. Number of strings equal to 128. Number of quires equal to 15979. Single solution: stl. Time of solution: 0.005
+Random string of length 672 with alphabet 20. Number of strings equal to 128. Number of quires equal to 15979. Parallel solution: trie. Time of solution: 0.016
+353
+Random string of length 190 with alphabet 8. Number of strings equal to 108. Number of quires equal to 16585. Single solution: stl. Time of solution: 0.007
+Random string of length 190 with alphabet 8. Number of strings equal to 108. Number of quires equal to 16585. Parallel solution: trie. Time of solution: 0.006
+354
+Random string of length 5 with alphabet 9. Number of strings equal to 489. Number of quires equal to 23454. Single solution: stl. Time of solution: 0.006
+Random string of length 5 with alphabet 9. Number of strings equal to 489. Number of quires equal to 23454. Parallel solution: trie. Time of solution: 0.003
+355
+Random string of length 337 with alphabet 5. Number of strings equal to 390. Number of quires equal to 22451. Single solution: stl. Time of solution: 0.016
+Random string of length 337 with alphabet 5. Number of strings equal to 390. Number of quires equal to 22451. Parallel solution: trie. Time of solution: 0.025
+356
+Random string of length 224 with alphabet 15. Number of strings equal to 234. Number of quires equal to 21580. Single solution: stl. Time of solution: 0.008
+Random string of length 224 with alphabet 15. Number of strings equal to 234. Number of quires equal to 21580. Parallel solution: trie. Time of solution: 0.004
+357
+Random string of length 182 with alphabet 18. Number of strings equal to 308. Number of quires equal to 16639. Single solution: stl. Time of solution: 0.008
+Random string of length 182 with alphabet 18. Number of strings equal to 308. Number of quires equal to 16639. Parallel solution: trie. Time of solution: 0.010
+358
+Random string of length 504 with alphabet 18. Number of strings equal to 71. Number of quires equal to 8189. Single solution: stl. Time of solution: 0.003
+Random string of length 504 with alphabet 18. Number of strings equal to 71. Number of quires equal to 8189. Parallel solution: trie. Time of solution: 0.007
+359
+Random string of length 972 with alphabet 16. Number of strings equal to 93. Number of quires equal to 10742. Single solution: stl. Time of solution: 0.003
+Random string of length 972 with alphabet 16. Number of strings equal to 93. Number of quires equal to 10742. Parallel solution: trie. Time of solution: 0.002
+360
+Random string of length 759 with alphabet 4. Number of strings equal to 106. Number of quires equal to 16173. Single solution: stl. Time of solution: 0.008
+Random string of length 759 with alphabet 4. Number of strings equal to 106. Number of quires equal to 16173. Parallel solution: trie. Time of solution: 0.016
+361
+Random string of length 930 with alphabet 20. Number of strings equal to 140. Number of quires equal to 29457. Single solution: stl. Time of solution: 0.016
+Random string of length 930 with alphabet 20. Number of strings equal to 140. Number of quires equal to 29457. Parallel solution: trie. Time of solution: 0.031
+362
+Random string of length 437 with alphabet 17. Number of strings equal to 163. Number of quires equal to 502. Single solution: stl. Time of solution: 0.000
+Random string of length 437 with alphabet 17. Number of strings equal to 163. Number of quires equal to 502. Parallel solution: trie. Time of solution: 0.020
+363
+Random string of length 321 with alphabet 19. Number of strings equal to 69. Number of quires equal to 31128. Single solution: stl. Time of solution: -0.000
+Random string of length 321 with alphabet 19. Number of strings equal to 69. Number of quires equal to 31128. Parallel solution: trie. Time of solution: 0.016
+364
+Random string of length 555 with alphabet 11. Number of strings equal to 97. Number of quires equal to 2073. Single solution: stl. Time of solution: 0.000
+Random string of length 555 with alphabet 11. Number of strings equal to 97. Number of quires equal to 2073. Parallel solution: trie. Time of solution: 0.016
+365
+Random string of length 934 with alphabet 17. Number of strings equal to 452. Number of quires equal to 14960. Single solution: stl. Time of solution: 0.015
+Random string of length 934 with alphabet 17. Number of strings equal to 452. Number of quires equal to 14960. Parallel solution: trie. Time of solution: 0.063
+366
+Random string of length 372 with alphabet 9. Number of strings equal to 411. Number of quires equal to 5900. Single solution: stl. Time of solution: 0.004
+Random string of length 372 with alphabet 9. Number of strings equal to 411. Number of quires equal to 5900. Parallel solution: trie. Time of solution: 0.025
+367
+Random string of length 301 with alphabet 7. Number of strings equal to 70. Number of quires equal to 16253. Single solution: stl. Time of solution: 0.007
+Random string of length 301 with alphabet 7. Number of strings equal to 70. Number of quires equal to 16253. Parallel solution: trie. Time of solution: 0.006
+368
+Random string of length 825 with alphabet 17. Number of strings equal to 416. Number of quires equal to 21683. Single solution: stl. Time of solution: 0.014
+Random string of length 825 with alphabet 17. Number of strings equal to 416. Number of quires equal to 21683. Parallel solution: trie. Time of solution: 0.063
+369
+Random string of length 890 with alphabet 15. Number of strings equal to 143. Number of quires equal to 9115. Single solution: stl. Time of solution: 0.004
+Random string of length 890 with alphabet 15. Number of strings equal to 143. Number of quires equal to 9115. Parallel solution: trie. Time of solution: 0.020
+370
+Random string of length 841 with alphabet 1. Number of strings equal to 131. Number of quires equal to 23651. Single solution: stl. Time of solution: 0.022
+Random string of length 841 with alphabet 1. Number of strings equal to 131. Number of quires equal to 23651. Parallel solution: trie. Time of solution: 0.043
+371
+Random string of length 968 with alphabet 20. Number of strings equal to 474. Number of quires equal to 27916. Single solution: stl. Time of solution: 0.015
+Random string of length 968 with alphabet 20. Number of strings equal to 474. Number of quires equal to 27916. Parallel solution: trie. Time of solution: 0.079
+372
+Random string of length 756 with alphabet 8. Number of strings equal to 144. Number of quires equal to 14989. Single solution: stl. Time of solution: 0.009
+Random string of length 756 with alphabet 8. Number of strings equal to 144. Number of quires equal to 14989. Parallel solution: trie. Time of solution: 0.020
+373
+Random string of length 622 with alphabet 4. Number of strings equal to 289. Number of quires equal to 6997. Single solution: stl. Time of solution: 0.000
+Random string of length 622 with alphabet 4. Number of strings equal to 289. Number of quires equal to 6997. Parallel solution: trie. Time of solution: 0.032
+374
+Random string of length 747 with alphabet 3. Number of strings equal to 232. Number of quires equal to 12996. Single solution: stl. Time of solution: 0.008
+Random string of length 747 with alphabet 3. Number of strings equal to 232. Number of quires equal to 12996. Parallel solution: trie. Time of solution: 0.027
+375
+Random string of length 331 with alphabet 13. Number of strings equal to 218. Number of quires equal to 358. Single solution: stl. Time of solution: 0.000
+Random string of length 331 with alphabet 13. Number of strings equal to 218. Number of quires equal to 358. Parallel solution: trie. Time of solution: 0.012
+376
+Random string of length 627 with alphabet 19. Number of strings equal to 190. Number of quires equal to 4586. Single solution: stl. Time of solution: 0.002
+Random string of length 627 with alphabet 19. Number of strings equal to 190. Number of quires equal to 4586. Parallel solution: trie. Time of solution: 0.020
+377
+Random string of length 916 with alphabet 3. Number of strings equal to 370. Number of quires equal to 15288. Single solution: stl. Time of solution: 0.010
+Random string of length 916 with alphabet 3. Number of strings equal to 370. Number of quires equal to 15288. Parallel solution: trie. Time of solution: 0.054
+378
+Random string of length 603 with alphabet 2. Number of strings equal to 155. Number of quires equal to 5367. Single solution: stl. Time of solution: 0.003
+Random string of length 603 with alphabet 2. Number of strings equal to 155. Number of quires equal to 5367. Parallel solution: trie. Time of solution: 0.014
+379
+Random string of length 518 with alphabet 16. Number of strings equal to 483. Number of quires equal to 14020. Single solution: stl. Time of solution: 0.006
+Random string of length 518 with alphabet 16. Number of strings equal to 483. Number of quires equal to 14020. Parallel solution: trie. Time of solution: 0.033
+380
+Random string of length 663 with alphabet 12. Number of strings equal to 230. Number of quires equal to 15448. Single solution: stl. Time of solution: 0.006
+Random string of length 663 with alphabet 12. Number of strings equal to 230. Number of quires equal to 15448. Parallel solution: trie. Time of solution: 0.026
+381
+Random string of length 909 with alphabet 16. Number of strings equal to 282. Number of quires equal to 20918. Single solution: stl. Time of solution: 0.009
+Random string of length 909 with alphabet 16. Number of strings equal to 282. Number of quires equal to 20918. Parallel solution: trie. Time of solution: 0.030
+382
+Random string of length 206 with alphabet 10. Number of strings equal to 79. Number of quires equal to 2033. Single solution: stl. Time of solution: 0.001
+Random string of length 206 with alphabet 10. Number of strings equal to 79. Number of quires equal to 2033. Parallel solution: trie. Time of solution: 0.003
+383
+Random string of length 262 with alphabet 3. Number of strings equal to 146. Number of quires equal to 3094. Single solution: stl. Time of solution: 0.001
+Random string of length 262 with alphabet 3. Number of strings equal to 146. Number of quires equal to 3094. Parallel solution: trie. Time of solution: 0.006
+384
+Random string of length 208 with alphabet 7. Number of strings equal to 133. Number of quires equal to 29852. Single solution: stl. Time of solution: 0.019
+Random string of length 208 with alphabet 7. Number of strings equal to 133. Number of quires equal to 29852. Parallel solution: trie. Time of solution: 0.010
+385
+Random string of length 800 with alphabet 16. Number of strings equal to 108. Number of quires equal to 8874. Single solution: stl. Time of solution: 0.004
+Random string of length 800 with alphabet 16. Number of strings equal to 108. Number of quires equal to 8874. Parallel solution: trie. Time of solution: 0.015
+386
+Random string of length 84 with alphabet 13. Number of strings equal to 370. Number of quires equal to 2993. Single solution: stl. Time of solution: 0.002
+Random string of length 84 with alphabet 13. Number of strings equal to 370. Number of quires equal to 2993. Parallel solution: trie. Time of solution: 0.005
+387
+Random string of length 998 with alphabet 17. Number of strings equal to 277. Number of quires equal to 32458. Single solution: stl. Time of solution: 0.010
+Random string of length 998 with alphabet 17. Number of strings equal to 277. Number of quires equal to 32458. Parallel solution: trie. Time of solution: 0.059
+388
+Random string of length 195 with alphabet 3. Number of strings equal to 375. Number of quires equal to 23419. Single solution: stl. Time of solution: 0.009
+Random string of length 195 with alphabet 3. Number of strings equal to 375. Number of quires equal to 23419. Parallel solution: trie. Time of solution: 0.013
+389
+Random string of length 899 with alphabet 4. Number of strings equal to 103. Number of quires equal to 20288. Single solution: stl. Time of solution: 0.020
+Random string of length 899 with alphabet 4. Number of strings equal to 103. Number of quires equal to 20288. Parallel solution: trie. Time of solution: 0.018
+390
+Random string of length 705 with alphabet 14. Number of strings equal to 444. Number of quires equal to 15761. Single solution: stl. Time of solution: 0.013
+Random string of length 705 with alphabet 14. Number of strings equal to 444. Number of quires equal to 15761. Parallel solution: trie. Time of solution: 0.055
+391
+Random string of length 806 with alphabet 9. Number of strings equal to 140. Number of quires equal to 20703. Single solution: stl. Time of solution: 0.010
+Random string of length 806 with alphabet 9. Number of strings equal to 140. Number of quires equal to 20703. Parallel solution: trie. Time of solution: 0.023
+392
+Random string of length 166 with alphabet 16. Number of strings equal to 166. Number of quires equal to 17940. Single solution: stl. Time of solution: 0.006
+Random string of length 166 with alphabet 16. Number of strings equal to 166. Number of quires equal to 17940. Parallel solution: trie. Time of solution: 0.006
+393
+Random string of length 30 with alphabet 20. Number of strings equal to 244. Number of quires equal to 20905. Single solution: stl. Time of solution: 0.000
+Random string of length 30 with alphabet 20. Number of strings equal to 244. Number of quires equal to 20905. Parallel solution: trie. Time of solution: 0.000
+394
+Random string of length 900 with alphabet 7. Number of strings equal to 246. Number of quires equal to 11368. Single solution: stl. Time of solution: 0.008
+Random string of length 900 with alphabet 7. Number of strings equal to 246. Number of quires equal to 11368. Parallel solution: trie. Time of solution: 0.035
+395
+Random string of length 848 with alphabet 6. Number of strings equal to 103. Number of quires equal to 10802. Single solution: stl. Time of solution: 0.006
+Random string of length 848 with alphabet 6. Number of strings equal to 103. Number of quires equal to 10802. Parallel solution: trie. Time of solution: 0.015
+396
+Random string of length 369 with alphabet 17. Number of strings equal to 180. Number of quires equal to 13588. Single solution: stl. Time of solution: -0.000
+Random string of length 369 with alphabet 17. Number of strings equal to 180. Number of quires equal to 13588. Parallel solution: trie. Time of solution: 0.015
+397
+Random string of length 411 with alphabet 5. Number of strings equal to 228. Number of quires equal to 16143. Single solution: stl. Time of solution: 0.008
+Random string of length 411 with alphabet 5. Number of strings equal to 228. Number of quires equal to 16143. Parallel solution: trie. Time of solution: 0.016
+398
+Random string of length 342 with alphabet 16. Number of strings equal to 143. Number of quires equal to 16458. Single solution: stl. Time of solution: 0.006
+Random string of length 342 with alphabet 16. Number of strings equal to 143. Number of quires equal to 16458. Parallel solution: trie. Time of solution: 0.011
+399
+Random string of length 628 with alphabet 19. Number of strings equal to 265. Number of quires equal to 16905. Single solution: stl. Time of solution: 0.007
+Random string of length 628 with alphabet 19. Number of strings equal to 265. Number of quires equal to 16905. Parallel solution: trie. Time of solution: 0.028
+400
+Random string of length 659 with alphabet 10. Number of strings equal to 332. Number of quires equal to 5019. Single solution: stl. Time of solution: 0.003
+Random string of length 659 with alphabet 10. Number of strings equal to 332. Number of quires equal to 5019. Parallel solution: trie. Time of solution: 0.034
+401
+Random string of length 173 with alphabet 3. Number of strings equal to 405. Number of quires equal to 2298. Single solution: stl. Time of solution: 0.016
+Random string of length 173 with alphabet 3. Number of strings equal to 405. Number of quires equal to 2298. Parallel solution: trie. Time of solution: 0.000
+402
+Random string of length 118 with alphabet 10. Number of strings equal to 256. Number of quires equal to 26559. Single solution: stl. Time of solution: 0.011
+Random string of length 118 with alphabet 10. Number of strings equal to 256. Number of quires equal to 26559. Parallel solution: trie. Time of solution: 0.008
+403
+Random string of length 258 with alphabet 15. Number of strings equal to 120. Number of quires equal to 10119. Single solution: stl. Time of solution: 0.004
+Random string of length 258 with alphabet 15. Number of strings equal to 120. Number of quires equal to 10119. Parallel solution: trie. Time of solution: 0.006
+404
+Random string of length 556 with alphabet 19. Number of strings equal to 240. Number of quires equal to 7573. Single solution: stl. Time of solution: 0.001
+Random string of length 556 with alphabet 19. Number of strings equal to 240. Number of quires equal to 7573. Parallel solution: trie. Time of solution: 0.015
+405
+Random string of length 794 with alphabet 3. Number of strings equal to 213. Number of quires equal to 4302. Single solution: stl. Time of solution: 0.003
+Random string of length 794 with alphabet 3. Number of strings equal to 213. Number of quires equal to 4302. Parallel solution: trie. Time of solution: 0.026
+406
+Random string of length 679 with alphabet 13. Number of strings equal to 483. Number of quires equal to 16467. Single solution: stl. Time of solution: -0.000
+Random string of length 679 with alphabet 13. Number of strings equal to 483. Number of quires equal to 16467. Parallel solution: trie. Time of solution: 0.062
+407
+Random string of length 393 with alphabet 19. Number of strings equal to 9. Number of quires equal to 2747. Single solution: stl. Time of solution: 0.000
+Random string of length 393 with alphabet 19. Number of strings equal to 9. Number of quires equal to 2747. Parallel solution: trie. Time of solution: 0.000
+408
+Random string of length 141 with alphabet 8. Number of strings equal to 393. Number of quires equal to 20113. Single solution: stl. Time of solution: 0.015
+Random string of length 141 with alphabet 8. Number of strings equal to 393. Number of quires equal to 20113. Parallel solution: trie. Time of solution: 0.016
+409
+Random string of length 781 with alphabet 1. Number of strings equal to 292. Number of quires equal to 26040. Single solution: stl. Time of solution: 0.016
+Random string of length 781 with alphabet 1. Number of strings equal to 292. Number of quires equal to 26040. Parallel solution: trie. Time of solution: 0.031
+410
+Random string of length 180 with alphabet 20. Number of strings equal to 13. Number of quires equal to 16296. Single solution: stl. Time of solution: 0.000
+Random string of length 180 with alphabet 20. Number of strings equal to 13. Number of quires equal to 16296. Parallel solution: trie. Time of solution: 0.000
+411
+Random string of length 203 with alphabet 18. Number of strings equal to 138. Number of quires equal to 19860. Single solution: stl. Time of solution: 0.009
+Random string of length 203 with alphabet 18. Number of strings equal to 138. Number of quires equal to 19860. Parallel solution: trie. Time of solution: 0.008
+412
+Random string of length 645 with alphabet 8. Number of strings equal to 260. Number of quires equal to 16270. Single solution: stl. Time of solution: 0.010
+Random string of length 645 with alphabet 8. Number of strings equal to 260. Number of quires equal to 16270. Parallel solution: trie. Time of solution: 0.029
+413
+Random string of length 544 with alphabet 3. Number of strings equal to 18. Number of quires equal to 15239. Single solution: stl. Time of solution: 0.016
+Random string of length 544 with alphabet 3. Number of strings equal to 18. Number of quires equal to 15239. Parallel solution: trie. Time of solution: 0.000
+414
+Random string of length 371 with alphabet 7. Number of strings equal to 300. Number of quires equal to 24321. Single solution: stl. Time of solution: 0.015
+Random string of length 371 with alphabet 7. Number of strings equal to 300. Number of quires equal to 24321. Parallel solution: trie. Time of solution: 0.016
+415
+Random string of length 278 with alphabet 7. Number of strings equal to 323. Number of quires equal to 31333. Single solution: stl. Time of solution: 0.015
+Random string of length 278 with alphabet 7. Number of strings equal to 323. Number of quires equal to 31333. Parallel solution: trie. Time of solution: 0.016
+416
+Random string of length 103 with alphabet 19. Number of strings equal to 68. Number of quires equal to 9591. Single solution: stl. Time of solution: 0.002
+Random string of length 103 with alphabet 19. Number of strings equal to 68. Number of quires equal to 9591. Parallel solution: trie. Time of solution: 0.002
+417
+Random string of length 929 with alphabet 3. Number of strings equal to 101. Number of quires equal to 28221. Single solution: stl. Time of solution: 0.015
+Random string of length 929 with alphabet 3. Number of strings equal to 101. Number of quires equal to 28221. Parallel solution: trie. Time of solution: 0.016
+418
+Random string of length 45 with alphabet 19. Number of strings equal to 312. Number of quires equal to 4947. Single solution: stl. Time of solution: 0.002
+Random string of length 45 with alphabet 19. Number of strings equal to 312. Number of quires equal to 4947. Parallel solution: trie. Time of solution: 0.003
+419
+Random string of length 854 with alphabet 7. Number of strings equal to 375. Number of quires equal to 448. Single solution: stl. Time of solution: -0.000
+Random string of length 854 with alphabet 7. Number of strings equal to 375. Number of quires equal to 448. Parallel solution: trie. Time of solution: 0.051
+420
+Random string of length 865 with alphabet 15. Number of strings equal to 27. Number of quires equal to 19412. Single solution: stl. Time of solution: 0.009
+Random string of length 865 with alphabet 15. Number of strings equal to 27. Number of quires equal to 19412. Parallel solution: trie. Time of solution: 0.007
+421
+Random string of length 461 with alphabet 3. Number of strings equal to 203. Number of quires equal to 13714. Single solution: stl. Time of solution: 0.016
+Random string of length 461 with alphabet 3. Number of strings equal to 203. Number of quires equal to 13714. Parallel solution: trie. Time of solution: 0.016
+422
+Random string of length 637 with alphabet 18. Number of strings equal to 8. Number of quires equal to 11902. Single solution: stl. Time of solution: -0.000
+Random string of length 637 with alphabet 18. Number of strings equal to 8. Number of quires equal to 11902. Parallel solution: trie. Time of solution: 0.016
+423
+Random string of length 4 with alphabet 9. Number of strings equal to 51. Number of quires equal to 11642. Single solution: stl. Time of solution: 0.000
+Random string of length 4 with alphabet 9. Number of strings equal to 51. Number of quires equal to 11642. Parallel solution: trie. Time of solution: 0.000
+424
+Random string of length 390 with alphabet 5. Number of strings equal to 363. Number of quires equal to 26145. Single solution: stl. Time of solution: 0.015
+Random string of length 390 with alphabet 5. Number of strings equal to 363. Number of quires equal to 26145. Parallel solution: trie. Time of solution: 0.016
+425
+Random string of length 559 with alphabet 7. Number of strings equal to 91. Number of quires equal to 5702. Single solution: stl. Time of solution: 0.003
+Random string of length 559 with alphabet 7. Number of strings equal to 91. Number of quires equal to 5702. Parallel solution: trie. Time of solution: 0.009
+426
+Random string of length 32 with alphabet 12. Number of strings equal to 250. Number of quires equal to 27637. Single solution: stl. Time of solution: 0.009
+Random string of length 32 with alphabet 12. Number of strings equal to 250. Number of quires equal to 27637. Parallel solution: trie. Time of solution: 0.003
+427
+Random string of length 268 with alphabet 11. Number of strings equal to 341. Number of quires equal to 8950. Single solution: stl. Time of solution: 0.003
+Random string of length 268 with alphabet 11. Number of strings equal to 341. Number of quires equal to 8950. Parallel solution: trie. Time of solution: 0.015
+428
+Random string of length 518 with alphabet 3. Number of strings equal to 352. Number of quires equal to 15887. Single solution: stl. Time of solution: 0.011
+Random string of length 518 with alphabet 3. Number of strings equal to 352. Number of quires equal to 15887. Parallel solution: trie. Time of solution: 0.030
+429
+Random string of length 547 with alphabet 13. Number of strings equal to 340. Number of quires equal to 21330. Single solution: stl. Time of solution: 0.010
+Random string of length 547 with alphabet 13. Number of strings equal to 340. Number of quires equal to 21330. Parallel solution: trie. Time of solution: 0.032
+430
+Random string of length 21 with alphabet 12. Number of strings equal to 194. Number of quires equal to 8407. Single solution: stl. Time of solution: 0.002
+Random string of length 21 with alphabet 12. Number of strings equal to 194. Number of quires equal to 8407. Parallel solution: trie. Time of solution: 0.001
+431
+Random string of length 481 with alphabet 13. Number of strings equal to 473. Number of quires equal to 18712. Single solution: stl. Time of solution: 0.010
+Random string of length 481 with alphabet 13. Number of strings equal to 473. Number of quires equal to 18712. Parallel solution: trie. Time of solution: 0.037
+432
+Random string of length 689 with alphabet 5. Number of strings equal to 48. Number of quires equal to 25764. Single solution: stl. Time of solution: 0.014
+Random string of length 689 with alphabet 5. Number of strings equal to 48. Number of quires equal to 25764. Parallel solution: trie. Time of solution: 0.008
+433
+Random string of length 165 with alphabet 14. Number of strings equal to 2. Number of quires equal to 20255. Single solution: stl. Time of solution: 0.007
+Random string of length 165 with alphabet 14. Number of strings equal to 2. Number of quires equal to 20255. Parallel solution: trie. Time of solution: 0.001
+434
+Random string of length 678 with alphabet 15. Number of strings equal to 292. Number of quires equal to 23685. Single solution: stl. Time of solution: 0.013
+Random string of length 678 with alphabet 15. Number of strings equal to 292. Number of quires equal to 23685. Parallel solution: trie. Time of solution: 0.036
+435
+Random string of length 513 with alphabet 3. Number of strings equal to 207. Number of quires equal to 9282. Single solution: stl. Time of solution: 0.046
+Random string of length 513 with alphabet 3. Number of strings equal to 207. Number of quires equal to 9282. Parallel solution: trie. Time of solution: 0.027
+436
+Random string of length 323 with alphabet 5. Number of strings equal to 481. Number of quires equal to 978. Single solution: stl. Time of solution: 0.003
+Random string of length 323 with alphabet 5. Number of strings equal to 481. Number of quires equal to 978. Parallel solution: trie. Time of solution: 0.035
+437
+Random string of length 694 with alphabet 7. Number of strings equal to 166. Number of quires equal to 823. Single solution: stl. Time of solution: 0.001
+Random string of length 694 with alphabet 7. Number of strings equal to 166. Number of quires equal to 823. Parallel solution: trie. Time of solution: 0.017
+438
+Random string of length 351 with alphabet 10. Number of strings equal to 483. Number of quires equal to 29584. Single solution: stl. Time of solution: 0.022
+Random string of length 351 with alphabet 10. Number of strings equal to 483. Number of quires equal to 29584. Parallel solution: trie. Time of solution: 0.031
+439
+Random string of length 53 with alphabet 16. Number of strings equal to 346. Number of quires equal to 9285. Single solution: stl. Time of solution: 0.004
+Random string of length 53 with alphabet 16. Number of strings equal to 346. Number of quires equal to 9285. Parallel solution: trie. Time of solution: 0.004
+440
+Random string of length 136 with alphabet 15. Number of strings equal to 90. Number of quires equal to 29810. Single solution: stl. Time of solution: 0.016
+Random string of length 136 with alphabet 15. Number of strings equal to 90. Number of quires equal to 29810. Parallel solution: trie. Time of solution: 0.007
+441
+Random string of length 28 with alphabet 9. Number of strings equal to 140. Number of quires equal to 9865. Single solution: stl. Time of solution: 0.004
+Random string of length 28 with alphabet 9. Number of strings equal to 140. Number of quires equal to 9865. Parallel solution: trie. Time of solution: 0.002
+442
+Random string of length 708 with alphabet 14. Number of strings equal to 97. Number of quires equal to 29269. Single solution: stl. Time of solution: 0.012
+Random string of length 708 with alphabet 14. Number of strings equal to 97. Number of quires equal to 29269. Parallel solution: trie. Time of solution: 0.014
+443
+Random string of length 228 with alphabet 12. Number of strings equal to 459. Number of quires equal to 5487. Single solution: stl. Time of solution: 0.003
+Random string of length 228 with alphabet 12. Number of strings equal to 459. Number of quires equal to 5487. Parallel solution: trie. Time of solution: 0.018
+444
+Random string of length 378 with alphabet 20. Number of strings equal to 86. Number of quires equal to 6195. Single solution: stl. Time of solution: 0.003
+Random string of length 378 with alphabet 20. Number of strings equal to 86. Number of quires equal to 6195. Parallel solution: trie. Time of solution: 0.006
+445
+Random string of length 805 with alphabet 15. Number of strings equal to 135. Number of quires equal to 2985. Single solution: stl. Time of solution: 0.001
+Random string of length 805 with alphabet 15. Number of strings equal to 135. Number of quires equal to 2985. Parallel solution: trie. Time of solution: 0.018
+446
+Random string of length 917 with alphabet 8. Number of strings equal to 39. Number of quires equal to 12836. Single solution: stl. Time of solution: 0.008
+Random string of length 917 with alphabet 8. Number of strings equal to 39. Number of quires equal to 12836. Parallel solution: trie. Time of solution: 0.013
+447
+Random string of length 634 with alphabet 20. Number of strings equal to 11. Number of quires equal to 26651. Single solution: stl. Time of solution: 0.012
+Random string of length 634 with alphabet 20. Number of strings equal to 11. Number of quires equal to 26651. Parallel solution: trie. Time of solution: 0.007
+448
+Random string of length 110 with alphabet 19. Number of strings equal to 371. Number of quires equal to 10356. Single solution: stl. Time of solution: 0.006
+Random string of length 110 with alphabet 19. Number of strings equal to 371. Number of quires equal to 10356. Parallel solution: trie. Time of solution: 0.008
+449
+Random string of length 325 with alphabet 13. Number of strings equal to 39. Number of quires equal to 25679. Single solution: stl. Time of solution: 0.011
+Random string of length 325 with alphabet 13. Number of strings equal to 39. Number of quires equal to 25679. Parallel solution: trie. Time of solution: 0.005
+450
+Random string of length 950 with alphabet 6. Number of strings equal to 26. Number of quires equal to 17589. Single solution: stl. Time of solution: 0.010
+Random string of length 950 with alphabet 6. Number of strings equal to 26. Number of quires equal to 17589. Parallel solution: trie. Time of solution: 0.008
+451
+Random string of length 606 with alphabet 15. Number of strings equal to 164. Number of quires equal to 22272. Single solution: stl. Time of solution: 0.014
+Random string of length 606 with alphabet 15. Number of strings equal to 164. Number of quires equal to 22272. Parallel solution: trie. Time of solution: 0.031
+452
+Random string of length 454 with alphabet 20. Number of strings equal to 304. Number of quires equal to 31445. Single solution: stl. Time of solution: 0.020
+Random string of length 454 with alphabet 20. Number of strings equal to 304. Number of quires equal to 31445. Parallel solution: trie. Time of solution: 0.045
+453
+Random string of length 204 with alphabet 11. Number of strings equal to 125. Number of quires equal to 7942. Single solution: stl. Time of solution: 0.004
+Random string of length 204 with alphabet 11. Number of strings equal to 125. Number of quires equal to 7942. Parallel solution: trie. Time of solution: 0.005
+454
+Random string of length 391 with alphabet 11. Number of strings equal to 148. Number of quires equal to 30910. Single solution: stl. Time of solution: 0.019
+Random string of length 391 with alphabet 11. Number of strings equal to 148. Number of quires equal to 30910. Parallel solution: trie. Time of solution: 0.029
+455
+Random string of length 824 with alphabet 20. Number of strings equal to 208. Number of quires equal to 660. Single solution: stl. Time of solution: -0.000
+Random string of length 824 with alphabet 20. Number of strings equal to 208. Number of quires equal to 660. Parallel solution: trie. Time of solution: 0.028
+456
+Random string of length 935 with alphabet 16. Number of strings equal to 441. Number of quires equal to 5508. Single solution: stl. Time of solution: 0.005
+Random string of length 935 with alphabet 16. Number of strings equal to 441. Number of quires equal to 5508. Parallel solution: trie. Time of solution: 0.067
+457
+Random string of length 705 with alphabet 16. Number of strings equal to 456. Number of quires equal to 22251. Single solution: stl. Time of solution: 0.015
+Random string of length 705 with alphabet 16. Number of strings equal to 456. Number of quires equal to 22251. Parallel solution: trie. Time of solution: 0.054
+458
+Random string of length 523 with alphabet 11. Number of strings equal to 7. Number of quires equal to 11782. Single solution: stl. Time of solution: 0.004
+Random string of length 523 with alphabet 11. Number of strings equal to 7. Number of quires equal to 11782. Parallel solution: trie. Time of solution: 0.002
+459
+Random string of length 270 with alphabet 19. Number of strings equal to 225. Number of quires equal to 13246. Single solution: stl. Time of solution: 0.008
+Random string of length 270 with alphabet 19. Number of strings equal to 225. Number of quires equal to 13246. Parallel solution: trie. Time of solution: 0.014
+460
+Random string of length 117 with alphabet 9. Number of strings equal to 434. Number of quires equal to 15051. Single solution: stl. Time of solution: 0.007
+Random string of length 117 with alphabet 9. Number of strings equal to 434. Number of quires equal to 15051. Parallel solution: trie. Time of solution: 0.010
+461
+Random string of length 142 with alphabet 11. Number of strings equal to 172. Number of quires equal to 17366. Single solution: stl. Time of solution: 0.008
+Random string of length 142 with alphabet 11. Number of strings equal to 172. Number of quires equal to 17366. Parallel solution: trie. Time of solution: 0.005
+462
+Random string of length 215 with alphabet 7. Number of strings equal to 500. Number of quires equal to 26387. Single solution: stl. Time of solution: 0.016
+Random string of length 215 with alphabet 7. Number of strings equal to 500. Number of quires equal to 26387. Parallel solution: trie. Time of solution: 0.019
+463
+Random string of length 239 with alphabet 7. Number of strings equal to 249. Number of quires equal to 4722. Single solution: stl. Time of solution: 0.002
+Random string of length 239 with alphabet 7. Number of strings equal to 249. Number of quires equal to 4722. Parallel solution: trie. Time of solution: 0.009
+464
+Random string of length 765 with alphabet 10. Number of strings equal to 346. Number of quires equal to 28020. Single solution: stl. Time of solution: 0.023
+Random string of length 765 with alphabet 10. Number of strings equal to 346. Number of quires equal to 28020. Parallel solution: trie. Time of solution: 0.048
+465
+Random string of length 969 with alphabet 10. Number of strings equal to 482. Number of quires equal to 31878. Single solution: stl. Time of solution: 0.019
+Random string of length 969 with alphabet 10. Number of strings equal to 482. Number of quires equal to 31878. Parallel solution: trie. Time of solution: 0.080
+466
+Random string of length 390 with alphabet 3. Number of strings equal to 25. Number of quires equal to 24871. Single solution: stl. Time of solution: 0.007
+Random string of length 390 with alphabet 3. Number of strings equal to 25. Number of quires equal to 24871. Parallel solution: trie. Time of solution: 0.005
+467
+Random string of length 441 with alphabet 6. Number of strings equal to 82. Number of quires equal to 23884. Single solution: stl. Time of solution: 0.010
+Random string of length 441 with alphabet 6. Number of strings equal to 82. Number of quires equal to 23884. Parallel solution: trie. Time of solution: 0.008
+468
+Random string of length 616 with alphabet 10. Number of strings equal to 268. Number of quires equal to 25860. Single solution: stl. Time of solution: 0.013
+Random string of length 616 with alphabet 10. Number of strings equal to 268. Number of quires equal to 25860. Parallel solution: trie. Time of solution: 0.028
+469
+Random string of length 655 with alphabet 19. Number of strings equal to 165. Number of quires equal to 7638. Single solution: stl. Time of solution: 0.003
+Random string of length 655 with alphabet 19. Number of strings equal to 165. Number of quires equal to 7638. Parallel solution: trie. Time of solution: 0.019
+470
+Random string of length 397 with alphabet 3. Number of strings equal to 430. Number of quires equal to 3311. Single solution: stl. Time of solution: 0.002
+Random string of length 397 with alphabet 3. Number of strings equal to 430. Number of quires equal to 3311. Parallel solution: trie. Time of solution: 0.027
+471
+Random string of length 135 with alphabet 11. Number of strings equal to 92. Number of quires equal to 1200. Single solution: stl. Time of solution: 0.001
+Random string of length 135 with alphabet 11. Number of strings equal to 92. Number of quires equal to 1200. Parallel solution: trie. Time of solution: 0.002
+472
+Random string of length 997 with alphabet 2. Number of strings equal to 464. Number of quires equal to 26119. Single solution: stl. Time of solution: 0.017
+Random string of length 997 with alphabet 2. Number of strings equal to 464. Number of quires equal to 26119. Parallel solution: trie. Time of solution: 0.076
+473
+Random string of length 27 with alphabet 4. Number of strings equal to 388. Number of quires equal to 12471. Single solution: stl. Time of solution: 0.003
+Random string of length 27 with alphabet 4. Number of strings equal to 388. Number of quires equal to 12471. Parallel solution: trie. Time of solution: 0.003
+474
+Random string of length 263 with alphabet 15. Number of strings equal to 105. Number of quires equal to 22782. Single solution: stl. Time of solution: 0.007
+Random string of length 263 with alphabet 15. Number of strings equal to 105. Number of quires equal to 22782. Parallel solution: trie. Time of solution: 0.006
+475
+Random string of length 249 with alphabet 9. Number of strings equal to 314. Number of quires equal to 2722. Single solution: stl. Time of solution: 0.001
+Random string of length 249 with alphabet 9. Number of strings equal to 314. Number of quires equal to 2722. Parallel solution: trie. Time of solution: 0.013
+476
+Random string of length 615 with alphabet 15. Number of strings equal to 142. Number of quires equal to 24319. Single solution: stl. Time of solution: 0.010
+Random string of length 615 with alphabet 15. Number of strings equal to 142. Number of quires equal to 24319. Parallel solution: trie. Time of solution: 0.020
+477
+Random string of length 31 with alphabet 10. Number of strings equal to 220. Number of quires equal to 23893. Single solution: stl. Time of solution: 0.008
+Random string of length 31 with alphabet 10. Number of strings equal to 220. Number of quires equal to 23893. Parallel solution: trie. Time of solution: 0.004
+478
+Random string of length 700 with alphabet 5. Number of strings equal to 331. Number of quires equal to 22425. Single solution: stl. Time of solution: 0.014
+Random string of length 700 with alphabet 5. Number of strings equal to 331. Number of quires equal to 22425. Parallel solution: trie. Time of solution: 0.040
+479
+Random string of length 74 with alphabet 10. Number of strings equal to 293. Number of quires equal to 3851. Single solution: stl. Time of solution: 0.001
+Random string of length 74 with alphabet 10. Number of strings equal to 293. Number of quires equal to 3851. Parallel solution: trie. Time of solution: 0.004
+480
+Random string of length 94 with alphabet 13. Number of strings equal to 448. Number of quires equal to 24043. Single solution: stl. Time of solution: 0.008
+Random string of length 94 with alphabet 13. Number of strings equal to 448. Number of quires equal to 24043. Parallel solution: trie. Time of solution: 0.009
+481
+Random string of length 433 with alphabet 8. Number of strings equal to 50. Number of quires equal to 25241. Single solution: stl. Time of solution: 0.010
+Random string of length 433 with alphabet 8. Number of strings equal to 50. Number of quires equal to 25241. Parallel solution: trie. Time of solution: 0.006
+482
+Random string of length 80 with alphabet 14. Number of strings equal to 477. Number of quires equal to 3329. Single solution: stl. Time of solution: 0.002
+Random string of length 80 with alphabet 14. Number of strings equal to 477. Number of quires equal to 3329. Parallel solution: trie. Time of solution: 0.006
+483
+Random string of length 577 with alphabet 18. Number of strings equal to 288. Number of quires equal to 21254. Single solution: stl. Time of solution: 0.013
+Random string of length 577 with alphabet 18. Number of strings equal to 288. Number of quires equal to 21254. Parallel solution: trie. Time of solution: 0.028
+484
+Random string of length 497 with alphabet 19. Number of strings equal to 124. Number of quires equal to 32188. Single solution: stl. Time of solution: 0.013
+Random string of length 497 with alphabet 19. Number of strings equal to 124. Number of quires equal to 32188. Parallel solution: trie. Time of solution: 0.013
+485
+Random string of length 181 with alphabet 15. Number of strings equal to 497. Number of quires equal to 29970. Single solution: stl. Time of solution: 0.010
+Random string of length 181 with alphabet 15. Number of strings equal to 497. Number of quires equal to 29970. Parallel solution: trie. Time of solution: 0.019
+486
+Random string of length 523 with alphabet 1. Number of strings equal to 433. Number of quires equal to 12640. Single solution: stl. Time of solution: 0.008
+Random string of length 523 with alphabet 1. Number of strings equal to 433. Number of quires equal to 12640. Parallel solution: trie. Time of solution: 0.026
+487
+Random string of length 428 with alphabet 11. Number of strings equal to 337. Number of quires equal to 5106. Single solution: stl. Time of solution: 0.002
+Random string of length 428 with alphabet 11. Number of strings equal to 337. Number of quires equal to 5106. Parallel solution: trie. Time of solution: 0.024
+488
+Random string of length 458 with alphabet 14. Number of strings equal to 339. Number of quires equal to 19499. Single solution: stl. Time of solution: 0.010
+Random string of length 458 with alphabet 14. Number of strings equal to 339. Number of quires equal to 19499. Parallel solution: trie. Time of solution: 0.026
+489
+Random string of length 950 with alphabet 5. Number of strings equal to 8. Number of quires equal to 1795. Single solution: stl. Time of solution: 0.000
+Random string of length 950 with alphabet 5. Number of strings equal to 8. Number of quires equal to 1795. Parallel solution: trie. Time of solution: 0.002
+490
+Random string of length 264 with alphabet 18. Number of strings equal to 252. Number of quires equal to 10326. Single solution: stl. Time of solution: 0.004
+Random string of length 264 with alphabet 18. Number of strings equal to 252. Number of quires equal to 10326. Parallel solution: trie. Time of solution: 0.012
+491
+Random string of length 496 with alphabet 9. Number of strings equal to 314. Number of quires equal to 1338. Single solution: stl. Time of solution: 0.000
+Random string of length 496 with alphabet 9. Number of strings equal to 314. Number of quires equal to 1338. Parallel solution: trie. Time of solution: 0.031
+492
+Random string of length 67 with alphabet 20. Number of strings equal to 287. Number of quires equal to 24044. Single solution: stl. Time of solution: 0.015
+Random string of length 67 with alphabet 20. Number of strings equal to 287. Number of quires equal to 24044. Parallel solution: trie. Time of solution: 0.000
+493
+Random string of length 149 with alphabet 20. Number of strings equal to 471. Number of quires equal to 16256. Single solution: stl. Time of solution: 0.015
+Random string of length 149 with alphabet 20. Number of strings equal to 471. Number of quires equal to 16256. Parallel solution: trie. Time of solution: 0.016
+494
+Random string of length 358 with alphabet 19. Number of strings equal to 104. Number of quires equal to 9146. Single solution: stl. Time of solution: 0.000
+Random string of length 358 with alphabet 19. Number of strings equal to 104. Number of quires equal to 9146. Parallel solution: trie. Time of solution: 0.000
+495
+Random string of length 885 with alphabet 13. Number of strings equal to 398. Number of quires equal to 19181. Single solution: stl. Time of solution: 0.009
+Random string of length 885 with alphabet 13. Number of strings equal to 398. Number of quires equal to 19181. Parallel solution: trie. Time of solution: 0.058
+496
+Random string of length 288 with alphabet 4. Number of strings equal to 64. Number of quires equal to 12106. Single solution: stl. Time of solution: 0.004
+Random string of length 288 with alphabet 4. Number of strings equal to 64. Number of quires equal to 12106. Parallel solution: trie. Time of solution: 0.005
+497
+Random string of length 535 with alphabet 13. Number of strings equal to 282. Number of quires equal to 12014. Single solution: stl. Time of solution: 0.015
+Random string of length 535 with alphabet 13. Number of strings equal to 282. Number of quires equal to 12014. Parallel solution: trie. Time of solution: 0.016
+498
+Random string of length 489 with alphabet 5. Number of strings equal to 124. Number of quires equal to 26798. Single solution: stl. Time of solution: 0.015
+Random string of length 489 with alphabet 5. Number of strings equal to 124. Number of quires equal to 26798. Parallel solution: trie. Time of solution: 0.013
+499
+Random string of length 845 with alphabet 6. Number of strings equal to 161. Number of quires equal to 15757. Single solution: stl. Time of solution: 0.008
+Random string of length 845 with alphabet 6. Number of strings equal to 161. Number of quires equal to 15757. Parallel solution: trie. Time of solution: 0.025
+500
+Random string of length 131 with alphabet 12. Number of strings equal to 4. Number of quires equal to 7245. Single solution: stl. Time of solution: 0.003
+Random string of length 131 with alphabet 12. Number of strings equal to 4. Number of quires equal to 7245. Parallel solution: trie. Time of solution: -0.000
+501
+Random string of length 423 with alphabet 5. Number of strings equal to 301. Number of quires equal to 18046. Single solution: stl. Time of solution: 0.016
+Random string of length 423 with alphabet 5. Number of strings equal to 301. Number of quires equal to 18046. Parallel solution: trie. Time of solution: 0.023
+502
+Random string of length 726 with alphabet 8. Number of strings equal to 173. Number of quires equal to 27877. Single solution: stl. Time of solution: 0.010
+Random string of length 726 with alphabet 8. Number of strings equal to 173. Number of quires equal to 27877. Parallel solution: trie. Time of solution: 0.023
+503
+Random string of length 761 with alphabet 20. Number of strings equal to 327. Number of quires equal to 6972. Single solution: stl. Time of solution: 0.007
+Random string of length 761 with alphabet 20. Number of strings equal to 327. Number of quires equal to 6972. Parallel solution: trie. Time of solution: 0.043
+504
+Random string of length 510 with alphabet 10. Number of strings equal to 179. Number of quires equal to 16595. Single solution: stl. Time of solution: 0.006
+Random string of length 510 with alphabet 10. Number of strings equal to 179. Number of quires equal to 16595. Parallel solution: trie. Time of solution: 0.015
+505
+Random string of length 71 with alphabet 19. Number of strings equal to 142. Number of quires equal to 359. Single solution: stl. Time of solution: 0.000
+Random string of length 71 with alphabet 19. Number of strings equal to 142. Number of quires equal to 359. Parallel solution: trie. Time of solution: 0.001
+506
+Random string of length 74 with alphabet 2. Number of strings equal to 303. Number of quires equal to 16742. Single solution: stl. Time of solution: 0.005
+Random string of length 74 with alphabet 2. Number of strings equal to 303. Number of quires equal to 16742. Parallel solution: trie. Time of solution: 0.004
+507
+Random string of length 228 with alphabet 16. Number of strings equal to 382. Number of quires equal to 30572. Single solution: stl. Time of solution: -0.000
+Random string of length 228 with alphabet 16. Number of strings equal to 382. Number of quires equal to 30572. Parallel solution: trie. Time of solution: 0.028
+508
+Random string of length 672 with alphabet 9. Number of strings equal to 459. Number of quires equal to 22141. Single solution: stl. Time of solution: 0.010
+Random string of length 672 with alphabet 9. Number of strings equal to 459. Number of quires equal to 22141. Parallel solution: trie. Time of solution: 0.050
+509
+Random string of length 233 with alphabet 17. Number of strings equal to 253. Number of quires equal to 17495. Single solution: stl. Time of solution: 0.009
+Random string of length 233 with alphabet 17. Number of strings equal to 253. Number of quires equal to 17495. Parallel solution: trie. Time of solution: 0.012
+510
+Random string of length 530 with alphabet 4. Number of strings equal to 449. Number of quires equal to 27382. Single solution: stl. Time of solution: 0.013
+Random string of length 530 with alphabet 4. Number of strings equal to 449. Number of quires equal to 27382. Parallel solution: trie. Time of solution: 0.039
+511
+Random string of length 205 with alphabet 2. Number of strings equal to 249. Number of quires equal to 17134. Single solution: stl. Time of solution: 0.007
+Random string of length 205 with alphabet 2. Number of strings equal to 249. Number of quires equal to 17134. Parallel solution: trie. Time of solution: 0.009
+512
+Random string of length 224 with alphabet 18. Number of strings equal to 23. Number of quires equal to 26573. Single solution: stl. Time of solution: 0.007
+Random string of length 224 with alphabet 18. Number of strings equal to 23. Number of quires equal to 26573. Parallel solution: trie. Time of solution: 0.003
+513
+Random string of length 193 with alphabet 11. Number of strings equal to 401. Number of quires equal to 16828. Single solution: stl. Time of solution: 0.000
+Random string of length 193 with alphabet 11. Number of strings equal to 401. Number of quires equal to 16828. Parallel solution: trie. Time of solution: 0.016
+514
+Random string of length 609 with alphabet 16. Number of strings equal to 193. Number of quires equal to 11643. Single solution: stl. Time of solution: 0.005
+Random string of length 609 with alphabet 16. Number of strings equal to 193. Number of quires equal to 11643. Parallel solution: trie. Time of solution: 0.019
+515
+Random string of length 267 with alphabet 9. Number of strings equal to 186. Number of quires equal to 5049. Single solution: stl. Time of solution: 0.002
+Random string of length 267 with alphabet 9. Number of strings equal to 186. Number of quires equal to 5049. Parallel solution: trie. Time of solution: 0.009
+516
+Random string of length 681 with alphabet 16. Number of strings equal to 441. Number of quires equal to 13994. Single solution: stl. Time of solution: 0.006
+Random string of length 681 with alphabet 16. Number of strings equal to 441. Number of quires equal to 13994. Parallel solution: trie. Time of solution: 0.049
+517
+Random string of length 437 with alphabet 7. Number of strings equal to 265. Number of quires equal to 28044. Single solution: stl. Time of solution: 0.016
+Random string of length 437 with alphabet 7. Number of strings equal to 265. Number of quires equal to 28044. Parallel solution: trie. Time of solution: 0.015
+518
+Random string of length 226 with alphabet 10. Number of strings equal to 168. Number of quires equal to 18419. Single solution: stl. Time of solution: 0.008
+Random string of length 226 with alphabet 10. Number of strings equal to 168. Number of quires equal to 18419. Parallel solution: trie. Time of solution: 0.008
+519
+Random string of length 125 with alphabet 20. Number of strings equal to 196. Number of quires equal to 15625. Single solution: stl. Time of solution: 0.016
+Random string of length 125 with alphabet 20. Number of strings equal to 196. Number of quires equal to 15625. Parallel solution: trie. Time of solution: -0.000
+520
+Random string of length 526 with alphabet 13. Number of strings equal to 254. Number of quires equal to 11989. Single solution: stl. Time of solution: 0.000
+Random string of length 526 with alphabet 13. Number of strings equal to 254. Number of quires equal to 11989. Parallel solution: trie. Time of solution: 0.028
+521
+Random string of length 187 with alphabet 4. Number of strings equal to 436. Number of quires equal to 23724. Single solution: stl. Time of solution: 0.010
+Random string of length 187 with alphabet 4. Number of strings equal to 436. Number of quires equal to 23724. Parallel solution: trie. Time of solution: 0.015
+522
+Random string of length 231 with alphabet 1. Number of strings equal to 429. Number of quires equal to 31198. Single solution: stl. Time of solution: 0.006
+Random string of length 231 with alphabet 1. Number of strings equal to 429. Number of quires equal to 31198. Parallel solution: trie. Time of solution: 0.023
+523
+Random string of length 653 with alphabet 16. Number of strings equal to 203. Number of quires equal to 13302. Single solution: stl. Time of solution: 0.016
+Random string of length 653 with alphabet 16. Number of strings equal to 203. Number of quires equal to 13302. Parallel solution: trie. Time of solution: 0.015
+524
+Random string of length 935 with alphabet 8. Number of strings equal to 197. Number of quires equal to 32683. Single solution: stl. Time of solution: 0.013
+Random string of length 935 with alphabet 8. Number of strings equal to 197. Number of quires equal to 32683. Parallel solution: trie. Time of solution: 0.033
+525
+Random string of length 14 with alphabet 4. Number of strings equal to 413. Number of quires equal to 9647. Single solution: stl. Time of solution: 0.002
+Random string of length 14 with alphabet 4. Number of strings equal to 413. Number of quires equal to 9647. Parallel solution: trie. Time of solution: 0.002
+526
+Random string of length 746 with alphabet 17. Number of strings equal to 153. Number of quires equal to 5016. Single solution: stl. Time of solution: 0.003
+Random string of length 746 with alphabet 17. Number of strings equal to 153. Number of quires equal to 5016. Parallel solution: trie. Time of solution: 0.019
+527
+Random string of length 157 with alphabet 12. Number of strings equal to 132. Number of quires equal to 19104. Single solution: stl. Time of solution: 0.006
+Random string of length 157 with alphabet 12. Number of strings equal to 132. Number of quires equal to 19104. Parallel solution: trie. Time of solution: 0.006
+528
+Random string of length 268 with alphabet 6. Number of strings equal to 479. Number of quires equal to 9614. Single solution: stl. Time of solution: 0.006
+Random string of length 268 with alphabet 6. Number of strings equal to 479. Number of quires equal to 9614. Parallel solution: trie. Time of solution: 0.022
+529
+Random string of length 543 with alphabet 16. Number of strings equal to 156. Number of quires equal to 14864. Single solution: stl. Time of solution: 0.010
+Random string of length 543 with alphabet 16. Number of strings equal to 156. Number of quires equal to 14864. Parallel solution: trie. Time of solution: 0.017
+530
+Random string of length 963 with alphabet 7. Number of strings equal to 140. Number of quires equal to 26978. Single solution: stl. Time of solution: 0.014
+Random string of length 963 with alphabet 7. Number of strings equal to 140. Number of quires equal to 26978. Parallel solution: trie. Time of solution: 0.024
+531
+Random string of length 3 with alphabet 13. Number of strings equal to 85. Number of quires equal to 22163. Single solution: stl. Time of solution: 0.003
+Random string of length 3 with alphabet 13. Number of strings equal to 85. Number of quires equal to 22163. Parallel solution: trie. Time of solution: -0.000
+532
+Random string of length 85 with alphabet 7. Number of strings equal to 6. Number of quires equal to 4857. Single solution: stl. Time of solution: 0.001
+Random string of length 85 with alphabet 7. Number of strings equal to 6. Number of quires equal to 4857. Parallel solution: trie. Time of solution: 0.000
+533
+Random string of length 691 with alphabet 11. Number of strings equal to 209. Number of quires equal to 3021. Single solution: stl. Time of solution: 0.002
+Random string of length 691 with alphabet 11. Number of strings equal to 209. Number of quires equal to 3021. Parallel solution: trie. Time of solution: 0.023
+534
+Random string of length 588 with alphabet 14. Number of strings equal to 216. Number of quires equal to 27626. Single solution: stl. Time of solution: 0.013
+Random string of length 588 with alphabet 14. Number of strings equal to 216. Number of quires equal to 27626. Parallel solution: trie. Time of solution: 0.024
+535
+Random string of length 641 with alphabet 9. Number of strings equal to 284. Number of quires equal to 13884. Single solution: stl. Time of solution: 0.008
+Random string of length 641 with alphabet 9. Number of strings equal to 284. Number of quires equal to 13884. Parallel solution: trie. Time of solution: 0.029
+536
+Random string of length 266 with alphabet 17. Number of strings equal to 318. Number of quires equal to 19319. Single solution: stl. Time of solution: 0.008
+Random string of length 266 with alphabet 17. Number of strings equal to 318. Number of quires equal to 19319. Parallel solution: trie. Time of solution: 0.016
+537
+Random string of length 408 with alphabet 10. Number of strings equal to 318. Number of quires equal to 21780. Single solution: stl. Time of solution: 0.008
+Random string of length 408 with alphabet 10. Number of strings equal to 318. Number of quires equal to 21780. Parallel solution: trie. Time of solution: 0.024
+538
+Random string of length 449 with alphabet 8. Number of strings equal to 86. Number of quires equal to 7758. Single solution: stl. Time of solution: 0.003
+Random string of length 449 with alphabet 8. Number of strings equal to 86. Number of quires equal to 7758. Parallel solution: trie. Time of solution: 0.006
+539
+Random string of length 828 with alphabet 7. Number of strings equal to 134. Number of quires equal to 23885. Single solution: stl. Time of solution: 0.012
+Random string of length 828 with alphabet 7. Number of strings equal to 134. Number of quires equal to 23885. Parallel solution: trie. Time of solution: 0.024
+540
+Random string of length 587 with alphabet 13. Number of strings equal to 192. Number of quires equal to 3031. Single solution: stl. Time of solution: 0.002
+Random string of length 587 with alphabet 13. Number of strings equal to 192. Number of quires equal to 3031. Parallel solution: trie. Time of solution: 0.018
+541
+Random string of length 925 with alphabet 16. Number of strings equal to 482. Number of quires equal to 15040. Single solution: stl. Time of solution: 0.011
+Random string of length 925 with alphabet 16. Number of strings equal to 482. Number of quires equal to 15040. Parallel solution: trie. Time of solution: 0.073
+542
+Random string of length 16 with alphabet 17. Number of strings equal to 387. Number of quires equal to 11663. Single solution: stl. Time of solution: 0.006
+Random string of length 16 with alphabet 17. Number of strings equal to 387. Number of quires equal to 11663. Parallel solution: trie. Time of solution: 0.004
+543
+Random string of length 909 with alphabet 7. Number of strings equal to 327. Number of quires equal to 12157. Single solution: stl. Time of solution: 0.005
+Random string of length 909 with alphabet 7. Number of strings equal to 327. Number of quires equal to 12157. Parallel solution: trie. Time of solution: 0.049
+544
+Random string of length 107 with alphabet 13. Number of strings equal to 195. Number of quires equal to 24251. Single solution: stl. Time of solution: 0.011
+Random string of length 107 with alphabet 13. Number of strings equal to 195. Number of quires equal to 24251. Parallel solution: trie. Time of solution: 0.007
+545
+Random string of length 1 with alphabet 13. Number of strings equal to 280. Number of quires equal to 4823. Single solution: stl. Time of solution: 0.000
+Random string of length 1 with alphabet 13. Number of strings equal to 280. Number of quires equal to 4823. Parallel solution: trie. Time of solution: 0.001
+546
+Random string of length 467 with alphabet 7. Number of strings equal to 211. Number of quires equal to 30786. Single solution: stl. Time of solution: 0.012
+Random string of length 467 with alphabet 7. Number of strings equal to 211. Number of quires equal to 30786. Parallel solution: trie. Time of solution: 0.019
+547
+Random string of length 388 with alphabet 15. Number of strings equal to 447. Number of quires equal to 2837. Single solution: stl. Time of solution: 0.002
+Random string of length 388 with alphabet 15. Number of strings equal to 447. Number of quires equal to 2837. Parallel solution: trie. Time of solution: 0.029
+548
+Random string of length 908 with alphabet 19. Number of strings equal to 6. Number of quires equal to 10036. Single solution: stl. Time of solution: 0.004
+Random string of length 908 with alphabet 19. Number of strings equal to 6. Number of quires equal to 10036. Parallel solution: trie. Time of solution: 0.002
+549
+Random string of length 700 with alphabet 12. Number of strings equal to 483. Number of quires equal to 8907. Single solution: stl. Time of solution: 0.006
+Random string of length 700 with alphabet 12. Number of strings equal to 483. Number of quires equal to 8907. Parallel solution: trie. Time of solution: 0.055
+550
