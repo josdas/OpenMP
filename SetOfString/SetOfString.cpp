@@ -89,6 +89,7 @@ public:
         if(isParallel){
             omp_destroy_lock(T);
         }
+        delete T;
     }
     void set(){
         if(isParallel){
@@ -111,26 +112,28 @@ private:
     vector<myLock> lock;
     int next;
     int createNewVertex(){
-        return next++;
+        int temp;
+        #pragma omp critical
+        temp = next++;
+        return temp;
     }
     int getNext(int v, int nextChar) const {
         return nextVertex[v][nextChar];
     }
     void setNext(int v, int nextChar, int temp){
-        nextVertex[v][nextChar] += temp;
+        nextVertex[v][nextChar] = temp;
     }
     void addVertex(int v, int s){
+        #pragma omp atomic
         numberString[v] += s;
     }
     int getValue(int v) const {
         return numberString[v];
     }
     void setLock(int v){
-        #pragma omp crititcal
         lock[v].set();
     }
     void unsetLock(int v){
-        #pragma omp crititcal
         lock[v].unset();
     }
 public:
@@ -166,9 +169,7 @@ public:
             unsetLock(curVertex);
             curVertex = tempVertex;
         }
-        setLock(curVertex);
         addVertex(curVertex, 1);
-        unsetLock(curVertex);
     }
     int count(const string& s){
         int curVertex = 0;
@@ -225,6 +226,7 @@ public:
         for(auto s : str){
             out << s << '\n';
         }
+        out << "\n\n";
         for(auto s : query){
             out << s << '\n';
         }
@@ -232,17 +234,54 @@ public:
     }
 };
 
+
+Test readTest(const char *name){
+    ifstream in(name);
+    string paramter;
+    getline(in, paramter);
+    Test test(paramter);
+    int n, m;
+    in >> n >> m;
+    for(int i = 0; i < n; i++){
+        string s;
+        in >> s;
+        test.addStr(s);
+    }
+    for(int i = 0; i < m; i++){
+        string s;
+        in >> s;
+        test.addQuery(s);
+    }
+    in.close();
+    return test;
+}
+
+void printVector(const char *name, const vector<int> &T){
+    ofstream out(name, std::ofstream::out);
+    out << T.size() << '\n';
+    for(auto s : T){
+        out << s << ' ';
+    }
+    out << '\n';
+}
+
 vector<int> runTestParallel(const Test &test, StringSet* T){
     Timer timer;
     #pragma omp parallel for
     for(int i = 0; i < test.getNumberStr(); i++){
-        T->addString(test.getStr(i));
+        string t = test.getStr(i);
+        T->addString(t);
     }
+    #pragma omp barrier
+
     vector<int> result(test.getNumberQuery());
     #pragma omp parallel for shared(result)
     for(int i = 0; i < test.getNumberQuery(); i++){
-        result[i] = T->count(test.getQuery(i));
+        string t = test.getQuery(i);
+        result[i] = T->count(t);
     }
+    #pragma omp barrier
+
     printf("%s Parallel solution: %s. Time of solution: %0.3f\n",
         test.getParameter().c_str(), T->getName().c_str(), timer.getTime());
     return result;
@@ -299,6 +338,8 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
         if(answers[0] != answers[i]){
             printf("Something went wrong.\n");
             test.print("BadTest.txt");
+            printVector("ResultA.txt", answers[0]);
+            printVector("ResultB.txt", answers[i]);
             assert(0);
         }
     }
@@ -306,25 +347,28 @@ void compareSolutions(vector<StringSet*> solutions, vector<bool> isParallel, Tes
 
 void stressTest(){
     while(1){
-        int n = rand() % 1000 + 1;
-        int a = rand() % 26 + 1;
-        int q = rand() % 1000 + 1;
-        int w = rand() % 1000 + 1;
+        int n = rand() % 5 + 1;
+        int a = rand() % 5 + 1;
+        int q = rand() % 100 + 1;
+        int w = rand() % 100 + 1;
         Test test = generatorRandomTest(n, a, q, w);
-        StlSet *A = new StlSet();
-        Trie *B = new Trie(a, n * q + 1);
-        compareSolutions({A, B}, {0, 1}, test);
-        delete A;
-        delete B;
+        StlSet A;
+        Trie B(a, n * q + 1);
+        compareSolutions({&A, &B}, {0, 1}, test);
     }
 }
 
 int main(){
     //freopen(".txt", "w", stdout);
     srand(time(0));
-    //omp_set_nested(true);
     stressTest();
-    Test test = generatorRandomTest(100, 20, 100, 1000000);
-    compareSolutions({new StlSet(), new Trie(20, 100 * 100 + 5)}, {0, 1}, test);
-
+    Test test = readTest("BadTest.txt");
+    int tt = 0;
+    while(true){
+        StlSet A;
+        Trie B(20, 100 * 100 + 5);
+        compareSolutions({&A, &B}, {0, 1}, test);
+        cout << tt << "\n";
+        tt++;
+    }
 }
