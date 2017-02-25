@@ -20,6 +20,10 @@ double getCurTime(){
     return clock() * 1.0 / CLOCKS_PER_SEC;
 }
 
+int mrand(){
+    return (rand() << 16) ^ rand();
+}
+
 template <typename T>
 string toString(T temp){
     ostringstream ss;
@@ -104,14 +108,16 @@ public:
 };
 
 
-class Trie : public StringSet{
+class TrieStatic : public StringSet{
 private:
     const string str = "trie";
+
     int alphabet, size;
     vector<vector<int> > nextVertex;
     vector<int> numberString;
     vector<myLock> lock;
     int next;
+
     int createNewVertex(){
         int temp;
         #pragma omp critical
@@ -138,7 +144,7 @@ private:
         lock[v].unset();
     }
 public:
-    Trie(int _alphabet, int _size) : alphabet(_alphabet), size(_size){
+    TrieStatic(int _alphabet, int _size) : alphabet(_alphabet), size(_size){
         next = 0;
         lock.resize(size);
         numberString.resize(size);
@@ -149,7 +155,7 @@ public:
         return str;
     }
     void print(){
-        printf("It's trie{\n");
+        printf("It's TrieStatic{\n");
         for(int i = 0; i < size; i++){
             for(int j = 0; j  < alphabet; j++){
                 printf("%d ", nextVertex[i][j]);
@@ -187,6 +193,111 @@ public:
         int result;
         result = getValue(curVertex);
         return result;
+    }
+};
+
+class HashTableStatic : public StringSet{
+private:
+    const long long mod1 = 1e9 + 7; // prime numbers
+    const long long mod2 = 1e9 + 9;
+    const long long p1 = 259;
+    const long long p2 = 133123;
+    const int k = 3; // real size >= (the number of elements in the hash table) * k
+    const string str = "hash table";
+
+    vector<myLock> lock;
+    vector<long long> bucket;
+    vector<int> numberString;
+    int size;
+
+    long long getHash(const string &str, long long mod, long long p) const {
+        long long h = 0;
+        for(int i = 0; i < str.size(); i++){
+            h = (h * p) % mod;
+            h += str[i] + 1;
+        }
+        return h;
+    }
+    long long getDoubleHash(const string &str) const {
+
+        long long h1 = getHash(str, mod1, p1);
+        long long h2 = getHash(str, mod2, p2);
+        return h1 * mod2 + h2;
+    }
+    int getIndex(long long ind) const {
+        return ind & (size - 1); // ind & (size - 1) == ind % size
+    }
+    int getIndex(const string  &str) const {
+        long long ind = getDoubleHash(str);
+        return getIndex(ind);
+    }
+    void addValue(int v, int s){
+        #pragma omp atomic
+        numberString[v] += s;
+    }
+    int getValue(int v) const {
+        return numberString[v];
+    }
+    void setLock(int v){
+        lock[v].set();
+    }
+    void unsetLock(int v){
+        lock[v].unset();
+    }
+    void setBucket(int ind, long long val){
+        bucket[ind] = val;
+    }
+    long long getBucket(int ind) const {
+        return bucket[ind];
+    }
+public:
+    string getName(){
+        return str;
+    }
+    HashTableStatic(int _size){
+        for(int i = 1; ; i *= 2){
+            if(i >= _size * k){
+                size = i;
+                break;
+            }
+        }
+        lock.resize(size);
+        bucket.resize(size, -1);
+        numberString.resize(size);
+    }
+    void addString(const string& s){
+        long long h = getDoubleHash(s);
+        int ind = getIndex(h);
+        while(true){
+            setLock(ind);
+            long long temp = getBucket(ind);
+            if(temp == -1){
+                setBucket(ind, h);
+                temp = h;
+            }
+            unsetLock(ind);
+            if(temp == h){
+                addValue(ind, 1);
+                break;
+            }
+            ind = getIndex(ind + 1);
+        }
+    }
+    int count(const string& s){
+        long long h = getDoubleHash(s);
+        int ind = getIndex(h);
+        while(true){
+            setLock(ind);
+            long long temp = getBucket(ind);
+            unsetLock(ind);
+            if(temp == -1){
+                return 0;
+            }
+            if(temp == h){
+                return getValue(ind);
+            }
+            ind = getIndex(ind + 1);
+        }
     }
 };
 
@@ -303,22 +414,33 @@ vector<int> runTestSingle(const Test &test, StringSet* T){
 string generatorString(int length, int alphabet){
     string result;
     for(int i = 0; i < length; i++){
-        result += rand() % alphabet + 'a';
+        result += mrand() % alphabet + 'a';
     }
     return result;
 }
 
-Test generatorRandomTest(int length, int alphabet, int numberString, int numberQuery){
-    Test test("Random string of length " + toString(length) +
+string generatorStringPrefix(int length, int alphabet){
+    string result;
+    for(int i = 0; i < length / 2; i++){
+        result += 'a';
+    }
+    for(int i = length / 2; i < length; i++){
+        result += mrand() % alphabet + 'a';
+    }
+    return result;
+}
+
+Test generatormrandomTest(int length, int alphabet, int numberString, int numberQuery){
+    Test test("mrandom string of length " + toString(length) +
         " with alphabet " + toString(alphabet) + ". " +
         "Number of strings equal to " + toString(numberString) + ". " +
         "Number of quires equal to " + toString(numberQuery) + ".");
 
     for(int i = 0; i < numberString; i++){
-        test.addStr(generatorString(length, alphabet));
+        test.addStr(generatorStringPrefix(length, alphabet));
     }
     for(int i = 0; i < numberQuery; i++){
-        test.addQuery(generatorString(length, alphabet));
+        test.addQuery(generatorStringPrefix(length, alphabet));
     }
     return test;
 }
@@ -348,21 +470,22 @@ void stressTest(){
     int t = 0;
     while(1){
         t++;
-        int n = rand() % 300 + 1;
-        int a = rand() % 20 + 1;
-        int q = rand() % 500000 + 1;
-        int w = rand() % 500000 + 1;
-        Test test = generatorRandomTest(n, a, q, w);
+        int n = mrand() % 100 + 1;
+        int a = mrand() % 10 + 1;
+        int q = mrand() % 100000 + 1;
+        int w = mrand() % 100000 + 1;
+        Test test = generatormrandomTest(n, a, q, w);
         StlSet A;
-        Trie B(a, n * q + 1);
-        compareSolutions({&A, &B}, {0, 1}, test);
+        TrieStatic B(a, n * q + 1);
+        HashTableStatic C(q);
+        compareSolutions({&A, &B, &C}, {0, 1, 1}, test);
         cout << t << "\n";
         cerr << t << "\n";
     }
 }
 
 int main(){
-    freopen(".txt", "w", stdout);
+    freopen("TrieVsHashVsStlCommonPref.txt", "w", stdout);
     srand(time(0));
     stressTest();
 }

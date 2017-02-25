@@ -1,0 +1,104 @@
+mrandom string of length 55 with alphabet 2. Number of strings equal to 18039. Number of quires equal to 82756. Single solution: stl. Time of solution: 0.114
+mrandom string of length 55 with alphabet 2. Number of strings equal to 18039. Number of quires equal to 82756. Parallel solution: trie. Time of solution: 0.117
+mrandom string of length 55 with alphabet 2. Number of strings equal to 18039. Number of quires equal to 82756. Parallel solution: hash table. Time of solution: 0.109
+1
+mrandom string of length 99 with alphabet 7. Number of strings equal to 80555. Number of quires equal to 80023. Single solution: stl. Time of solution: 0.262
+mrandom string of length 99 with alphabet 7. Number of strings equal to 80555. Number of quires equal to 80023. Parallel solution: trie. Time of solution: 0.707
+mrandom string of length 99 with alphabet 7. Number of strings equal to 80555. Number of quires equal to 80023. Parallel solution: hash table. Time of solution: 0.267
+2
+mrandom string of length 97 with alphabet 9. Number of strings equal to 88259. Number of quires equal to 86854. Single solution: stl. Time of solution: 0.360
+mrandom string of length 97 with alphabet 9. Number of strings equal to 88259. Number of quires equal to 86854. Parallel solution: trie. Time of solution: 0.777
+mrandom string of length 97 with alphabet 9. Number of strings equal to 88259. Number of quires equal to 86854. Parallel solution: hash table. Time of solution: 0.305
+3
+mrandom string of length 37 with alphabet 1. Number of strings equal to 10301. Number of quires equal to 61975. Single solution: stl. Time of solution: 0.015
+mrandom string of length 37 with alphabet 1. Number of strings equal to 10301. Number of quires equal to 61975. Parallel solution: trie. Time of solution: 0.063
+mrandom string of length 37 with alphabet 1. Number of strings equal to 10301. Number of quires equal to 61975. Parallel solution: hash table. Time of solution: 0.328
+4
+mrandom string of length 97 with alphabet 3. Number of strings equal to 15303. Number of quires equal to 58932. Single solution: stl. Time of solution: 0.062
+mrandom string of length 97 with alphabet 3. Number of strings equal to 15303. Number of quires equal to 58932. Parallel solution: trie. Time of solution: 0.125
+mrandom string of length 97 with alphabet 3. Number of strings equal to 15303. Number of quires equal to 58932. Parallel solution: hash table. Time of solution: 0.125
+5
+mrandom string of length 49 with alphabet 8. Number of strings equal to 33620. Number of quires equal to 4132. Single solution: stl. Time of solution: 0.046
+mrandom string of length 49 with alphabet 8. Number of strings equal to 33620. Number of quires equal to 4132. Parallel solution: trie. Time of solution: 0.142
+mrandom string of length 49 with alphabet 8. Number of strings equal to 33620. Number of quires equal to 4132. Parallel solution: hash table. Time of solution: 0.037
+6
+mrandom string of length 10 with alphabet 1. Number of strings equal to 15631. Number of quires equal to 10483. Single solution: stl. Time of solution: 0.001
+mrandom string of length 10 with alphabet 1. Number of strings equal to 15631. Number of quires equal to 10483. Parallel solution: trie. Time of solution: 0.052
+mrandom string of length 10 with alphabet 1. Number of strings equal to 15631. Number of quires equal to 10483. Parallel solution: hash table. Time of solution: 0.074
+7
+mrandom string of length 53 with alphabet 3. Number of strings equal to 12672. Number of quires equal to 78640. Single solution: stl. Time of solution: 0.079
+mrandom string of length 53 with alphabet 3. Number of strings equal to 12672. Number of quires equal to 78640. Parallel solution: trie. Time of solution: 0.062
+mrandom string of length 53 with alphabet 3. Number of strings equal to 12672. Number of quires equal to 78640. Parallel solution: hash table. Time of solution: 0.094
+8
+mrandom string of length 80 with alphabet 4. Number of strings equal to 55688. Number of quires equal to 77694. Single solution: stl. Time of solution: 0.110
+mrandom string of length 80 with alphabet 4. Number of strings equal to 55688. Number of quires equal to 77694. Parallel solution: trie. Time of solution: 0.281
+mrandom string of length 80 with alphabet 4. Number of strings equal to 55688. Number of quires equal to 77694. Parallel solution: hash table. Time of solution: 0.219
+9
+mrandom string of length 33 with alphabet 1. Number of strings equal to 6324. Number of quires equal to 28731. Single solution: stl. Time of solution: 0.007
+mrandom string of length 33 with alphabet 1. Number of strings equal to 6324. Number of quires equal to 28731. Parallel solution: trie. Time of solution: 0.029
+mrandom string of length 33 with alphabet 1. Number of strings equal to 6324. Number of quires equal to 28731. Parallel solution: hash table. Time of solution: 0.192
+10
+mrandom string of length 20 with alphabet 3. Number of strings equal to 88726. Number of quires equal to 43823. Single solution: stl. Time of solution: 0.148
+mrandom string of length 20 with alphabet 3. Number of strings equal to 88726. Number of quires equal to 43823. Parallel solution: trie. Time of solution: 0.344
+mrandom string of length 20 with alphabet 3. Number of strings equal to 88726. Number of quires equal to 43823. Parallel solution: hash table. Time of solution: 0.087
+11
+mrandom string of length 69 with alphabet 6. Number of strings equal to 30082. Number of quires equal to 17329. Single solution: stl. Time of solution: 0.068
+mrandom string of length 69 with alphabet 6. Number of strings equal to 30082. Number of quires equal to 17329. Parallel solution: trie. Time of solution: 0.213
+mrandom string of length 69 with alphabet 6. Number of strings equal to 30082. Number of quires equal to 17329. Parallel solution: hash table. Time of solution: 0.083
+12
+mrandom string of length 5 with alphabet 3. Number of strings equal to 38968. Number of quires equal to 18469. Single solution: stl. Time of solution: 0.006
+mrandom string of length 5 with alphabet 3. Number of strings equal to 38968. Number of quires equal to 18469. Parallel solution: trie. Time of solution: 0.114
+mrandom string of length 5 with alphabet 3. Number of strings equal to 38968. Number of quires equal to 18469. Parallel solution: hash table. Time of solution: -0.000
+13
+mrandom string of length 33 with alphabet 1. Number of strings equal to 24643. Number of quires equal to 51220. Single solution: stl. Time of solution: 0.016
+mrandom string of length 33 with alphabet 1. Number of strings equal to 24643. Number of quires equal to 51220. Parallel solution: trie. Time of solution: 0.113
+mrandom string of length 33 with alphabet 1. Number of strings equal to 24643. Number of quires equal to 51220. Parallel solution: hash table. Time of solution: 0.359
+14
+mrandom string of length 69 with alphabet 4. Number of strings equal to 18251. Number of quires equal to 64880. Single solution: stl. Time of solution: 0.069
+mrandom string of length 69 with alphabet 4. Number of strings equal to 18251. Number of quires equal to 64880. Parallel solution: trie. Time of solution: 0.114
+mrandom string of length 69 with alphabet 4. Number of strings equal to 18251. Number of quires equal to 64880. Parallel solution: hash table. Time of solution: 0.106
+15
+mrandom string of length 20 with alphabet 9. Number of strings equal to 68212. Number of quires equal to 53974. Single solution: stl. Time of solution: 0.141
+mrandom string of length 20 with alphabet 9. Number of strings equal to 68212. Number of quires equal to 53974. Parallel solution: trie. Time of solution: 0.266
+mrandom string of length 20 with alphabet 9. Number of strings equal to 68212. Number of quires equal to 53974. Parallel solution: hash table. Time of solution: 0.125
+16
+mrandom string of length 58 with alphabet 4. Number of strings equal to 78113. Number of quires equal to 8647. Single solution: stl. Time of solution: 0.125
+mrandom string of length 58 with alphabet 4. Number of strings equal to 78113. Number of quires equal to 8647. Parallel solution: trie. Time of solution: 0.360
+mrandom string of length 58 with alphabet 4. Number of strings equal to 78113. Number of quires equal to 8647. Parallel solution: hash table. Time of solution: 0.093
+17
+mrandom string of length 67 with alphabet 9. Number of strings equal to 74331. Number of quires equal to 55048. Single solution: stl. Time of solution: 0.195
+mrandom string of length 67 with alphabet 9. Number of strings equal to 74331. Number of quires equal to 55048. Parallel solution: trie. Time of solution: 0.437
+mrandom string of length 67 with alphabet 9. Number of strings equal to 74331. Number of quires equal to 55048. Parallel solution: hash table. Time of solution: 0.141
+18
+mrandom string of length 92 with alphabet 1. Number of strings equal to 5594. Number of quires equal to 17591. Single solution: stl. Time of solution: 0.012
+mrandom string of length 92 with alphabet 1. Number of strings equal to 5594. Number of quires equal to 17591. Parallel solution: trie. Time of solution: 0.029
+mrandom string of length 92 with alphabet 1. Number of strings equal to 5594. Number of quires equal to 17591. Parallel solution: hash table. Time of solution: 0.078
+19
+mrandom string of length 33 with alphabet 7. Number of strings equal to 37129. Number of quires equal to 70445. Single solution: stl. Time of solution: 0.143
+mrandom string of length 33 with alphabet 7. Number of strings equal to 37129. Number of quires equal to 70445. Parallel solution: trie. Time of solution: 0.121
+mrandom string of length 33 with alphabet 7. Number of strings equal to 37129. Number of quires equal to 70445. Parallel solution: hash table. Time of solution: 0.094
+20
+mrandom string of length 47 with alphabet 6. Number of strings equal to 76706. Number of quires equal to 96684. Single solution: stl. Time of solution: 0.203
+mrandom string of length 47 with alphabet 6. Number of strings equal to 76706. Number of quires equal to 96684. Parallel solution: trie. Time of solution: 0.324
+mrandom string of length 47 with alphabet 6. Number of strings equal to 76706. Number of quires equal to 96684. Parallel solution: hash table. Time of solution: 0.176
+21
+mrandom string of length 3 with alphabet 5. Number of strings equal to 30076. Number of quires equal to 9556. Single solution: stl. Time of solution: -0.000
+mrandom string of length 3 with alphabet 5. Number of strings equal to 30076. Number of quires equal to 9556. Parallel solution: trie. Time of solution: 0.109
+mrandom string of length 3 with alphabet 5. Number of strings equal to 30076. Number of quires equal to 9556. Parallel solution: hash table. Time of solution: 0.016
+22
+mrandom string of length 8 with alphabet 7. Number of strings equal to 40835. Number of quires equal to 26939. Single solution: stl. Time of solution: 0.015
+mrandom string of length 8 with alphabet 7. Number of strings equal to 40835. Number of quires equal to 26939. Parallel solution: trie. Time of solution: 0.157
+mrandom string of length 8 with alphabet 7. Number of strings equal to 40835. Number of quires equal to 26939. Parallel solution: hash table. Time of solution: 0.000
+23
+mrandom string of length 77 with alphabet 9. Number of strings equal to 69382. Number of quires equal to 65773. Single solution: stl. Time of solution: 0.209
+mrandom string of length 77 with alphabet 9. Number of strings equal to 69382. Number of quires equal to 65773. Parallel solution: trie. Time of solution: 0.543
+mrandom string of length 77 with alphabet 9. Number of strings equal to 69382. Number of quires equal to 65773. Parallel solution: hash table. Time of solution: 0.188
+24
+mrandom string of length 59 with alphabet 1. Number of strings equal to 92880. Number of quires equal to 17716. Single solution: stl. Time of solution: 0.031
+mrandom string of length 59 with alphabet 1. Number of strings equal to 92880. Number of quires equal to 17716. Parallel solution: trie. Time of solution: 0.297
+mrandom string of length 59 with alphabet 1. Number of strings equal to 92880. Number of quires equal to 17716. Parallel solution: hash table. Time of solution: 0.344
+25
+mrandom string of length 98 with alphabet 6. Number of strings equal to 75334. Number of quires equal to 36850. Single solution: stl. Time of solution: 0.172
+mrandom string of length 98 with alphabet 6. Number of strings equal to 75334. Number of quires equal to 36850. Parallel solution: trie. Time of solution: 0.615
+mrandom string of length 98 with alphabet 6. Number of strings equal to 75334. Number of quires equal to 36850. Parallel solution: hash table. Time of solution: 0.172
+26
